@@ -417,7 +417,7 @@ Column {
         interval: appSettings.delayMessageRead ? 1000 : 0
         property bool viewAll
         function queueViewMessages(all) {
-            if (!readable) return
+            if (!readable || appSettings.xDontReadMessages) return
             viewAll = all
             restart()
         }
@@ -866,6 +866,8 @@ Column {
             onRunningChanged: if (!running)
                                   tdLibWrapper.sendChatAction(chatId, topicId)
             function run(action) {
+                if (appSettings.xDontSendTyping) return
+
                 this.action = action
                 restart()
             }

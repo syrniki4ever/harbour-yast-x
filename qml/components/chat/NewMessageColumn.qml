@@ -643,7 +643,8 @@ Column {
 
                 onTextChanged: {
                     textReplacementTimer.restart()
-                    tdLibWrapper.sendChatAction(chatInformation.id, text ? TDLibAPI.Typing : TDLibAPI.Cancel, topicId)
+                    if (!appSettings.xDontSendTyping)
+                        tdLibWrapper.sendChatAction(chatInformation.id, text ? TDLibAPI.Typing : TDLibAPI.Cancel, topicId)
                 }
             }
 

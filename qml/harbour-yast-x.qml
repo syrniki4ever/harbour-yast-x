@@ -45,7 +45,8 @@ ApplicationWindow {
     }
 
     Connections {
-        target: Qt.application
+        target: appSettings.xDontSendOnline ? undefined : Qt.application
+        ignoreUnknownSignals: true
         onStateChanged:
             tdData.options.online = Qt.application.state === Qt.ApplicationActive
     }
@@ -130,6 +131,11 @@ ApplicationWindow {
 
             property bool dnbCallRingtone: true
             property bool inAppChatMessagesNgf: true
+
+            // YAST X
+            property bool xDontSendOnline
+            property bool xDontSendTyping
+            property bool xDontReadMessages
         }
     }
 

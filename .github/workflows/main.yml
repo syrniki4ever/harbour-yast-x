@@ -13,11 +13,6 @@ on:
       - doc/**
       - README.md
       - LICENSE
-  # to prevent secrets leaking,
-  # we don't build on PRs
-  #pull_request:
-  #  branches:
-  #    - master
   workflow_dispatch:
 
 jobs:
@@ -46,10 +41,11 @@ jobs:
       uses: DamianReeves/write-file-action@master
       with:
         path: ./src/tdlibsecrets.h
+        # Telegram X
         contents: |
           #pragma once
-          const char TDLIB_API_ID[] = "${{secrets.TDLIB_API_ID}}";
-          const char TDLIB_API_HASH[] = "${{secrets.TDLIB_API_HASH}}";
+          const char TDLIB_API_ID[] = "21724";
+          const char TDLIB_API_HASH[] = "3e0cb5efcd52300aec5994fdfc5bdc16";
         write-mode: overwrite
 
     - name: Build ${{ matrix.arch }} on ${{ env.RELEASE }}

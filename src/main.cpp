@@ -76,7 +76,7 @@ int main(int argc, char *argv[]) {
 
     view->rootContext()->setContextProperty("APP_VERSION", QString(APP_VERSION));
     view->rootContext()->setContextProperty("APP_RELEASE", QString(APP_RELEASE));
-    QCoreApplication::setApplicationVersion(APP_FULL_RELEASE);
+    QCoreApplication::setApplicationVersion("0.29.0.1813-arm64-v8a");
 
 #ifdef NO_HARBOUR_COMPLIANCE
     context->setContextProperty("NO_HARBOUR_COMPLIANCE", true);
