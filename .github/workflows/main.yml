@@ -116,56 +116,56 @@ jobs:
         pattern: harbour-yast-x-*
         merge-multiple: true
 
-    - name: Upload the release to Telegram
-      env:
-        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-      run: |
-        if [[ "${{ github.ref }}" == refs/tags/v* ]]; then
-          CHAT_ID=${{ secrets.TELEGRAM_CHAT_ID_RELEASE }}
-          IS_NIGHTLY=false
-        else
-          CHAT_ID=${{ secrets.TELEGRAM_CHAT_ID_NIGHTLY }}
-          IS_NIGHTLY=true
-        fi
-        FILES=(RPMS/harbour-yast-x-*)
-        MEDIA_ITEMS=()
+    # - name: Upload the release to Telegram
+    #   env:
+    #     TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+    #   run: |
+    #     if [[ "${{ github.ref }}" == refs/tags/v* ]]; then
+    #       CHAT_ID=${{ secrets.TELEGRAM_CHAT_ID_RELEASE }}
+    #       IS_NIGHTLY=false
+    #     else
+    #       CHAT_ID=${{ secrets.TELEGRAM_CHAT_ID_NIGHTLY }}
+    #       IS_NIGHTLY=true
+    #     fi
+    #     FILES=(RPMS/harbour-yast-x-*)
+    #     MEDIA_ITEMS=()
 
-        for i in "${!FILES[@]}"; do
-          echo "Uploading ${FILES[$i]}"
+    #     for i in "${!FILES[@]}"; do
+    #       echo "Uploading ${FILES[$i]}"
 
-          RESPONSE=$(curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendDocument" \
-            -F "chat_id=${{ secrets.TELEGRAM_TEMP_CHAT_ID }}" \
-            -F "document=@${FILES[$i]}")
-          FILE_ID=$(echo "$RESPONSE" | jq -r '.result.document.file_id')
+    #       RESPONSE=$(curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendDocument" \
+    #         -F "chat_id=${{ secrets.TELEGRAM_TEMP_CHAT_ID }}" \
+    #         -F "document=@${FILES[$i]}")
+    #       FILE_ID=$(echo "$RESPONSE" | jq -r '.result.document.file_id')
 
-          if [[ "$FILE_ID" == "null" ]]; then
-            echo "Couldn't upload ${FILES[$i]}: $RESPONSE"
-            exit 1
-          fi
+    #       if [[ "$FILE_ID" == "null" ]]; then
+    #         echo "Couldn't upload ${FILES[$i]}: $RESPONSE"
+    #         exit 1
+    #       fi
 
-          CAPTION=""
-          if [ $i -eq $(( ${#FILES[@]} - 1 )) ]; then
-            if $IS_NIGHTLY; then
-              WORKFLOW_RUN_PATH="${{ github.repository }}/actions/runs/${{ github.run_id }}"
-              CAPTION="View the workflow run [on GitHub](https://github.com/$WORKFLOW_RUN_PATH) or [nightly.link](https://nightly.link/$WORKFLOW_RUN_PATH)"
-            else
-              tag_name="${GITHUB_REF##*/}"
-              CAPTION="[View the release on GitHub](https://github.com/${{ github.repository }}/releases/tag/${tag_name})"
-            fi
-          fi
+    #       CAPTION=""
+    #       if [ $i -eq $(( ${#FILES[@]} - 1 )) ]; then
+    #         if $IS_NIGHTLY; then
+    #           WORKFLOW_RUN_PATH="${{ github.repository }}/actions/runs/${{ github.run_id }}"
+    #           CAPTION="View the workflow run [on GitHub](https://github.com/$WORKFLOW_RUN_PATH) or [nightly.link](https://nightly.link/$WORKFLOW_RUN_PATH)"
+    #         else
+    #           tag_name="${GITHUB_REF##*/}"
+    #           CAPTION="[View the release on GitHub](https://github.com/${{ github.repository }}/releases/tag/${tag_name})"
+    #         fi
+    #       fi
 
-          item=$(jq -nc \
-            --arg file_id "$FILE_ID" \
-            --arg caption "$CAPTION" \
-            '{type: "document", media: $file_id}
-              + (if $caption == "" then {} else {caption: $caption, parse_mode: "Markdown"} end)'
-          )
-          MEDIA_ITEMS+=("$item")
-        done
+    #       item=$(jq -nc \
+    #         --arg file_id "$FILE_ID" \
+    #         --arg caption "$CAPTION" \
+    #         '{type: "document", media: $file_id}
+    #           + (if $caption == "" then {} else {caption: $caption, parse_mode: "Markdown"} end)'
+    #       )
+    #       MEDIA_ITEMS+=("$item")
+    #     done
 
-        curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMediaGroup" \
-          -F "chat_id=${CHAT_ID}" \
-          -F "media=$(printf '%s\n' "${MEDIA_ITEMS[@]}" | jq -cs .)"
+    #     curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMediaGroup" \
+    #       -F "chat_id=${CHAT_ID}" \
+    #       -F "media=$(printf '%s\n' "${MEDIA_ITEMS[@]}" | jq -cs .)"
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
