@@ -1,4 +1,4 @@
-Name:       harbour-yast-client
+Name:       harbour-yast-x
 
 %define __provides_exclude_from ^%{_datadir}/.*$
 %define __requires_exclude ^libtdjson|libgstreamer.*$

@@ -14,7 +14,7 @@
 #include <QStandardPaths>
 
 // The default filter can be overridden by QT_LOGGING_RULES envinronment variable, e.g.
-// QT_LOGGING_RULES="yaqtlib.*=true;yast-client.*=true" harbour-yast-client
+// QT_LOGGING_RULES="yaqtlib.*=true;yast-client.*=true" harbour-yast-x
 #if defined (QT_DEBUG) || defined(DEBUG)
 #  define DEFAULT_LOG_FILTER "yaqtlib.*=true\nyast-client.*=true\nlottieqt.*=true"
 #else
@@ -40,8 +40,8 @@ int main(int argc, char *argv[]) {
 
     QQmlContext *context = view->rootContext();
 
-    const QString dbusPath = "/io/roundedrectangle/yast";
-    const QString dbusServiceName = "io.roundedrectangle.yast-client";
+    const QString dbusPath = "/io/syrniki/yast";
+    const QString dbusServiceName = "io.syrniki.yast-x";
 
     const QUrl appIconPath = SailfishApp::pathTo("images/yast-client-notification.png"),
             incomingSoundPath = SailfishApp::pathTo("assets/message_incoming.wav"),

@@ -27,7 +27,7 @@ Dialog {
         }
         wrapMode: PagedView.NoWrap
         model: [
-            {image: Qt.resolvedUrl('../../images/yast-client.svg'), title: "YAST Client", description: qsTr("YAST Client is a yet another SailfishOS Telegram client")},
+            {image: Qt.resolvedUrl('../../images/yast-client.svg'), title: "YAST X", description: qsTr("YAST Client is a yet another SailfishOS Telegram client")},
             {image: Qt.resolvedUrl('../../images/folders/icon-m-folder-airplane.svg'), title: "Telegram", description: qsTr("YAST is not an official Telegram client, but it uses the official Telegram API through TDLib")},
             {image: Qt.resolvedUrl('../../images/icon-tour-free.svg'), title: qsTr("Free"), description: qsTr("Telegram provides free unlimited cloud storage for chats and media")},
             {image: Qt.resolvedUrl('../../images/icon-tour-secure.svg'), title: qsTr("Secure"), description: qsTr("Telegram keeps your messages safe from hacker attacks")},

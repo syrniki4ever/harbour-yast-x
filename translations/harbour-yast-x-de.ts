@@ -1,228 +1,228 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="it_IT">
+<TS version="2.1" language="de_DE">
 <context>
     <name>AboutPage</name>
     <message>
         <source>About YAST</source>
-        <translation>Info su YAST</translation>
+        <translation type="unfinished">Über YAST</translation>
     </message>
     <message>
         <source>A Telegram client for Sailfish OS</source>
-        <translation>Un client Telegram per Sailfish OS</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation>Traduzioni</translation>
+        <translation type="unfinished">Übersetzungen</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation>Italiano</translation>
+        <translation type="unfinished">Italienisch</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation>Russo</translation>
+        <translation type="unfinished">Russisch</translation>
     </message>
     <message>
         <source>Fernschreiber translations</source>
-        <translation>Traduzioni Yast</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chinese</source>
-        <translation>Cinese</translation>
+        <translation type="unfinished">Chinesisch</translation>
     </message>
     <message>
         <source>Finnish</source>
-        <translation>Finlandese</translation>
+        <translation type="unfinished">Finnisch</translation>
     </message>
     <message>
         <source>French</source>
-        <translation>Francese</translation>
+        <translation type="unfinished">Französisch</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation>Ungherese</translation>
+        <translation type="unfinished">Ungarisch</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation>Polacco</translation>
+        <translation type="unfinished">Polnisch</translation>
     </message>
     <message>
         <source>Slovak</source>
-        <translation>Slovacco</translation>
+        <translation type="unfinished">Slowakisch</translation>
     </message>
     <message>
         <source>Spanish</source>
-        <translation>Spagnolo</translation>
+        <translation type="unfinished">Spanisch</translation>
     </message>
     <message>
         <source>Swedish</source>
-        <translation>Svedese</translation>
+        <translation type="unfinished">Schwedisch</translation>
     </message>
     <message>
         <source>This application is a fork of Fernschreiber, and wouldn&apos;t be possible without it. Thanks to everyone who developed and contributed to it!</source>
-        <translation>Questa applicazione è un fork di Fernschreiber, e non sarebbe possibile senza di esso. Grazie a tutti quelli che l&apos;hanno sviluppata o hanno contribuito!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Telegram Database Library (TDLib)</source>
-        <translation>Telegram Database Library (TDLib)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This project uses twemoji. Thanks for making it available under the conditions of the MIT License (coding) and CC-BY 4.0 (graphics)!</source>
-        <translation>Questo programma usa twemoji. Grazie per averlo reso disponibile secondo licenza MIT (codice) e CC-BY 4.0 (grafiche)!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Coding</source>
-        <translation>Sviluppo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Graphics</source>
-        <translation>Grafiche</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This project uses OpenStreetMap Nominatim for reverse geocoding of location attachments. Thanks for making it available as web service!</source>
-        <translation>Questo progetto usa OpenStreetMap Nominatim per la geocodifica della posizione. Grazie per averlo reso disponibile come servizio web!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>About Telegram</source>
-        <translation>Info su Telegram</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This product uses the Telegram API but is not endorsed or certified by Telegram.</source>
-        <translation>Questo prodotto usa le API di Telegram ma non è sponsorizzato né certificato da Telegram.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Terms of Service</source>
-        <translation>Termini di Servizio</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Privacy Policy</source>
-        <translation>Accordo sulla riservatezza</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TDLib version %1 (commit hash %2)</source>
-        <translation>Versione TDLib %1 (commit hash %2)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>News</source>
-        <translation>Novità</translation>
+        <translation type="unfinished">Neuigkeiten</translation>
     </message>
     <message>
         <source>Ask a Question</source>
         <comment>Contact support</comment>
-        <translation>Fai una domanda</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Not needed, debug mode is already enabled.</source>
-        <translation>Non serve, la modalità debug è già abilitata.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>You are now %n steps away from enabling debug mode</source>
-        <translation>
-            <numerusform>Sei a %n passo/i dall&apos;abilitare la modalità di debug</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Debug mode is now enabled!</source>
-        <translation>La modalità di debug è stata abilitata!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Features</source>
         <comment>Opens Telegram Tips channel</comment>
-        <translation>Funzioni</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>SailfishOS Resources</source>
-        <translation>Risorse di SailfishOS</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>To get more info on SailfishOS, consider joining these groups and channels.</source>
-        <translation>Per saperne di più su SailfishOS, considera di entrare in uno di questi gruppi o canali.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>International Fan Club</source>
         <comment>Button which opens the SailfishOS Fan Club group</comment>
-        <translation>Fan club Internazionale</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>News Network</source>
         <comment>Button which opens the Sailfish OS News Network channel</comment>
-        <translation>Canale News</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Community meeting</source>
         <comment>Button which opens the SailfishOS Meeting channel</comment>
-        <translation>Riunioni della community</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Resources in your language</source>
         <comment>Translate as (language)-speaking resources, for example English-speaking resources for English</comment>
-        <translation>Community italiana</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished">Ceco</translation>
+        <translation type="unfinished">Tschechisch</translation>
     </message>
 </context>
 <context>
     <name>AddContactDialog</name>
     <message>
         <source>First name</source>
-        <translation>Nome</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Last name</source>
-        <translation>Cognome</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share my phone number</source>
-        <translation>Condividi il mio numero di telefono</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use the international format, e.g. %1</source>
-        <translation>Utilizza il formato internazionale, es. %1</translation>
+        <translation type="unfinished">Nutzen Sie das internationale Format, z.B. %1</translation>
     </message>
     <message>
         <source>Phone number</source>
-        <translation>Numero di telefono</translation>
+        <translation type="unfinished">Telefonnummer</translation>
     </message>
     <message numerus="yes">
         <source>First name must have 1-%Ln characters</source>
-        <translation>
-            <numerusform>Il nome deve avere 1-%Ln caratteri</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Last name length must be less than %Ln</source>
-        <translation>
-            <numerusform>Il cognome deve essere più corto di %Ln</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Note</source>
-        <translation>Nota</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>Note length must be less than %Ln</source>
-        <translation>
-            <numerusform>La nota deve essere più corta di %Ln</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>The note is only visible to you.</source>
-        <translation>La nota è visibile solo a te.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete contact</source>
-        <translation>Elimina contatto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Contact deleted</source>
-        <translation>Contatto eliminato</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share contact</source>
@@ -234,63 +234,63 @@
     <message>
         <source>Check status</source>
         <comment>Check proxy status when adding</comment>
-        <translation>Controlla stato</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Aggiungi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Server</source>
-        <translation>Server</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Port</source>
-        <translation>Porta</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TCP/UDP port number must be within the 0-65535 range</source>
-        <translation>Il numero della porta TCP/UDP dev&apos;essere tra 0-65535</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Tipo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>MTPROTO</source>
-        <translation>MTPROTO</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>SOCKS5</source>
-        <translation>SOCKS5</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>HTTP</source>
-        <translation>HTTP</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Secret</source>
-        <translation>Segreto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Transparent TCP connection</source>
-        <translation>Connessione TCP trasparente</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Credentials (optional)</source>
-        <translation>Credenziali (facoltativo)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Nome utenteNome utente</translation>
+        <translation type="unfinished">Benutzername</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Password</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add proxy</source>
-        <translation>Aggiungi proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit proxy</source>
@@ -302,7 +302,7 @@
     </message>
     <message>
         <source>Favorite</source>
-        <translation type="unfinished">Preferiti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Favorite proxies are pinned to the top of the proxy list</source>
@@ -317,65 +317,65 @@
     <name>ArchiveChatListTutorialDialog</name>
     <message>
         <source>This is your Archive</source>
-        <translation>Questo è il tuo Archivio</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Archived chats will remain in the Archive when you receive a new message. %1Tap to change%2</source>
-        <translation>Le chat archiviate rimarranno nell&apos;Archvio nche quando riceverai un messaggio. %1Premi per cambiare%2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>When you receive a new message, muted chats will remain in the Archive, while unmuted chats will be moved to Chats. %1Tap to change%2</source>
-        <translation>Quando ricevi un nuovo messaggio, le chat silenziate rimarranno nell&apos;archivio, le chat non silenziate verranno spostate nella schermata principale. %1Premi per cambiare%2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Archived Chats</source>
-        <translation>Chat archiviate</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move any chat into your Archive and back using the context menu.</source>
-        <translation>Sposta ogni chat nel tuo Archivio e indietro usando il menu contestuale.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stories</source>
-        <translation>Storie</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Archive Stories from your contacts separately from chats with them.</source>
-        <translation>Archivia storie dai tuoi contatti separatamente dalle loro hat.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ArchivedChatsPage</name>
     <message>
         <source>Archive</source>
-        <translation>Archivio</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>How does it work?</source>
-        <translation>Come funziona?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Archive settings</source>
-        <translation>Impostazioni Archivio</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation>Segna come letto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Archive is empty</source>
-        <translation>L&apos;archivio è vuoto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You can archive chats using the context menu.</source>
-        <translation>Puoi archiviare le chat dal menu contestuale.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AuthKeyDropDialog</name>
     <message>
         <source>Log out</source>
-        <translation>Esci</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -394,73 +394,73 @@
     <message>
         <source>Connected</source>
         <comment>Call status</comment>
-        <translation>Connesso</translation>
+        <translation type="unfinished">Verbunden</translation>
     </message>
 </context>
 <context>
     <name>CallPage</name>
     <message>
         <source>End call</source>
-        <translation>Chiudi chiamata</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Call back</source>
-        <translation>Richiama</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1&apos;s microphone is off</source>
-        <translation>%1 ha disattivato il microfono</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1&apos;s battery level is low</source>
-        <translation>%1 ha un basso livello di batteria</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CallWindow</name>
     <message>
         <source>Disconnected</source>
-        <translation>Disconnesso</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Call ended</source>
-        <translation>Chiamata conclusa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>An error occured</source>
-        <translation>Si è verificato un errore</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Connection error</source>
-        <translation>Errore di connessione</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line busy</source>
-        <translation>Linea occupata</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Connection timed out</source>
-        <translation>Time out connessione</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>An error occured: %1</source>
-        <translation>Si è verificato un errore: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Connecting…</source>
-        <translation>Connessione...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ringing…</source>
-        <translation>Sta squillando...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Exchanging keys…</source>
-        <translation>Scambio chiavi...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hanging up…</source>
-        <translation>Sto riagganciando...</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -468,31 +468,31 @@
     <message>
         <source>SCAM</source>
         <comment>string for a user text badge, should not be too long. Badge shows that this user was reported by many users as a fake or scam user: you should careful when interacting with them.</comment>
-        <translation>SCAM</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>FAKE</source>
         <comment>string for a user text badge, should not be too long. Badge shows that this may be a scam user.</comment>
-        <translation>FALSO</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ad</source>
         <comment>chat badge, indicates that the search result is sponsored</comment>
-        <translation>Sponsorizzato</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ChatBotSponsoredMessageItem</name>
     <message>
         <source>Unknown</source>
-        <translation>Sconosciuto</translation>
+        <translation type="unfinished">Unbekannt</translation>
     </message>
 </context>
 <context>
     <name>ChatFolderTabBase</name>
     <message>
         <source>You have no chats</source>
-        <translation>Non hai nessuna chat</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -500,36 +500,36 @@
     <message>
         <source>All</source>
         <comment>all chats tab</comment>
-        <translation>Chat</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Archive</source>
         <comment>archived chats tab</comment>
-        <translation>Archivio</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ChatInformationPageContent</name>
     <message>
         <source>Leave Chat</source>
-        <translation>Lascia chat</translation>
+        <translation>Chat verlassen</translation>
     </message>
     <message>
         <source>Join Chat</source>
-        <translation>Entra nella chat</translation>
+        <translation>Chat beitreten</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Sconosciuto</translation>
+        <translation>Unbekannt</translation>
     </message>
     <message>
         <source>Chat Title</source>
         <comment>group title header</comment>
-        <translation>Titolo chat</translation>
+        <translation>Chattitel</translation>
     </message>
     <message>
         <source>There is no information text available, yet.</source>
-        <translation>Nessuna informazione disponibile.</translation>
+        <translation>Es gibt noch keinen Informationstext.</translation>
     </message>
     <message>
         <source>Info</source>
@@ -539,87 +539,87 @@
     <message>
         <source>Phone Number</source>
         <comment>user phone number header</comment>
-        <translation>Telefono</translation>
+        <translation>Telefonnummer</translation>
     </message>
     <message>
         <source>Invite Link</source>
         <comment>header</comment>
-        <translation>Link d&apos;invito</translation>
+        <translation>Einladungslink</translation>
     </message>
     <message>
         <source>The Invite Link has been copied to the clipboard.</source>
-        <translation>Il link d&apos;invito è stato copiato negli appunti.</translation>
+        <translation>Der Einladungslink wurde in die Zwischenablage kopiert.</translation>
     </message>
     <message>
         <source>New Secret Chat</source>
-        <translation>Nuova chat segreta</translation>
+        <translation>Neuer geheimer Chat</translation>
     </message>
     <message>
         <source>ID has been copied to the clipboard.</source>
-        <translation>L&apos;ID è stato copiato negli appunti.</translation>
+        <translation>ID wurde in die Zwischenablage kopiert</translation>
     </message>
     <message>
         <source>Username has been copied to the clipboard</source>
-        <translation>Il nome utente è stato copiato negli appunti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Username</source>
         <comment>header</comment>
-        <translation>Nome utente</translation>
+        <translation type="unfinished">Benutzername</translation>
     </message>
     <message>
         <source>View discussion</source>
-        <translation>Vedi discussione</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View linked channel</source>
-        <translation>Vedi canale collegato</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Date of birth</source>
-        <translation>Data di nascita</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left chat</source>
-        <translation>Ha lasciato la chat</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Call</source>
-        <translation>Chiama</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unfortunately, you cannot call %1 because of their privacy settings. You can ask them to modify their setting or to call you instead</source>
-        <translation>Sfortunatamente, non puoi chiamare %1 a causa delle sue impostazioni di riservatezza. Puoi comunque chiedergli di modificare le impostazioni o di chiamarti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>Enter 1-%Ln characters</source>
-        <translation>
-            <numerusform>Inserisci 1-%Ln caratteri</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Note (only visible to you)</source>
-        <translation>Nota (visibile solo a te)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>Enter 0-%Ln characters</source>
-        <translation>
-            <numerusform>Inserisci 0-Ln caratteri</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Edit contact</source>
-        <translation>Modifica contatto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add to contacts</source>
-        <translation>Aggiungi ai contatti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Community</source>
-        <translation>Community</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -627,25 +627,25 @@
     <message>
         <source>Loading groups in common</source>
         <comment>groups you have in common with a user</comment>
-        <translation>Caricamento gruppi in comune</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No groups in common</source>
-        <translation>Nessun gruppo in comune</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ChatInformationTabItemMediaGrid</name>
     <message>
         <source>Jump to message</source>
-        <translation>Vai al messaggio</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ChatInformationTabItemMediaList</name>
     <message>
         <source>Jump to message</source>
-        <translation>Vai al messaggio</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -653,24 +653,24 @@
     <message>
         <source>Loading subscribers</source>
         <comment>channel</comment>
-        <translation>Caricamento sottoscrizioni</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Loading members</source>
         <comment>group</comment>
-        <translation>Caricamento membri</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This channel is empty</source>
-        <translation>Questo canale è vuoto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Channel members are anonymous</source>
-        <translation>I membri del canale sono anonimi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This group is empty</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -678,45 +678,45 @@
     <message>
         <source>New Members</source>
         <comment>what can new group members do</comment>
-        <translation>Nuovi membri</translation>
+        <translation type="unfinished">Neue Mitglieder</translation>
     </message>
     <message>
         <source>New members can see older messages</source>
         <comment>member permission</comment>
-        <translation>I nuovi membri possono vedere i messaggi precedenti</translation>
+        <translation type="unfinished">Neue Mitglieder können ältere Nachrichten sehen</translation>
     </message>
     <message>
         <source>Topics</source>
         <comment>group topics</comment>
-        <translation>Topic</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The group chat will be divided into topics created by admins or users.</source>
-        <translation>La chat di gruppo verrà suddivisa in topic, creati dagli amministratori o dagli utenti.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable Topics</source>
         <comment>group topics</comment>
-        <translation>Abilita Topic</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Choose how topics appear for all members.</source>
-        <translation>Scegli come far apparire il topic ai membri.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Off</source>
         <comment>topics</comment>
-        <translation>Off</translation>
+        <translation type="unfinished">Aus</translation>
     </message>
     <message>
         <source>List</source>
         <comment>topics</comment>
-        <translation>Lista</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tabs</source>
         <comment>topics</comment>
-        <translation>Schede</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Broadcast Group</source>
@@ -744,8 +744,8 @@
     <message numerus="yes">
         <source>Subscribe to Telegram Premium to unlock up to %Ln similar bots.</source>
         <comment>Info label suggesting the user to get Telegram Premium to access more similar bots</comment>
-        <translation>
-            <numerusform>Abbonati a Telegram Premium per sbloccare fino a %Ln bot simili.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -755,8 +755,8 @@
     <message numerus="yes">
         <source>Subscribe to Telegram Premium to unlock up to %Ln similar channels.</source>
         <comment>Info label suggesting the user to get Telegram Premium to access more similar channels</comment>
-        <translation>
-            <numerusform>Abbonati a Telegram Premium per sbloccare fino a %Ln canali simili.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -766,67 +766,67 @@
     <message>
         <source>Groups</source>
         <comment>Button: groups in common (short)</comment>
-        <translation>Gruppi</translation>
+        <translation>Gruppen</translation>
     </message>
     <message>
         <source>Members</source>
         <comment>Button: Group Members</comment>
-        <translation>Membri</translation>
+        <translation>Mitglieder</translation>
     </message>
     <message>
         <source>Settings</source>
         <comment>Button: Chat Settings</comment>
-        <translation>Impostazioni</translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>Media</source>
         <comment>Button: Chat media (photos and videos)</comment>
-        <translation>Media</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>GIFs</source>
         <comment>Button: Chat GIFs</comment>
-        <translation>GIF</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Video Messages</source>
         <comment>Button: Chat video messages</comment>
-        <translation>Video Messaggi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Files</source>
         <comment>Button: Chat files</comment>
-        <translation>File</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Subscribers</source>
         <comment>Button: channel subscribers</comment>
-        <translation>Sottoscrizioni</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Similar channels</source>
         <comment>Profile tab</comment>
-        <translation>Canali simili</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Similar bots</source>
         <comment>Profile tab</comment>
-        <translation>Bot simili</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Audio</source>
         <comment>Button: Chat audio files</comment>
-        <translation>Audio</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Links</source>
         <comment>Button: Chat shared links</comment>
-        <translation>Collegamenti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Voice</source>
         <comment>Button: Chat voice messages (short)</comment>
-        <translation>Voce</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -834,158 +834,158 @@
     <message>
         <source>Request to join</source>
         <comment>channel</comment>
-        <translation>Richiedi accesso</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Request to join</source>
         <comment>group</comment>
-        <translation>Richiedi accesso</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Join channel</source>
         <comment>channel</comment>
-        <translation>Entra nel canale</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Join group</source>
         <comment>group</comment>
-        <translation>Entra nel gruppo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This channel accepts new subscribers only after they are approved by its admins.</source>
-        <translation>Questo canale accetta nuove sottoscrizioni solo dopo che sono state approvate dagli amministratori.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This group accepts new members only after they are approved by its admins.</source>
-        <translation>Questo gruppo accetta nuove sottoscrizioni solo dopo che sono state approvate dagli amministratori.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ChatListViewItem</name>
     <message>
         <source>User Info</source>
-        <translation>Info utente</translation>
+        <translation>Benutzerinfos</translation>
     </message>
     <message>
         <source>Group Info</source>
-        <translation>Info gruppo</translation>
+        <translation>Gruppeninfos</translation>
     </message>
     <message>
         <source>Mark all messages as read</source>
-        <translation>Segna tutti i messaggi come già letti</translation>
+        <translation>Nachrichten als gelesen markieren</translation>
     </message>
     <message>
         <source>Mark chat as unread</source>
-        <translation>Segna chat come non letta</translation>
+        <translation>Chat als ungelesen markieren</translation>
     </message>
     <message>
         <source>Mark chat as read</source>
-        <translation>Segna chat come letta</translation>
+        <translation>Chat als gelesen markieren</translation>
     </message>
     <message>
         <source>Unpin chat</source>
-        <translation>Togli chat in evidenza</translation>
+        <translation>Chat losheften</translation>
     </message>
     <message>
         <source>Pin chat</source>
-        <translation>Metti chat in evidenza</translation>
+        <translation>Chat anheften</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>Archivia</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unarchive</source>
-        <translation>Rimuovi da archivio</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Saved Messages</source>
-        <translation>Messaggi salvati</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ChatPage</name>
     <message>
         <source>Unknown</source>
-        <translation>Sconosciuto</translation>
+        <translation>Unbekannt</translation>
     </message>
     <message numerus="yes">
         <source>Forward %Ln messages</source>
         <comment>dialog header</comment>
         <translation>
-            <numerusform>Inoltra %Ln messaggio</numerusform>
-            <numerusform>Inoltra %Ln messaggi</numerusform>
+            <numerusform>%Ln Nachricht weiterleiten</numerusform>
+            <numerusform>%Ln Nachrichten weiterleiten</numerusform>
         </translation>
     </message>
     <message>
         <source>Deleted User</source>
-        <translation>Elimina Utente</translation>
+        <translation>Gelöschtes Konto</translation>
     </message>
     <message>
         <source>Double-tap on a message to choose a reaction</source>
-        <translation>Doppio tap su di un messaggio per scegliere una reazione</translation>
+        <translation>Drücke zweimal auf eine Nachricht, um eine Reaktion auszuwählen</translation>
     </message>
     <message>
         <source>Chat deleted</source>
-        <translation>Chat eliminata</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View as Messages</source>
         <comment>view a forum chat in full chat mode</comment>
-        <translation>Vedi come Lista</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View as Topics</source>
         <comment>view a forum chat as topics</comment>
-        <translation>Vedi come Topic</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search in chat</source>
-        <translation>Cerca nella chat</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete chat</source>
-        <translation>Elimina chat</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Secret chat closed</source>
-        <translation>Chat segreta chiusa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close secret chat</source>
-        <translation>Chiudi chat segreta</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left the channel</source>
-        <translation>Ha lasciato il canale</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left the group</source>
-        <translation>Ha lasciato il gruppo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Leave channel</source>
-        <translation>Lascia canale</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Leave group</source>
-        <translation>Lascia gruppo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Join channel</source>
-        <translation>Entra nel canale</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Join group</source>
-        <translation>Entra nel gruppo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Saved Messages</source>
-        <translation>Messaggi salvati</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Cerca</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -993,13 +993,13 @@
     <message>
         <source>%1 requested to join</source>
         <comment>banner indicating that there is one unreviewed group join request from a user</comment>
-        <translation>%1 ha richiesto l&apos;accesso</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%n join requests</source>
         <comment>banner indicating that there are unreviewed group join requests, for admins</comment>
-        <translation>
-            <numerusform>%n richieste d&apos;accesso</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -1009,73 +1009,73 @@
     <message>
         <source>Decline all</source>
         <comment>decline all join requests</comment>
-        <translation>Declina tutto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Declined all join requests</source>
         <comment>remorse</comment>
-        <translation>Declina tutte le richieste d&apos;accesso</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Accept all</source>
         <comment>accept all join requests</comment>
-        <translation>Accetta tutto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Accepted all join requests</source>
         <comment>remorse</comment>
-        <translation>Accetta tutte le richieste d&apos;accesso</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Join Requests</source>
-        <translation>Richieste d&apos;accesso</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No join requests</source>
-        <translation>Nessuna richiesta d&apos;accesso</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Wait for someone to send a join request</source>
-        <translation>Aspetta per qualcuno che mandi una richiesta d&apos;accesso</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>requested to join %1</source>
         <comment>Indicates when a user sent the join request</comment>
-        <translation>%1 ha richiesto l&apos;accesso</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add to Channel</source>
         <comment>button: accept a chat join request</comment>
-        <translation>Aggiungi al Canale</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add to Group</source>
         <comment>button: accept a chat join request</comment>
-        <translation>Aggiungi al Gruppo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Decline</source>
         <comment>decline a chat join request</comment>
-        <translation>Declina</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ChatSelectionPage</name>
     <message>
         <source>Select Chat</source>
-        <translation>Seleziona chat</translation>
+        <translation>Chat auswählen</translation>
     </message>
     <message>
         <source>Hide Sender Name</source>
-        <translation>Nascondi nome mittente</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hide Caption</source>
-        <translation>Nascondi intestazione</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Cerca</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1105,62 +1105,60 @@
     <name>CommunityPage</name>
     <message>
         <source>Rename community</source>
-        <translation>Rinomina community</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%Ln chats</source>
         <comment>Number of chats in a community</comment>
-        <translation>
-            <numerusform>%Ln chat</numerusform>
-            <numerusform>%Ln chat</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Community name</source>
-        <translation>Nome community</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ContactSupportDialog</name>
     <message>
         <source>Ask a Question</source>
-        <translation>Fai una domanda</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ask</source>
-        <translation>Chiedi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please note that Telegram Support is done by volunteers. We try to respond as quickly as possible, but it may take a while.
 
 Please take a look at the %1Telegram FAQ%2: it has answers to most questions and important tips for %3troubleshooting%4.</source>
-        <translation>Tieni a mente che il supporto di Telegram è fatto da volontari. Cerchiamo di rispondere il più velocemente possibile, ma potrebbe richiedere un po&apos;.
-
-Per favore dai uno sguardo alla %1FAQ di Telegram%2: contiene risposte per la maggior parte delle domande ed utili suggerimenti per la %3risoluzione dei problemi%4.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>https://telegram.org/faq#general-questions</source>
         <comment>Localized Telegram FAQ URL. Keep unfinished or as-is if not available for your language</comment>
-        <translation>https://telegram.org/faq?setln=it#general-questions</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>https://telegram.org/faq#troubleshooting</source>
         <comment>Localized Telegram troubleshooting FAQ URL. Keep unfinished or as-is if not available for your language</comment>
-        <translation>https://telegram.org/faq?setln=it#troubleshooting</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ContactSync</name>
     <message numerus="yes">
         <source>Synced %Ln contacts</source>
-        <translation>
-            <numerusform>Sincronizzati %Ln contatti</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Failed to sync contacts</source>
-        <translation>Sincronizzazione contatti fallita</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1171,20 +1169,20 @@ Per favore dai uno sguardo alla %1FAQ di Telegram%2: contiene risposte per la ma
     </message>
     <message>
         <source>Connected</source>
-        <translation>Connesso</translation>
+        <translation>Verbunden</translation>
     </message>
     <message numerus="yes">
         <source>chats</source>
         <translation>
-            <numerusform>chat</numerusform>
-            <numerusform>chat</numerusform>
+            <numerusform>Chat</numerusform>
+            <numerusform>Chats</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>unread messages</source>
         <translation>
-            <numerusform>messaggio non letto</numerusform>
-            <numerusform>messaggi non letti</numerusform>
+            <numerusform>ungelesene Nachricht</numerusform>
+            <numerusform>ungelesene Nachrichten</numerusform>
         </translation>
     </message>
 </context>
@@ -1193,49 +1191,49 @@ Per favore dai uno sguardo alla %1FAQ di Telegram%2: contiene risposte per la ma
     <message>
         <source>Notifications</source>
         <comment>Page header</comment>
-        <translation>Notifiche</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation>Suono</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>No notification sound</comment>
-        <translation>Disabilitato</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Default</source>
         <comment>Default notification sound</comment>
-        <translation>Predefinito</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Message Preview</source>
-        <translation>Anteprima messaggio</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Events</source>
-        <translation>Eventi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pinned Messages</source>
-        <translation>Messaggi in evidenza</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mentions</source>
-        <translation>Menzioni</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stories</source>
-        <translation>Storie</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Story notifications</source>
-        <translation>Notifiche storie</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Sender&apos;s Name</source>
-        <translation>Mostra Nome mittente</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1243,37 +1241,37 @@ Per favore dai uno sguardo alla %1FAQ di Telegram%2: contiene risposte per la ma
     <message>
         <source>Days</source>
         <comment>Duration picker</comment>
-        <translation>Imposta durata</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>h</source>
         <comment>Duration picker hours</comment>
-        <translation>o</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>min</source>
         <comment>Duration picker minutes</comment>
-        <translation>min</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>s</source>
         <comment>Duration picker seconds</comment>
-        <translation>s</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Units</source>
         <comment>Duration picker units</comment>
-        <translation>Unità</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hours and minutes</source>
         <comment>Duration picker units</comment>
-        <translation>Ore e minuti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Minutes and seconds</source>
         <comment>Duration picker units</comment>
-        <translation>Minuti e secondi</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1281,115 +1279,115 @@ Per favore dai uno sguardo alla %1FAQ di Telegram%2: contiene risposte per la ma
     <message>
         <source>Permissions</source>
         <comment>What can members of this group do</comment>
-        <translation>Permessi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send messages</source>
         <comment>member permission</comment>
-        <translation>Invia messaggi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send media</source>
         <comment>member permission</comment>
-        <translation>Invia media</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Photos</source>
         <comment>member permission</comment>
-        <translation>Foto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Videos</source>
         <comment>member permission</comment>
-        <translation>Video</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Video messages</source>
         <comment>member permission</comment>
-        <translation>Videomessaggi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Music</source>
         <comment>member permission</comment>
-        <translation>Musica</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Voice messages</source>
         <comment>member permission</comment>
-        <translation>Nota vocale</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Files</source>
         <comment>member permission</comment>
-        <translation>File</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stickers &amp; GIFs</source>
         <comment>member permission</comment>
-        <translation>Adesivi &amp; GIF</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Embed links</source>
         <comment>member permission</comment>
-        <translation>Collegamento incorporato</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Polls</source>
         <comment>member permission</comment>
-        <translation>Sondaggi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add members</source>
         <comment>member permission</comment>
-        <translation>Aggiungi membri</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pin messages</source>
         <comment>member permission</comment>
-        <translation>Meti messaggi in evidenza</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change group info</source>
         <comment>member permission</comment>
-        <translation>Cambia info gruppo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Create topics</source>
         <comment>member permission</comment>
-        <translation>Crea topic</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EditSuperGroupSlowModeColumn</name>
     <message>
         <source>Slow Mode</source>
-        <translation>Modalità lenta</translation>
+        <translation>Langsamer Modus</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation>Off</translation>
+        <translation>Aus</translation>
     </message>
     <message>
         <source>Set how long every chat member has to wait between Messages</source>
-        <translation>Imposta tempo di attesa tra i messaggi di un utente</translation>
+        <translation>Legen Sie fest, wie lange jedes Mitglied zwischen zwei Nachrichten warten muss</translation>
     </message>
 </context>
 <context>
     <name>ExternalUrlPage</name>
     <message>
         <source>Swipe left to preview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Für Vorschau nach links wischen.</translation>
     </message>
     <message>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie verwenden eine Mobile Datenverbindung.</translation>
     </message>
 </context>
 <context>
     <name>FullscreenHintDialog</name>
     <message>
         <source>Got it</source>
-        <translation>Capito</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1398,8 +1396,8 @@ Per favore dai uno sguardo alla %1FAQ di Telegram%2: contiene risposte per la ma
         <source>Forward %Ln messages</source>
         <comment>dialog header</comment>
         <translation>
-            <numerusform>Inoltra %Ln messaggio</numerusform>
-            <numerusform>Inoltra %Ln messaggi</numerusform>
+            <numerusform>%Ln Nachricht weiterleiten</numerusform>
+            <numerusform>%Ln Nachrichten weiterleiten</numerusform>
         </translation>
     </message>
 </context>
@@ -1407,181 +1405,179 @@ Per favore dai uno sguardo alla %1FAQ di Telegram%2: contiene risposte per la ma
     <name>InReplyToRow</name>
     <message>
         <source>You</source>
-        <translation>Tu</translation>
+        <translation>Sie</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Sconosciuto</translation>
+        <translation>Unbekannt</translation>
     </message>
     <message>
         <source>This message was deleted</source>
-        <translation>Il messaggio è stato cancellato</translation>
+        <translation>Diese Nachricht wurde gelöscht</translation>
     </message>
 </context>
 <context>
     <name>InitializationDialog</name>
     <message>
         <source>About YAST</source>
-        <translation>Info su YAST</translation>
+        <translation type="unfinished">Über YAST</translation>
     </message>
     <message>
         <source>Proxy settings</source>
-        <translation>Impostazioni proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Visit telegram.org</source>
         <comment>Visit telegram.org to download an official app for purchasing the Telegram Premium subscription</comment>
-        <translation>Vai su telegram.org per scaricare un&apos;app ufficiale per comprare una sottoscrizione Premium</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Your Phone</source>
-        <translation>Il tuo telefono</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Confirmation Code</source>
-        <translation>Codice di verifica</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Two-Step Verification</source>
-        <translation>Verifica a due fattori</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Your Email</source>
-        <translation>Il tuo indirizzo mail</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Confirmation code</source>
         <comment>email</comment>
-        <translation>Codice di verifica</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Registration</source>
-        <translation>Registrazione</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Confirm</source>
         <comment>confirmation code</comment>
-        <translation>Conferma</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Confirm</source>
         <comment>email code</comment>
-        <translation>Conferma</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Phone number</source>
-        <translation>Numero di telefono</translation>
+        <translation type="unfinished">Telefonnummer</translation>
     </message>
     <message>
         <source>Use the international format, e.g. %1</source>
-        <translation>Utilizza il formato internazionale, es. %1</translation>
+        <translation type="unfinished">Nutzen Sie das internationale Format, z.B. %1</translation>
     </message>
     <message numerus="yes">
         <source>Last %Ln digits</source>
-        <translation>
-            <numerusform>Ultime %Ln cifre</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Code</source>
-        <translation>Codice</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Calling your phone %1 to dictate the code.</source>
-        <translation>Sto chiamando il tuo numero %1 per dettare il codice.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Within next few seconds you should receive a short call from a phone number which starts with %1.</source>
-        <translation>Nei prossimi secondi dovresti ricevere una breve chiamata da un numero che inizia per %1.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>We&apos;ve sent the code to the Telegram app on your other device.</source>
-        <translation>Abbiamo inviato il codice nell&apos;app di Telegram sul tuo altro dispositivo.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Fragment</source>
-        <translation>Apri Fragment</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Password</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hint: %1</source>
         <comment>Password hint</comment>
-        <translation>Suggerimento: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You have enabled Two-Step Verification, so your account is protected with an additional password.</source>
-        <translation>Hai abilitato la verifica a due fattori, per cui il tuo account è protetto da una password addizionale.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Email address</source>
-        <translation>Indirizzo mail</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please enter your valid email address.</source>
-        <translation>Per favore inserisci un indirizzo mail valido.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Code</source>
         <comment>email</comment>
-        <translation>mail</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Telegram Premium required</source>
-        <translation>È richiesto Telegram Premium</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Telegram Premium is required to proceed. Unfortunately, it&apos;s currently not possible to make in-app purchases through YAST. Please use one of Telegram&apos;s official apps and enter the same phone number to set up the subscription, after which you can return to singing in to YAST.
 
 Pull down to visit telegram.org</source>
-        <translation>È richiesto Telegram Premium per procedere. Purtroppo non è ancora possibile acquistarlo tramite YAST. Per favore usa uno dei client ufficiali ed inserisci lo stesso numero di telefono per acquistare la sottoscrizione, dopo la quale, potrai felicemente tornare su YAST.
-
-Trascina in basso per visitare telegram.org</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>By accepting, you agree to the Telegram Terms of Service:</source>
-        <translation>Accettando, acconsenti ai Termini di Servizio di Telegram:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Notify my contacts</source>
-        <translation>Invia notifica ai miei contatti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Notify your contacts that you joined Telegram</source>
-        <translation>Invia notifica ai tuoi contatti che ti sei unito a Telegram</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>First name</source>
-        <translation>Nome</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Last name</source>
-        <translation>Cognome</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unsupported authorization mode</source>
-        <translation>Modalità di autorizzazione non supportata</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sorry, this authorization mode is not yet supported: %1</source>
-        <translation>Ci dispiace, questa modalità di autorizzazione non è ancora supportata: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sign Up</source>
-        <translation>Registrati</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Get the code for %1 in the Numbers section on Fragment.</source>
-        <translation>Ottieni il codice per %1 nella sezione Numeri di Fragment.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>We&apos;ve sent a %Ln-digit recovery code to %1. Please check your email and enter it here.</source>
         <comment>%1 is the email address</comment>
-        <translation>
-            <numerusform>Ti abbiamo inviato un codice di recupero a %Ln cifre su %1. Per favore controlla la tua mail e inseriscilo qui.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -1590,7 +1586,7 @@ Trascina in basso per visitare telegram.org</translation>
     <name>LicenseListPart</name>
     <message>
         <source>License text</source>
-        <translation>Testo della licenza</translation>
+        <translation>Lizenztext</translation>
     </message>
 </context>
 <context>
@@ -1616,87 +1612,87 @@ Trascina in basso per visitare telegram.org</translation>
     <name>MessageContextMenu</name>
     <message>
         <source>Message unpinned</source>
-        <translation>Messaggio non più in evidenza</translation>
+        <translation type="unfinished">Nachricht losgeheftet</translation>
     </message>
     <message>
         <source>Message deleted</source>
-        <translation>Messaggio eliminato</translation>
+        <translation type="unfinished">Nachricht gelöscht</translation>
     </message>
     <message>
         <source>Message deleted only for yourself</source>
-        <translation>Messaggio eliminato solo per te</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Jump to message</source>
-        <translation>Vai al messaggio</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Forward</source>
         <comment>Short version for &quot;Forward Message&quot;</comment>
-        <translation>Inoltra</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Forward Message</source>
-        <translation>Inoltra messaggio</translation>
+        <translation type="unfinished">Nachricht weiterleiten</translation>
     </message>
     <message>
         <source>Reply</source>
         <comment>Short version for &quot;Reply to Message&quot;</comment>
-        <translation>Rispondi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reply to Message</source>
-        <translation>Rispondi al messaggio</translation>
+        <translation type="unfinished">Auf Nachricht antworten</translation>
     </message>
     <message>
         <source>Delete</source>
         <comment>Short version for &quot;Delete Message&quot;</comment>
-        <translation>Elimina</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete Message</source>
-        <translation>Elimina messaggio</translation>
+        <translation type="unfinished">Nachricht löschen</translation>
     </message>
     <message>
         <source>Edit</source>
         <comment>Short version for &quot;Edit Message&quot;</comment>
-        <translation>Modifica</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit Message</source>
-        <translation>Modifica messaggio</translation>
+        <translation type="unfinished">Nachricht bearbeiten</translation>
     </message>
     <message>
         <source>Read %1</source>
         <comment>Message read date</comment>
-        <translation>Letto %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Loading</source>
         <comment>Indicates that the message read date is being loaded</comment>
-        <translation>Caricamento</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edited %1</source>
         <comment>Message edit date</comment>
-        <translation>Modificato %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete for me and %1</source>
-        <translation>Elimina per te e per %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete for everyone</source>
-        <translation>Elimina per tutti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete just for me</source>
-        <translation>Elimina solo per te</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Originally sent %1</source>
         <comment>Forwarded message original date</comment>
-        <translation>Inviato originariamente %1</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1704,61 +1700,61 @@ Trascina in basso per visitare telegram.org</translation>
     <message>
         <source>Send a %1 emoji to any chat to try your luck.</source>
         <comment>in-app notification text</comment>
-        <translation>Invia %1 emoji in una chat per tentare la fortuna.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send</source>
         <comment>in-app notification button for &quot;Send a %1 emoji to any chat to try your luck.&quot;</comment>
-        <translation>Invia</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>MessageListViewItem</name>
     <message>
         <source>Forwarded Message</source>
-        <translation>Messaggio inoltrato</translation>
+        <translation>Weitergeleitete Nachricht</translation>
     </message>
     <message>
         <source>Select Message</source>
-        <translation>Seleziona messaggio</translation>
+        <translation>Nachricht auswählen</translation>
     </message>
     <message>
         <source>More Options...</source>
-        <translation>Più opzioni...</translation>
+        <translation>Mehr Optionen...</translation>
     </message>
     <message>
         <source>Copy Message to Clipboard</source>
-        <translation>Copia messaggio nella clipboard</translation>
+        <translation>Nachricht in die Zwischenablage kopieren</translation>
     </message>
     <message>
         <source>Unpin Message</source>
-        <translation>Rimuovi messaggio in evidenza</translation>
+        <translation type="unfinished">Nachricht losheften</translation>
     </message>
     <message>
         <source>Pin Message</source>
-        <translation>Metti messaggio in evidenza</translation>
+        <translation type="unfinished">Nachricht anheften</translation>
     </message>
     <message>
         <source>Recommended Message</source>
-        <translation>Messaggio raccomandato</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sponsored Message</source>
-        <translation>Messaggio sponsorizzato</translation>
+        <translation type="unfinished">Gesponsorte Nachricht</translation>
     </message>
     <message>
         <source>edited</source>
-        <translation>modificato</translation>
+        <translation type="unfinished">bearbeitet</translation>
     </message>
     <message>
         <source>for %1</source>
         <comment>guest bot caller</comment>
-        <translation>per %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The account was hidden by the user</source>
         <comment>Forwarded message</comment>
-        <translation>Messaggio inoltrato</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1767,15 +1763,15 @@ Trascina in basso per visitare telegram.org</translation>
         <source>scored %Ln points in %2</source>
         <comment>myself</comment>
         <translation>
-            <numerusform>hai raggiunto %Ln punto in %2</numerusform>
-            <numerusform>hai raggiunto %Ln punti in %2</numerusform>
+            <numerusform>haben %Ln Punkt bei %2 erziehlt</numerusform>
+            <numerusform>haben %Ln Punkte bei %2 erziehlt</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>scored %Ln points in %2</source>
         <translation>
-            <numerusform>ha raggiunto %Ln punto in %2</numerusform>
-            <numerusform>ha raggiunto %Ln punti in %2</numerusform>
+            <numerusform>hat %Ln Punkt bei %2 erziehlt</numerusform>
+            <numerusform>hat %Ln Punkte bei %2 erziehlt</numerusform>
         </translation>
     </message>
 </context>
@@ -1793,60 +1789,60 @@ Trascina in basso per visitare telegram.org</translation>
         <source>%Ln vote(s) total</source>
         <comment>number of total votes</comment>
         <translation>
-            <numerusform>%Ln voto in totale</numerusform>
-            <numerusform>%Ln voti in totale</numerusform>
+            <numerusform>%Ln Stimme insgesamt</numerusform>
+            <numerusform>%Ln Stimmen insgesamt</numerusform>
         </translation>
     </message>
     <message>
         <source>Stop poll</source>
-        <translation>Chiudi sondaggio</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Retract vote</source>
-        <translation>Ritratta voto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Final results</source>
-        <translation>Risultato finale</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Anonymous Quiz</source>
-        <translation>Quiz anonimo</translation>
+        <translation type="unfinished">Anonymes Quiz</translation>
     </message>
     <message>
         <source>Quiz</source>
-        <translation>Quiz</translation>
+        <translation type="unfinished">Quiz</translation>
     </message>
     <message>
         <source>Anonymous Poll</source>
-        <translation>Sondaggio anonimo</translation>
+        <translation type="unfinished">Anonyme Umfrage</translation>
     </message>
     <message>
         <source>Poll</source>
-        <translation>Sondaggio</translation>
+        <translation type="unfinished">Umfrage</translation>
     </message>
     <message>
         <source>Vote</source>
-        <translation>Vota</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add an option</source>
-        <translation>Aggiungi un&apos;opzione</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Option text</source>
-        <translation>Tasto opzione</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>MessageSticker</name>
     <message>
         <source>Remove from Favorites</source>
-        <translation>Rimuovi dai preferiti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add to Favorites</source>
-        <translation>Aggiungi ai preferiti</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1861,179 +1857,179 @@ Trascina in basso per visitare telegram.org</translation>
     <name>MessageVideo</name>
     <message>
         <source>Error loading video! %1</source>
-        <translation>Errore nel caricare il video! %1</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>MessageVoiceNote</name>
     <message>
         <source>Voice Note</source>
-        <translation>Messaggio vocale</translation>
+        <translation>Sprachnotiz</translation>
     </message>
 </context>
 <context>
     <name>MessageableListItem</name>
     <message>
         <source>Draft</source>
-        <translation>Bozza</translation>
+        <translation type="unfinished">Entwurf</translation>
     </message>
     <message>
         <source>No message in this chat</source>
-        <translation>Nessun messaggio in questa chat</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Sconosciuto</translation>
+        <translation type="unfinished">Unbekannt</translation>
     </message>
     <message>
         <source>You</source>
-        <translation>Tu</translation>
+        <translation type="unfinished">Sie</translation>
     </message>
 </context>
 <context>
     <name>MessagesView</name>
     <message>
         <source>Select Messages</source>
-        <translation>Seleziona messaggi</translation>
+        <translation type="unfinished">Nachrichtenauswahl</translation>
     </message>
     <message numerus="yes">
         <source>%Ln messages selected</source>
         <comment>number of messages selected</comment>
-        <translation>
-            <numerusform>%Ln messaggio selezionato</numerusform>
-            <numerusform>%Ln messaggi selezionati</numerusform>
+        <translation type="unfinished">
+            <numerusform>%Ln Nachricht ausgewählt</numerusform>
+            <numerusform>%Ln Nachrichten ausgewählt</numerusform>
         </translation>
     </message>
     <message>
         <source>No results</source>
         <comment>No messages search results found</comment>
-        <translation>Nessun risultato</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%Ln messages have been copied</source>
-        <translation>
-            <numerusform>%Ln messaggio copiato</numerusform>
-            <numerusform>%Ln messaggi copiati</numerusform>
+        <translation type="unfinished">
+            <numerusform>%Ln Nachrichten wurden kopiert</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%Ln Messages deleted</source>
-        <translation>
-            <numerusform>%Ln messaggio cancellato</numerusform>
-            <numerusform>%Ln messaggi cancellati</numerusform>
+        <translation type="unfinished">
+            <numerusform>%Ln Nachrichten gelöscht</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Loading messages</source>
-        <translation>Caricamento messaggi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Waiting for %1 to come online…</source>
-        <translation>Aspettando che %1 si connetta...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This chat is empty</source>
-        <translation>Questa chat è vuota</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The other user must come online for the secret chat to be created.</source>
-        <translation>L&apos;altro utentw deve essere online per la creazione della chat segreta.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>NewChatPage</name>
     <message>
         <source>Your Contacts</source>
-        <translation>Contatti</translation>
+        <translation>Ihre Kontakte</translation>
     </message>
     <message>
         <source>Private Chat</source>
-        <translation>Chat privata</translation>
-    </message>
-    <message>
-        <source>Secret Chat</source>
-        <translation>Chat segreta</translation>
-    </message>
-    <message>
-        <source>End-to-end-encrypted, accessible on this device only</source>
-        <translation>Crittografia end-to-end, accessibile solo su questo dispositivo</translation>
+        <translation>Privater Chat</translation>
     </message>
     <message>
         <source>Transport-encrypted, uses Telegram Cloud, sharable across devices</source>
-        <translation>Crittografia di trasporto, utilizza Telegram Cloud, accessibile su più dispositivi</translation>
+        <translation>Transportverschlüsselt, nutzt Telegram-Cloud, teilbar zwischen Geräten</translation>
+    </message>
+    <message>
+        <source>Secret Chat</source>
+        <translation>Geheimer Chat</translation>
+    </message>
+    <message>
+        <source>End-to-end-encrypted, accessible on this device only</source>
+        <translation>Ende-zu-Ende-verschlüsselt, nur auf diesem Gerät zugreifbar</translation>
     </message>
     <message>
         <source>Add contact</source>
-        <translation>Aggiungi contatto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Rimuovi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Contact removed</source>
-        <translation>Contatto rimosso</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Loading contacts</source>
-        <translation>Caricamento contatti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invite to Telegram</source>
-        <translation>Invita su Telegram</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hey! I&apos;m using Telegram to chat. Join me! Download it here: %1</source>
-        <translation>Ehi! Sto usando telegram per chattare. Raggiungimi! Scaricalo qui: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unfortunately %1 has not joined Telegram yet, but you can send them an invitation. We will notify you when any of your contacts join Telegram.</source>
-        <translation>Purtroppo %1 non è ancora su Telegram, ma puoi mandargli un invito. Ti notificheremo quando qualcuno dei tuoi contatti si iscrive a Telegram.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invite</source>
         <comment>In-app notification button for inviting a user to Telegram</comment>
-        <translation>Invita</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sync contacts</source>
-        <translation>Sincronizza contatti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation>Ordina per Nome</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sort by Last Seen</source>
-        <translation>Ordina per Ultimo accesso</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Results</source>
-        <translation>Nessun risultato</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You don&apos;t have any contacts yet</source>
-        <translation>Non hai ancora nessun contatto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Try a new search.</source>
-        <translation>Prova con una nuova ricerca.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pull down to add a new contact or synchronize existing contacts from your address book.</source>
-        <translation>Trascina in basso per aggiungere un nuovo contatto o per sincronizzare quelli esistenti dalla tua rubrica.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search contacts</source>
-        <translation>Cerca contatti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Modifica</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pull down to add a new contact</source>
-        <translation>Trascina in basso per aggiungere un contatto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share contact</source>
@@ -2044,209 +2040,209 @@ Trascina in basso per visitare telegram.org</translation>
     <name>NewMessageColumn</name>
     <message>
         <source>Unknown address</source>
-        <translation>Indirizzo sconosciuto</translation>
+        <translation type="unfinished">Unbekannte Adresse</translation>
     </message>
     <message>
         <source>Location (%1/%2)</source>
-        <translation>Posizione (%1/%2)</translation>
+        <translation type="unfinished">Standort (%1/%2)</translation>
     </message>
     <message>
         <source>Accuracy: %1m</source>
-        <translation>Accuratezza: %1m</translation>
+        <translation type="unfinished">Genauigkeit: %1m</translation>
     </message>
     <message>
         <source>Edit Message</source>
-        <translation>Modifica messaggio</translation>
+        <translation type="unfinished">Nachricht bearbeiten</translation>
     </message>
     <message>
         <source>Silent Broadcast</source>
         <comment>placeholder for broadcasting a message to a channel silently</comment>
-        <translation>Inoltra silenziosamente in canale</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Broadcast</source>
         <comment>placeholder for broadcasting a message to a channel</comment>
-        <translation>Invia in canale</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send anonymously</source>
         <comment>placeholder for sending an anonymous message in a supergroup</comment>
-        <translation>Invia anonimamente</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Message for %1 Stars</source>
         <comment>placeholder for sending a message for %1 stars</comment>
-        <translation>Messaggio per %1 Stelle</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Message</source>
         <comment>placeholder for sending a message</comment>
-        <translation>Messaggio</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Location: Obtaining position…</source>
-        <translation>Posizione: Sto ottenendo la posizione...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Uploading…</source>
-        <translation>Invio...</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>NewPollDialog</name>
     <message>
         <source>A poll requires %1-%2 options.</source>
-        <translation>Un sondaggio richiede %1-%2 opzioni.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please choose at least one correct answer</source>
-        <translation>Per favore scegli almeno una risposta corretta</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New poll</source>
         <comment>header</comment>
-        <translation>Nuovo sondaggio</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>in %1</source>
         <comment>After dialog header… New Poll in [group name]</comment>
-        <translation>in %1</translation>
+        <translation type="unfinished">in %1</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation>Domanda</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enter your question here</source>
-        <translation>Inserisci la tua domanda qui</translation>
+        <translation type="unfinished">Geben Sie Ihre Frage ein</translation>
     </message>
     <message>
         <source>You have to enter a question</source>
-        <translation>Devi inserire una domanda</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%Ln characters left</source>
-        <translation>
-            <numerusform>%Ln caratteri rimanenti</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Descrizione</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Poll options</source>
         <comment>Section header</comment>
-        <translation>Opzioni sondaggio</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add an option</source>
-        <translation>Aggiungi un opzione</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Option can&apos;t be empty</source>
-        <translation>L&apos;opzione non può essere vuota</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add an answer</source>
-        <translation>Aggiungi una risposta</translation>
+        <translation type="unfinished">Antwort hinzufügen</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Impostazioni</translation>
+        <translation type="unfinished">Einstellungen</translation>
     </message>
     <message>
         <source>Anonymous answers</source>
-        <translation>Risposte anonime</translation>
+        <translation type="unfinished">Anonyme Antworten</translation>
     </message>
     <message>
         <source>Multiple answers</source>
-        <translation>Risposte multiple</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Allow adding options</source>
-        <translation>Consenti di aggiungere opzioni</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Allow revoting</source>
-        <translation>Consenti di rivotare</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Allow users to change their vote</source>
-        <translation>Consenti agli utenti di modificare il loro voto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shuffle options</source>
-        <translation>Mischia le opzioni</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Make answer appear in random order</source>
-        <translation>Fa che le opzioni appaiano in ordine casuale</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Quiz Mode</source>
-        <translation>Modalità quiz</translation>
+        <translation type="unfinished">Quizmodus</translation>
     </message>
     <message>
         <source>Mark one or more options as the correct answer</source>
-        <translation>Segna una o più risposte come risposta corretta</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shown when the user selects a wrong answer.</source>
-        <translation>Mostra quando l&apos;utente sceglie una risposta errata.</translation>
+        <translation type="unfinished">Wird bei Auswahl einer falschen Antwort gezeigt.</translation>
     </message>
     <message>
         <source>Enter an optional explanation</source>
-        <translation>Inserisci una spiegazione opzionale</translation>
+        <translation type="unfinished">Geben Sie eine optionale Erklärung ein</translation>
     </message>
     <message>
         <source>Limit duration</source>
-        <translation>Limita durata</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Automatically close the poll at a set time</source>
-        <translation>Chiudi automaticamente il sondaggio dopo un limite di tempo impostato</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close in</source>
-        <translation>Chiudi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1 hour</source>
-        <translation>1 ora</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3 hours</source>
-        <translation>3 ore</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>8 hours</source>
-        <translation>8 ore</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1 day</source>
-        <translation>1 giorno</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3 days</source>
-        <translation>3 giorni</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Personalizzato</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close poll in</source>
-        <translation>Chiudi sondaggio</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hide results</source>
-        <translation>Nascondi risultati</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hide results until the poll closes</source>
-        <translation>Nascondi i risultati fino a che il sondaggio non finisce</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2254,63 +2250,63 @@ Trascina in basso per visitare telegram.org</translation>
     <message>
         <source>This secret chat was created</source>
         <comment>Notification</comment>
-        <translation>Chat segreta creata</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
         <comment>Notification button for closing a newly created secret chat</comment>
-        <translation>Chiudi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You have a new message</source>
         <comment>Notification</comment>
-        <translation>Hai un nuovo messaggio</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <comment>Shorter version of &apos;Mark as read&apos; for a notification button. The buttons must fit on a single line.</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reply</source>
+        <comment>Shorter version for a notification button. The buttons must fit on a single line.</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>Mentions in %1</source>
         <comment>Title for a notification containing messages with mentions from a group chat. Mention count is displayed separately</comment>
-        <translation>
-            <numerusform>Menzioni in %1</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Mentions from %1</source>
         <comment>Title for a notification containing messages with mentions from a private chat. Mention count is displayed separately</comment>
-        <translation>
-            <numerusform>Menzioni da %1</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Incoming video call</source>
         <comment>notification</comment>
-        <translation>Videochiamata in arrivo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Incoming call</source>
         <comment>notification</comment>
-        <translation>Chiamata in arrivo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Accept</source>
         <comment>Accept a call</comment>
-        <translation>Accetta</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Decline</source>
         <comment>Decline a call</comment>
-        <translation>Declina</translation>
-    </message>
-    <message>
-        <source>Read</source>
-        <comment>Shorter version of &apos;Mark as read&apos; for a notification button. The buttons must fit on a single line.</comment>
-        <translation>Letto</translation>
-    </message>
-    <message>
-        <source>Reply</source>
-        <comment>Shorter version for a notification button. The buttons must fit on a single line.</comment>
-        <translation>Rispondi</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2318,246 +2314,246 @@ Trascina in basso per visitare telegram.org</translation>
     <message>
         <source>Sound</source>
         <comment>Page header</comment>
-        <translation>Suono</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upload Sound</source>
         <comment>Upload a new sound</comment>
-        <translation>Carica Suono</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Elimina</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Default</source>
         <comment>Sound</comment>
-        <translation>Predefinito</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Sound</comment>
-        <translation>Disabilitato</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>NotificationsContextMenu</name>
     <message>
         <source>Mute forever</source>
-        <translation>Silenzia per sempre</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>Mute for %Ln hours</source>
-        <translation>
-            <numerusform>Silenzia per %Ln ore</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Mute notifications</source>
-        <translation>Notifiche</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Customize</source>
-        <translation>Personalizza</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mute for…</source>
-        <translation>Silenzia per...</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>NotificationsSwitch</name>
     <message>
         <source>Notifications</source>
-        <translation>Notifiche</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Muted</source>
-        <translation>SilenziateSilenziate</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Muted for %1</source>
-        <translation>Silenziate per %1Silenziate per %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unmuted</source>
-        <translation>Attive</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1, press and hold for more options</source>
-        <translation>%1, premi e tieni premuto per ulteriori opzioni</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Opal.About</name>
     <message>
         <source>About</source>
-        <translation>In riguardo</translation>
+        <translation>Über</translation>
     </message>
     <message>
         <source>Version %1</source>
-        <translation>Versione %1</translation>
+        <translation>Version %1</translation>
     </message>
     <message>
         <source>Development</source>
-        <translation>Sviluppo</translation>
+        <translation>Entwicklung</translation>
     </message>
     <message>
         <source>show contributors</source>
-        <translation>mostra i collaboratori</translation>
+        <translation>Mitwirkende zeigen</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation>Pagina iniziale</translation>
+        <translation>Webseite</translation>
     </message>
     <message>
         <source>Changelog</source>
-        <translation>Registro delle modifiche</translation>
+        <translation>Änderungsverlauf</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation>Traduzioni</translation>
+        <translation>Übersetzungen</translation>
     </message>
     <message>
         <source>Source Code</source>
-        <translation>Codice sorgente</translation>
+        <translation>Quellcode</translation>
     </message>
     <message>
         <source>Donations</source>
-        <translation>Donazioni</translation>
+        <translation>Spenden</translation>
     </message>
     <message>
         <source>License</source>
-        <translation>Licenza</translation>
+        <translation>Lizenz</translation>
     </message>
     <message numerus="yes">
         <source>show license(s)</source>
         <translation>
-            <numerusform>mostra licenza</numerusform>
-            <numerusform>mostra licenze</numerusform>
+            <numerusform>Lizenz zeigen</numerusform>
+            <numerusform>Lizenzen zeigen</numerusform>
         </translation>
     </message>
     <message>
         <source>News</source>
-        <translation>Notizie</translation>
+        <translation>Neuigkeiten</translation>
     </message>
     <message>
         <source>Changes since version %1</source>
-        <translation>Modifiche dalla versione %1</translation>
+        <translation>Änderungen seit Version %1</translation>
     </message>
     <message>
         <source>show details</source>
-        <translation>mostra dettagli</translation>
+        <translation>Details zeigen</translation>
     </message>
     <message>
         <source>Thank you!</source>
-        <translation>Grazie mille!</translation>
+        <translation>Vielen Dank!</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation>Dettagli</translation>
+        <translation>Details</translation>
     </message>
     <message>
         <source>Contributors</source>
-        <translation>Collaboratori</translation>
+        <translation>Mitwirkende</translation>
     </message>
     <message>
         <source>Acknowledgements</source>
-        <translation>Ringraziamenti</translation>
+        <translation>Danksagungen</translation>
     </message>
     <message>
         <source>External Link</source>
-        <translation>Collegamento esterno</translation>
+        <translation>Externer Link</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation>Apri nel browser</translation>
+        <translation>Im Browser öffnen</translation>
     </message>
     <message>
         <source>Copied to clipboard: %1</source>
-        <translation>Copiato negli appunti %1</translation>
+        <translation>In die Zwischenablage kopiert: %1</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation>Copia negli appunti</translation>
+        <translation>In die Zwischenablage kopieren</translation>
     </message>
     <message>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation>Fare riferimento a &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
+        <translation>Bitte beachten Sie &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Download license texts</source>
-        <translation>Scarica i testi delle licenze</translation>
+        <translation>Lizenztexte herunterladen</translation>
     </message>
     <message>
         <source>You are using a mobile data connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie verwenden eine Mobile Datenverbindung.</translation>
     </message>
     <message numerus="yes">
         <source>License(s)</source>
         <translation>
-            <numerusform>Licenza</numerusform>
-            <numerusform>Licenze</numerusform>
+            <numerusform>Lizenz</numerusform>
+            <numerusform>Lizenzen</numerusform>
         </translation>
     </message>
     <message>
         <source>Note: please check the source code for most accurate information.</source>
-        <translation>Nota: per informazioni più accurate, controllare il codice sorgente.</translation>
+        <translation>Hinweis: Bitte prüfen Sie den Quellcode für alle Einzelheiten.</translation>
     </message>
 </context>
 <context>
     <name>Opal.About.Common</name>
     <message>
         <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation>Se vuoi sostenere il mio lavoro, puoi offrirmi una tazza di caffè.</translation>
+        <translation>Sie können mir gerne einen Kaffee spendieren, wenn Sie meine Arbeit unterstützen möchten.</translation>
     </message>
     <message>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation>Puoi sostenere questo progetto contribuendo o effettuando una donazione tramite uno di questi servizi.</translation>
+        <translation>Sie können dieses Projekt durch Ihre Mitarbeit oder durch eine Spende über einen dieser Dienste unterstützen.</translation>
     </message>
     <message>
         <source>Your contributions to translations or code would be most welcome.</source>
-        <translation>I vostri contributi alle traduzioni o al codice saranno molto graditi.</translation>
+        <translation>Ihre Mitarbeit bei Übersetzungen oder der Programmierung wäre eine große Hilfe.</translation>
     </message>
 </context>
 <context>
     <name>Opal.LinkHandler</name>
     <message>
         <source>Copied to clipboard: %1</source>
-        <translation>Copiato negli appunti: %1</translation>
+        <translation>In die Zwischenablage kopiert: %1</translation>
     </message>
     <message>
         <source>Share link</source>
-        <translation>Condividi collegamento</translation>
+        <translation>Link teilen</translation>
     </message>
     <message>
         <source>Phone number</source>
-        <translation>Numero di telefono</translation>
+        <translation>Telefonnummer</translation>
     </message>
     <message>
         <source>External link</source>
-        <translation>Collegamento esterno</translation>
+        <translation>Externer Link</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation>Apri nel browser</translation>
+        <translation>Im Browser öffnen</translation>
     </message>
     <message>
         <source>Open externally</source>
-        <translation>Apri esternamente</translation>
+        <translation>Extern öffnen</translation>
     </message>
     <message>
         <source>Share</source>
-        <translation>Condividi</translation>
+        <translation>Teilen</translation>
     </message>
     <message>
         <source>Copy link</source>
-        <translation type="unfinished">Copia collegamento</translation>
+        <translation>Link kopieren</translation>
     </message>
     <message>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>Text kopieren</translation>
     </message>
     <message>
         <source>No preview available.</source>
@@ -2572,189 +2568,189 @@ Trascina in basso per visitare telegram.org</translation>
     <name>OverviewPage</name>
     <message>
         <source>Settings</source>
-        <translation>Impostazioni</translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>New Chat</source>
-        <translation>Nuova chat</translation>
+        <translation>Neuer Chat</translation>
     </message>
     <message>
         <source>Logging out</source>
-        <translation>Disconnetto</translation>
+        <translation>Abmelden</translation>
     </message>
     <message>
         <source>Download of %1 successful.</source>
         <comment>in-app notification text</comment>
-        <translation>Scaricamento di %1 completato.</translation>
+        <translation type="unfinished">Download von %1 erfolgreich.</translation>
     </message>
     <message>
         <source>Open</source>
         <comment>in-app notification button: open downloaded file</comment>
-        <translation>Apri</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>Archivio</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search</source>
         <comment>pulley menu option for opening search page</comment>
-        <translation>Cerca</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation>Segna come letto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tap on the title bar to quickly open search</source>
-        <translation>Premi sulla barra del titoli per aprire velocemente la ricerca</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Loading</source>
-        <translation>Caricamento</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Download failed</source>
         <comment>in-app notification text</comment>
-        <translation>Scaricamento fallito</translation>
+        <translation>Download fehlgeschlagen</translation>
     </message>
     <message>
         <source>Unable to open link</source>
         <comment>in-app notification text</comment>
-        <translation>Woah carlo, impossibile aprire il collegamento</translation>
+        <translation>Kann Link nicht öffnen.</translation>
     </message>
     <message>
         <source>You joined this channel</source>
         <comment>channel</comment>
-        <translation>Sei entrato in questo canale</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You joined this group</source>
         <comment>group</comment>
-        <translation>Sei entrato in questo gruppo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Request to join sent</source>
         <comment>channel</comment>
-        <translation>Richiesta d&apos;accesso inviata</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Request to join sent</source>
         <comment>group</comment>
-        <translation>Richiesta d&apos;accesso inviata</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Your request to join the channel was declined</source>
         <comment>channel</comment>
-        <translation>La tua richiesta di entrare nel canale è stata rifiutata</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Your request to join the group was declined</source>
         <comment>group</comment>
-        <translation>La tua richiesta di entrare nel gruppo è stata rifiutata</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>An approval from a guard bot is required to join the chat, but guard bots are not yet supported</source>
-        <translation>Per entrare in questa chat è necessaria l&apos;approvazione di un bot guardia, ma i bot guardia non sono ancora supportati</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Link copied to clipboard</source>
-        <translation>Collegamento copiato negli appunti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Welcome to Telegram</source>
-        <translation>Benvenuto su Telegram</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pull down to search public chats or create a new chat</source>
-        <translation>Trascina in basso per cercare delle chat pubbliche o per crearne una nuova</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OverviewPageHeader</name>
     <message>
         <source>YAST Client</source>
-        <translation>YAST Client</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>PinnedMessageItem</name>
     <message>
         <source>Message unpinned</source>
-        <translation>Messaggio non più in evidenza</translation>
+        <translation>Nachricht losgeheftet</translation>
     </message>
     <message numerus="yes">
         <source>%Ln pinned messages</source>
-        <translation>
-            <numerusform>%Ln messaggi in evidenza</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Unpin all messages</source>
-        <translation>Rimuovi tutti i messaggi in evidenza</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pinned message</source>
-        <translation>Messaggio in evidenza</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Previous message</source>
-        <translation>Messaggio precedente</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>Pinned message #%Ln</source>
-        <translation>
-            <numerusform>Messaggio in evidenza #%Ln</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Messages unpinned</source>
-        <translation>Messaggi non più in evidenza</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All pinned messages</source>
-        <translation>Tutti i messaggi in evidenza</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No pinned messages</source>
-        <translation>Nessun messaggio in evidenza</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unpin message</source>
-        <translation>Rimuovi messaggio in evidenza</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>PollResultsPage</name>
     <message>
         <source>Quiz Results</source>
-        <translation>Risultati quiz</translation>
+        <translation>Quizergebnis</translation>
     </message>
     <message>
         <source>Poll Results</source>
-        <translation>Risultati sondaggio</translation>
+        <translation>Umfrageergebnis</translation>
     </message>
     <message numerus="yes">
         <source>%Ln vote(s) total</source>
         <comment>number of total votes</comment>
         <translation>
-            <numerusform>%Ln voto in totale</numerusform>
-            <numerusform>%Ln voti in totale</numerusform>
+            <numerusform>%Ln Stimme insgesamt</numerusform>
+            <numerusform>%Ln Stimmen insgesamt</numerusform>
         </translation>
     </message>
     <message>
         <source>Results</source>
         <comment>section header</comment>
-        <translation>Risultati</translation>
+        <translation>Ergebnis</translation>
     </message>
     <message numerus="yes">
         <source>%Ln vote(s)</source>
         <comment>number of votes for option</comment>
         <translation>
-            <numerusform>%Ln voto</numerusform>
-            <numerusform>%Ln voti</numerusform>
+            <numerusform>%Ln Antwort</numerusform>
+            <numerusform>%Ln Antworten</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -2769,15 +2765,15 @@ Trascina in basso per visitare telegram.org</translation>
         <source>%Ln vote(s) including yours</source>
         <comment>number of votes for option</comment>
         <translation>
-            <numerusform>%Ln voto incluso il tuo</numerusform>
-            <numerusform>%Ln voti incluso il tuo</numerusform>
+            <numerusform>%Ln Antwort inklusive Ihrer</numerusform>
+            <numerusform>%Ln Antworten inklusive Ihrer</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Show %Ln more</source>
         <comment>Button to show %Ln more poll voters</comment>
-        <translation>
-            <numerusform>Mostra altri %Ln</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
@@ -2786,118 +2782,118 @@ Trascina in basso per visitare telegram.org</translation>
     <name>ProxiesPage</name>
     <message>
         <source>MTPROTO</source>
-        <translation>MTPROTO</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>SOCKS5</source>
-        <translation>SOCKS5</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>HTTP</source>
-        <translation>HTTP</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add proxy</source>
-        <translation>Aggiungi proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Proxy</source>
-        <translation>Proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Proxy servers may be helpful in accessing Telegram if there is no connection in a specific region.</source>
-        <translation>I server proxy potrebbero aiutarti nell&apos;accedere a Telegram nel caso sia bloccato in una specifica nazione.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Connections</source>
-        <translation>Connessioni</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Without Proxy</source>
-        <translation>Senza Proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove</source>
         <comment>proxy</comment>
-        <translation>Rimuovi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit</source>
         <comment>proxy</comment>
-        <translation>Modifica</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No proxies</source>
-        <translation>Nessun proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pull down to add a new proxy server</source>
-        <translation>Trascina in basso per aggiungere un nuovo server proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy Proxy List</source>
-        <translation>Copia lista Proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy link</source>
         <comment>proxy</comment>
-        <translation>Copia collegamento</translation>
+        <translation type="unfinished">Link kopieren</translation>
     </message>
     <message>
         <source>Proxy List copied to clipboard</source>
-        <translation>Lista Proxy copiata negli appunti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1, %2</source>
         <comment>Combines the &quot;Added %Ln proxies&quot; and &quot;%Ln failed&quot; strings</comment>
-        <translation>%1, %2</translation>
+        <translation type="unfinished">%1, %2</translation>
     </message>
     <message numerus="yes">
         <source>Added %Ln proxies</source>
         <comment>First part of &quot;Added %Ln proxies, %Ln failed&quot;</comment>
-        <translation>
-            <numerusform>Aggiunti %Ln proxy</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%Ln failed</source>
         <comment>Second part of &quot;Added %Ln proxies, %Ln failed&quot;</comment>
-        <translation>
-            <numerusform>%Ln falliti</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Failed to add %Ln proxies</source>
-        <translation>
-            <numerusform>Aggiunta di %Ln proxy fallita</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Added %Ln proxies</source>
-        <translation>
-            <numerusform>Aggiunti %Ln proxy</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Add proxy from clipboard</source>
-        <translation>Aggiungi proxy dagli appunti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Try connecting through IPv6</source>
-        <translation>Prova a connetterti tramite IPv6</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>connecting…</source>
         <comment>Indicates that a connection test is being done for a proxy or a direct connection to Telegram&apos;s servers</comment>
-        <translation>connessione...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sort by Ping</source>
-        <translation>Ordina per Ping</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2905,7 +2901,7 @@ Trascina in basso per visitare telegram.org</translation>
     <message>
         <source>Search</source>
         <comment>page header for search page</comment>
-        <translation>Cerca</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2913,108 +2909,108 @@ Trascina in basso per visitare telegram.org</translation>
     <message>
         <source>Search</source>
         <comment>Placeholder text for chats search field</comment>
-        <translation>Cerca</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Frequent contacts</source>
-        <translation>Contatti recenti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove from Recents</source>
-        <translation>Rimuovi dai Recenti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recent</source>
         <comment>Recently found chats</comment>
-        <translation>Recenti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cleared recents</source>
         <comment>Remorse popup indicating that recently found chats are cleared</comment>
-        <translation>Recenti rimossi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove from Recent</source>
         <comment>Remove a chat from recently found chats</comment>
-        <translation>Rimuovi dai Recenti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Global search results</source>
-        <translation>Risultati globali di ricerca</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Searching chats</source>
-        <translation>Ricerca chat</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Results</source>
-        <translation>Nessun risultato</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No recent searches</source>
-        <translation>Nessuna chat recente</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>There were no results for &quot;%1&quot;. Try another search.</source>
-        <translation>Non ci sono risultati per &quot;%1&quot;. Prova con un&apos;altra ricerca.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recent search results will appear here.</source>
-        <translation>Le ricerche recenti appariranno quì.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SetBirthdateDialog</name>
     <message>
         <source>Your birthday</source>
-        <translation>Il tuo compleanno</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove birthday</source>
-        <translation>Rimuovi compleanno</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SettingsAdvanced</name>
     <message>
         <source>Advanced</source>
-        <translation>Avanzate</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Voice messages volume</source>
-        <translation>Volume messaggi vocali</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Translate formatted text</source>
-        <translation>Traduci testo formattato</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Force QtMultimedia-based audio recorder</source>
-        <translation>Forza il registratore audio di QtMultimedia</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Forcefully allow AI summary</source>
-        <translation>Forza riassunto con IA</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Calls</source>
-        <translation>Chiamate</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save call logs</source>
-        <translation>Salve log chiamate</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save logs from tgcalls to Downloads</source>
-        <translation>Salva log da tgcalls a Scaricati</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable online-only mode</source>
-        <translation>Abilita modalità solo online</translation>
+        <translation type="unfinished">Nur-Online-Modus einschalten</translation>
     </message>
     <message>
         <source>Disables offline caching. Certain features may be limited or missing in this mode. Changes require a restart of the app to take effect.</source>
-        <translation>Disabilita la cache offline. Alcune funzioni potrebbero essere limitate o mancare del tutto. Le modifiche richiedono un riavvio dell&apos;applicazione per avere effetto.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TDLib log verbosity</source>
@@ -3031,415 +3027,415 @@ Trascina in basso per visitare telegram.org</translation>
     <message>
         <source>None</source>
         <comment>Empty log stream (logging disabled)</comment>
-        <translation type="unfinished">Nessuno</translation>
+        <translation type="unfinished">Keine</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">File</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SettingsAppearance</name>
     <message>
         <source>Appearance</source>
-        <translation>Aspetto</translation>
+        <translation>Erscheinungsbild</translation>
     </message>
     <message>
         <source>Show stickers as emojis</source>
-        <translation>Mostra adesivi come emoji</translation>
+        <translation>Sticker als Emojis anzeigen</translation>
     </message>
     <message>
         <source>Only display emojis instead of the actual stickers</source>
-        <translation>Visualizza emoji invece degli adesivi</translation>
+        <translation>Nur Emojis anstelle der eigentlichen Sticker anzeigen</translation>
     </message>
     <message>
         <source>Show stickers as images</source>
-        <translation>Mostra adesivi come immagini</translation>
+        <translation>Sticker als Bilder anzeigen</translation>
     </message>
     <message>
         <source>Show background for stickers and align them centrally like images</source>
-        <translation>Mostra sfondo per gli adesivi e centrali come le immagini</translation>
+        <translation>Hintergrund für Sticker anzeigen und sie wie Bilder mittig platzieren</translation>
     </message>
     <message>
         <source>Animate stickers</source>
-        <translation>Riproduci adesivi animati</translation>
+        <translation>Sticker animieren</translation>
     </message>
     <message>
         <source>Video stickers</source>
-        <translation>Adesivi video</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Move chat folders panel to bottom</source>
-        <translation>Muovi pannello schede chat in basso</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show chat folders icons</source>
-        <translation>Mostra icone cartelle chat</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Downscale animated stickers</source>
-        <translation>Riduci qualità sticker animati</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>May improve performance on low-end devices</source>
-        <translation>Potrebbe aumentare la qualità su dispositivi più vecchi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Compact chat list</source>
-        <translation>Vista chat compatta</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Make chats in the list smaller</source>
-        <translation>Rende la lista delle chat più piccola</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Attachment button location</source>
-        <translation>Modalità per mancini</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Disattivata</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Attivata</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chat folders</source>
-        <translation>Cartelle chat</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stickers</source>
-        <translation>Sticker</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SettingsArchiveChatList</name>
     <message>
         <source>Archive</source>
-        <translation>Archivio</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Always keep unmuted chats archived</source>
-        <translation>Tieni sempre le chat non silenziate archiviate</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Keep archived chats in the Archive even if they are unmuted and get a new message.</source>
-        <translation>Tieni le chat archiviate nell&apos;Archivio anche se non sono silenziate e ricevono nuovi messaggi.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Always keep chats from folders archived</source>
-        <translation>Tieni sempre archiviate le chat delle cartelle</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Keep archived chats from folders in the Archive even if they are unmuted and get a new message.</source>
-        <translation>Tieni le chat archiviate dalle cartelle nell&apos;Archivio anche se non sono silenziate e ricevono nuovi messaggi.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Automatically archive new chats from unknown users</source>
-        <translation>Archivia automaticamente nuove chat da utenti sconosciuti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Automatically archive and mute new chats, groups and channels from non-contacts.</source>
-        <translation>Archivia e silenzia automaticamente nuove chat, gruppi e canali dalle persone non in rubrica.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SettingsBehavior</name>
     <message>
         <source>Behavior</source>
-        <translation>Comportamento</translation>
+        <translation>Verhalten</translation>
     </message>
     <message>
         <source>Send message by enter</source>
-        <translation>Invia messaggi con tasto invio</translation>
+        <translation>Nachricht mit Enter senden</translation>
     </message>
     <message>
         <source>Send your message by pressing the enter key</source>
-        <translation>Invia il tuo messaggio con il tasto invio</translation>
+        <translation>Senden Sie Ihre Nachricht, indem Sie die Enter-Taste drücken</translation>
     </message>
     <message>
         <source>Focus text input on chat open</source>
-        <translation>Tastiera in primo piano con chat aperta</translation>
+        <translation>Texteingabe fokussieren beim Öffnen eines Chats</translation>
     </message>
     <message>
         <source>Focus the text input area when entering a chat</source>
-        <translation>Tastiera in primo piano su apertura chat</translation>
+        <translation>Texteingabe fokussieren, wenn ein Chat betreten wird</translation>
     </message>
     <message>
         <source>Focus text input area after send</source>
-        <translation>Tastiera in primo piano dopo invio</translation>
+        <translation>Texteingabe nach Senden fokussieren</translation>
     </message>
     <message>
         <source>Focus the text input area after sending a message</source>
-        <translation>Mantieni la tastiera in primo piano dopo aver inviato un messaggio</translation>
+        <translation>Fokussiert die Texteingabe nach Senden einer Nachricht</translation>
     </message>
     <message>
         <source>Delay before marking messages as read</source>
-        <translation>Attendi prima di segnare i messaggi come già letti</translation>
+        <translation>Verzögerung bevor Nachrichten als gelesen markiert werden</translation>
     </message>
     <message>
         <source>Highlight unread messages</source>
-        <translation>Evidenzia messaggi non letti</translation>
+        <translation>Ungelesene Nachrichten hervorheben</translation>
     </message>
     <message>
         <source>Highlight Conversations with unread messages</source>
-        <translation>Evidenzia conversazioni con messaggi non letti</translation>
+        <translation>Unterhaltungen mit ungelesenen Nachrichten hervorheben</translation>
     </message>
     <message>
         <source>Send attachments by enter</source>
-        <translation>Invia allegati con il tasto invio</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show translate option for messages</source>
-        <translation>Mostra l&apos;opzione traduci per i messaggi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Parse markdown when sending messages</source>
-        <translation>Interpreta markdown quando invii i messaggi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>There will be a slight delay before the messages will be read</source>
-        <translation>Ci sarà un leggero ritardo prima che i messaggi siano letti</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SettingsNotifications</name>
     <message>
         <source>Notifications and sounds</source>
-        <translation>Notifiche e suoni</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Notification feedback</source>
-        <translation>Feedback notifiche</translation>
+        <translation type="unfinished">Rückmeldung bei Hinweisen</translation>
     </message>
     <message>
         <source>Use non-graphical feedback (sound, vibration) for notifications</source>
-        <translation>Usa feedback non visuale come suoni e/o vibrazione per le notifiche</translation>
+        <translation type="unfinished">Nicht-grafische Rückmeldungen (Klänge, Vibration) bei Hinweisen nutzen</translation>
     </message>
     <message>
         <source>All events</source>
-        <translation>Tutti gli eventi</translation>
+        <translation type="unfinished">Alle Ereignisse</translation>
     </message>
     <message>
         <source>Only new events</source>
-        <translation>Solo nuovi eventi</translation>
+        <translation type="unfinished">Nur neue Ereignisse</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Nessuno</translation>
+        <translation type="unfinished">Keine</translation>
     </message>
     <message>
         <source>Events</source>
-        <translation>Eventi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Contact joined Telegram</source>
-        <translation>Il contatto si è registrato su Telegram</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Notification turns on the display</source>
-        <translation>Le notifiche attivano il display</translation>
+        <translation type="unfinished">Hinweis schaltet den Bildschirm an</translation>
     </message>
     <message>
         <source>Hide content in notifications</source>
-        <translation>Nascondi il contenuto delle notifiche</translation>
+        <translation type="unfinished">Inhalte in Hinweisen verbergen</translation>
     </message>
     <message>
         <source>Setting quick reaction from notifications</source>
-        <translation>Imposta reazioni veloci dalle notifiche</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>In-chat sounds</source>
-        <translation>Suoni in chat</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Play sounds for incoming and outgoing messages when a chat is open</source>
-        <translation>Riproduci dei suoni per i messaggi in arrivo ed in uscita quando una chat è aperta</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Include muted chats in unread count</source>
-        <translation>Includi chat silenziate nel conteggio dei non letti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show unread chat count in folders</source>
-        <translation>Mostra il conteggio dei non letti nelle cartelle</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Include muted chats in folders unread count</source>
-        <translation>Includi le chat silenziate dal conteggio non letti delle cartelle</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Calls</source>
-        <translation>Chiamate</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ringtone for incoming calls in Do not disturb mode</source>
-        <translation>Suoneria per chiamate in arrivo in modalità Non disturbare</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Allow incoming calls to play ringtones in &apos;Do not disturb&apos; mode</source>
-        <translation>Consenti suoneria per chiamate in arrivo anche in modalità &quot;Non disturbare&quot;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pinned Messages</source>
-        <translation>Messaggi in evidenza</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Badge counter</source>
-        <translation>Contatore</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Private chats</source>
-        <translation>Chat private</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Groups</source>
-        <translation>Gruppi</translation>
+        <translation type="unfinished">Gruppen</translation>
     </message>
     <message>
         <source>Channels</source>
-        <translation>Canali</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sounds</source>
-        <translation>Suoni</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Always use the default notification sound</source>
-        <translation>Usa sempre il suono predefinito di notifica</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use the notification sound set in SailfishOS settings even if a custom sound is set for a chat type or a specific chat</source>
-        <translation>Usa il suono di notifica impostato nelle impostazioni di Sailfish OS anche se è impostato un suono personalizzato per un tipo di chat o una chat specifica</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Notifications for chats</source>
-        <translation>Notifiche per chat</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>Settings</source>
-        <translation>Impostazioni</translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>About YAST</source>
-        <translation>Info su YAST</translation>
+        <translation type="unfinished">Über YAST</translation>
     </message>
     <message>
         <source>Is %1 still your number?</source>
-        <translation>%1 è ancora il tuo numero?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Keep your number up to date to ensure you can always log into Telegram.</source>
-        <translation>Tieni il tuo numero aggiornato per stare sicuro di poter effettuare sempre l&apos;accesso a Telegram.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change phone number</source>
         <comment>Button in the menu for suggestion to check if the phone number is still yours</comment>
-        <translation>Cambia numero di telefono</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Keep %1</source>
         <comment>Button hiding the suggestion to check if the phone number is still yours</comment>
-        <translation>Tieni %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Learn More</source>
         <comment>Learn more about the suggestion to check if the phone number is still yours</comment>
-        <translation>Scopri di più</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you still remember your password?</source>
-        <translation>Ricordi ancora la tua password?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Check that you still remember your 2-Step Verification password to ensure you can always log into Telegram.</source>
-        <translation>Controlla di ricordare la tua password per la verifica a due fattori, per essere sicuro di poter accedere sempre a Telegram.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Verify Password</source>
         <comment>Button in the menu for suggestion to check if you still remember your 2FA password</comment>
-        <translation>Verifica Password</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hide Suggestion</source>
         <comment>Button hiding the suggestion to check if you still remember your 2FA password</comment>
-        <translation>Nascondi Suggerimento</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>https://telegram.org/faq#q-i-have-a-new-phone-number-what-do-i-do</source>
         <comment>URL to the Telegram&apos;s FAQ about changing the phone number for this language. Keep unfinished or as-is if not available for your language</comment>
-        <translation>https://telegram.org/faq?setln=it#q-i-have-a-new-phone-number-what-do-i-do</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SettingsPrivacy</name>
     <message>
         <source>Privacy</source>
-        <translation>Riservatezza</translation>
+        <translation>Privatsphäre</translation>
     </message>
     <message>
         <source>Allow chat invites</source>
-        <translation>Consenti inviti chat</translation>
+        <translation>Chateinladungen erlauben</translation>
     </message>
     <message>
         <source>Privacy setting for managing whether you can be invited to chats.</source>
-        <translation>Impostazione per consentire di essere invitato in una chat.</translation>
+        <translation>Privatsphären-Einstellung zur Regelung, ob Sie zu Chats eingeladen werden können.</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Si</translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>Your contacts only</source>
-        <translation>Solo tuoi contatti</translation>
+        <translation>Nur Ihre Kontakte</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>No</translation>
+        <translation>Nein</translation>
     </message>
     <message>
         <source>Allow finding by phone number</source>
-        <translation>Consenti ricerca con il tuo numero di telefono</translation>
+        <translation>Auffinden per Telefonnummer erlauben</translation>
     </message>
     <message>
         <source>Privacy setting for managing whether you can be found by your phone number.</source>
-        <translation>Impostazione per consentire di essere trovato con il tuo numero di telefono.</translation>
+        <translation>Privatsphären-Einstellung zur Regelung, ob Sie per Telefonnummer gefunden werden können.</translation>
     </message>
     <message>
         <source>Show link in forwarded messages</source>
-        <translation>Mostra link nei messaggi inoltrati</translation>
+        <translation>Link in weitergeleiteten Nachrichten anzeigen</translation>
     </message>
     <message>
         <source>Privacy setting for managing whether a link to your account is included in forwarded messages.</source>
-        <translation>Impostazione per consentire di inserire un link al tuo account quando vengono inoltrati i tuoi messaggi.</translation>
+        <translation>Privatsphären-Einstellung zur Regelung, ob ein Link zu Ihrem Profil in weitergeleiteten Nachrichten eingebettet wird.</translation>
     </message>
     <message>
         <source>Show phone number</source>
-        <translation>Mostra il tuo numero</translation>
+        <translation>Telefonnummer anzeigen</translation>
     </message>
     <message>
         <source>Privacy setting for managing whether your phone number is visible.</source>
-        <translation>Indica chi può vedere il tuo numero di telefono.</translation>
+        <translation>Privatsphären-Einstellung zur Regelung, ob Ihre Telefonnummer sichtbar ist.</translation>
     </message>
     <message>
         <source>Show profile photo</source>
-        <translation>Mostra foto del profilo</translation>
+        <translation>Profilfoto anzeigen</translation>
     </message>
     <message>
         <source>Privacy setting for managing whether your profile photo is visible.</source>
-        <translation>Impostazioni per gestire chi può vedere la tua foto del profilo.</translation>
+        <translation>Privatsphären-Einstellung zur Regelung, ob Ihr Profilfoto sichtbar ist.</translation>
     </message>
     <message>
         <source>Show status</source>
-        <translation>Mostra stato</translation>
+        <translation>Status anzeigen</translation>
     </message>
     <message>
         <source>Privacy setting for managing whether your online status is visible.</source>
-        <translation>Impostazioni per rendere visibile il tuo ultimo accesso con precisione.</translation>
+        <translation>Privatsphären-Einstellung zur Regelung, ob Ihr Onlinestatus sichtbar ist.</translation>
     </message>
     <message>
         <source>Bots and websites</source>
@@ -3461,239 +3457,238 @@ Trascina in basso per visitare telegram.org</translation>
 <context>
     <name>SettingsSession</name>
     <message>
-        <source>Sessions</source>
-        <translation>Sessioni</translation>
-    </message>
-    <message>
         <source>Session was terminated</source>
-        <translation>La sessione è stata terminata</translation>
-    </message>
-    <message>
-        <source>Terminating session</source>
-        <translation>Sto terminando la sessione</translation>
+        <translation>Sitzung wurde beendet</translation>
     </message>
     <message>
         <source>Terminate Session</source>
-        <translation>Termina Sessione</translation>
+        <translation>Sitzung beenden</translation>
     </message>
     <message>
         <source>This app</source>
-        <translation>Questa applicazione</translation>
+        <translation>Diese App</translation>
     </message>
     <message>
         <source>Active since: %1, last online: %2</source>
-        <translation>Attivo da: %1, ultimo accesso: %2</translation>
+        <translation>Aktiv seit: %1, zuletzt online: %2</translation>
+    </message>
+    <message>
+        <source>Terminating session</source>
+        <translation>Beende Sitzung</translation>
+    </message>
+    <message>
+        <source>Sessions</source>
+        <translation>Sitzungen</translation>
     </message>
     <message numerus="yes">
         <source>%1 day(s)</source>
         <translation>
-            <numerusform>%1 giorno</numerusform>
-            <numerusform>%1 giorni</numerusform>
+            <numerusform>%1 Tag</numerusform>
+            <numerusform>%1 Tage</numerusform>
         </translation>
     </message>
     <message>
         <source>1 week</source>
-        <translation>1 settimana</translation>
+        <translation>1 Woche</translation>
     </message>
     <message>
         <source>1 month</source>
-        <translation>1 mese</translation>
+        <translation>1 Monat</translation>
     </message>
     <message>
         <source>3 months</source>
-        <translation>3 mesi</translation>
+        <translation>3 Monate</translation>
     </message>
     <message>
         <source>6 months</source>
-        <translation>6 mesi</translation>
+        <translation>6 Monate</translation>
     </message>
     <message>
         <source>1 year</source>
-        <translation>1 anno</translation>
+        <translation>1 Jahr</translation>
     </message>
     <message>
         <source>Session Timeout</source>
-        <translation>Timeout sessione</translation>
+        <translation>Timeout von Sitzungen</translation>
     </message>
     <message>
         <source>Inactive sessions will be terminated after this timeframe</source>
-        <translation>Le sessioni inattive saranno terminate dopo questo intervallo di tempo</translation>
+        <translation>Inaktive Sitzungen werden nach dieser Zeitdauer abgeschaltet</translation>
     </message>
 </context>
 <context>
     <name>SettingsStorage</name>
     <message>
         <source>Enable storage optimizer</source>
-        <translation>Abilita ottimizzazione memoria</translation>
+        <translation>Speicheroptimierer einschalten</translation>
     </message>
     <message>
         <source>Optimize storage</source>
-        <translation>Ottimizza spazio archiviazione</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear all cache</source>
-        <translation>Pulisci la cache</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clearing all cache is not recommended, unless issues occur.</source>
-        <translation>Pulire la cache non è raccomandato, a meno di problemi.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>&lt;b&gt;%Ln&lt;/b&gt; files, totalling &lt;b&gt;%1&lt;/b&gt;</source>
-        <translation>
-            <numerusform>&lt;b&gt;%Ln&lt;/b&gt; file, per un totale di &lt;b&gt;%1&lt;/b&gt;</numerusform>
-            <numerusform>&lt;b&gt;%Ln&lt;/b&gt; file, per un totale di &lt;b&gt;%1&lt;/b&gt;</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Local database size: &lt;b&gt;%1&lt;/b&gt;</source>
-        <translatorcomment>Dimensione database locale: &lt;b&gt;%1&lt;/b&gt;</translatorcomment>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TDLib log size: &lt;b&gt;%1&lt;/b&gt;</source>
-        <translation>Dimensione log TDLib: &lt;b&gt;%1&lt;/b&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TDLib language pack database size: &lt;b&gt;%1&lt;/b&gt;</source>
-        <translation>Dimensione database pacchi lingue TDLib : &lt;b&gt;%1&lt;/b&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Data and Storage</source>
-        <translation>Dati e Archiviazione</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Proxy settings</source>
-        <translation>Impostazioni proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SettingsUserProfile</name>
     <message>
         <source>User Profile</source>
-        <translation>Profilo utente</translation>
+        <translation>Nutzungsprofil</translation>
     </message>
     <message>
         <source>First Name</source>
         <comment>first name of the logged-in profile - header</comment>
-        <translation>Nome</translation>
+        <translation>Vorname</translation>
     </message>
     <message>
         <source>Enter 1-64 characters</source>
-        <translation>Inserisci da 1 a 64 caratteri</translation>
+        <translation>Geben Sie 1-64 Zeichen ein</translation>
     </message>
     <message>
         <source>Last Name</source>
         <comment>last name of the logged-in profile - header</comment>
-        <translation>Cognome</translation>
+        <translation>Nachname</translation>
     </message>
     <message>
         <source>Enter 0-64 characters</source>
-        <translation>Inserisci da 0 a 64 caratteri</translation>
+        <translation>Geben Sie 0-64 Zeichen ein</translation>
     </message>
     <message>
         <source>Username</source>
         <comment>user name of the logged-in profile - header</comment>
-        <translation>Nome utente</translation>
+        <translation>Benutzername</translation>
     </message>
     <message>
         <source>Profile Pictures</source>
-        <translation>Foto del profilo</translation>
+        <translation>Profilbilder</translation>
     </message>
     <message>
         <source>Add Picture</source>
-        <translation>Aggiungi foto</translation>
+        <translation>Bild hinzufügen</translation>
     </message>
     <message>
         <source>Log Out</source>
-        <translation>Esci</translation>
+        <translation>Abmelden</translation>
     </message>
     <message>
         <source>Logged out</source>
-        <translation>Disconnesso</translation>
+        <translation>Abgemeldet</translation>
     </message>
     <message>
         <source>Phone number: +%1</source>
-        <translation>Telefono: +%1</translation>
+        <translation>Telefonnummer: +%1</translation>
     </message>
     <message>
         <source>Birthday</source>
-        <translation>Compleanno</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add</source>
         <comment>Add the birthday to your profile</comment>
-        <translation>Aggiungi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Uploading…</source>
-        <translation>Caricamento...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sync contacts</source>
-        <translation>Sincronizza contatti</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>StickerPicker</name>
     <message>
         <source>Removing sticker set</source>
-        <translation>Rimuovi il set di adesivi</translation>
+        <translation>Entferne Sticker-Set</translation>
     </message>
     <message>
         <source>Recently used</source>
         <comment>stickers</comment>
-        <translation>Usati di recente</translation>
+        <translation type="unfinished">Kürzlich verwendet</translation>
     </message>
     <message>
         <source>Favorite</source>
         <comment>stickers</comment>
-        <translation>Preferiti</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>StickerSetOverlay</name>
     <message>
         <source>Sticker set installed</source>
-        <translation>Set di sticker installato</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sticker set removed</source>
-        <translation>Set di sticker rimosso</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TDLibChatListItem</name>
     <message>
         <source>Secret Chat</source>
-        <translation>Chat segreta</translation>
+        <translation type="unfinished">Geheimer Chat</translation>
     </message>
     <message>
         <source>Private Chat</source>
-        <translation>Chat privata</translation>
+        <translation type="unfinished">Privater Chat</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Gruppo</translation>
+        <translation type="unfinished">Gruppe</translation>
     </message>
     <message>
         <source>Channel</source>
-        <translation>Canale</translation>
+        <translation type="unfinished">Kanal</translation>
     </message>
     <message numerus="yes">
         <source>%1 members</source>
-        <translation>
-            <numerusform>%1 membro</numerusform>
-            <numerusform>%1 membri</numerusform>
+        <translation type="unfinished">
+            <numerusform>%1 Mitglied</numerusform>
+            <numerusform>%1 Mitglieder</numerusform>
         </translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Sconosciuto</translation>
+        <translation type="unfinished">Unbekannt</translation>
     </message>
     <message>
         <source>Saved Messages</source>
-        <translation>Messaggi salvati</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3701,874 +3696,874 @@ Trascina in basso per visitare telegram.org</translation>
     <message>
         <source>Unknown</source>
         <comment>An unknown chat or user</comment>
-        <translation>Sconosciuto</translation>
+        <translation type="unfinished">Unbekannt</translation>
     </message>
 </context>
 <context>
     <name>TDLibWrapper</name>
     <message>
         <source>Waiting for network…</source>
-        <translation>Attendo la rete…</translation>
+        <translation>Warte auf Netzwerk…</translation>
     </message>
     <message>
         <source>Connecting to network…</source>
-        <translation>Connessione alla rete…</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Connecting to proxy…</source>
-        <translation>Connessione al proxy…</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Updating content…</source>
-        <translation>Aggiornamento…</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TopicsBetaNoticeDialog</name>
     <message>
         <source>Back to Messages</source>
-        <translation>Ritorna ai messaggi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Proceed</source>
-        <translation>Procedi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Beta Notice</source>
-        <translation>Avviso Beta</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Forum topics are currently a %1beta feature%2</source>
-        <translation>I topic sono attualmente una %1funzione beta%2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Basics Already Work</source>
-        <translation>Le funzioni di base sono già presenti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You can already switch between topics, as well as view and send messages in them</source>
-        <translation>Puoi già vedere i vari topic, così come inviare messaggi in essi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Viewing as Messages</source>
-        <translation>Vedi tutti i messaggi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>When a feature you want to use is not yet available for forum topics, you can always switch back to the whole chat view by pulling down to return to the older behavior</source>
-        <translation>Quando una funzione che ti serve non è ancora disponibile nei topic, puoi sempre selezionare &quot;vedi come lista&quot; selezionando l&apos;apposita impostazione nel menu pulley</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Help the Development</source>
-        <translation>Aiuta lo sviluppo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If you find a bug, submit it %1on GitHub%2. Make sure to check %4existing issues%3 first to avoid creating duplicates. React to issues you think are the most critical to make them more recognizeable and faster to get fixed.</source>
-        <translation>Se riscontri qualche bug, segnalalo %1su GitHub%2. Assicurati di controllare le %4segnalazioni esistenti%3 per evitare di creare duplicati. Ricordati inoltre di collaborare, per la risoluzione più veloce di un bug, se credi questo sia critico.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TopicsListView</name>
     <message>
         <source>No topics here yet</source>
-        <translation>Ancora nessun topic quì</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pull down to start the first topic or view the group as messages</source>
-        <translation>Trascina in basso per iniziare il primo topic o vedere il gruppo come lista</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This topic was created</source>
-        <translation>Il topic è stato creato</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Forum topic not found</source>
-        <translation>Topic del forum non trovato</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Forward to…</source>
-        <translation>Inoltra a...</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TranslatePage</name>
     <message>
         <source>Change language</source>
-        <translation>Cambia lingua</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation>Traduzione</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Copia</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Lingua</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%2Device Language%3 (%1)</source>
         <comment>Indicator in language selection page for translation that a certain language is currently set as the device language</comment>
-        <translation>%2Lingua dispositivo%3 (%1)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Device Language</source>
-        <translation>Lingua dispositivo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Summarize</source>
-        <translation>Riassumi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Translate</source>
-        <translation>Traduci</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>AI Summary (%1)</source>
-        <translation>Riassunto IA (%1)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>AI Summary</source>
-        <translation>Riassunto IA</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Default</source>
         <comment>Default language for AI summary</comment>
-        <translation>Predefinita</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Utilities</name>
     <message>
         <source>Video: %1</source>
-        <translation>Video: %1</translation>
-    </message>
-    <message>
-        <source>Voice message: %1</source>
-        <translation>Nota vocale: %1</translation>
+        <translation type="unfinished">Video: %1</translation>
     </message>
     <message>
         <source>has added %1 to the chat</source>
-        <translation>ha aggiunto %1 alla chat</translation>
-    </message>
-    <message>
-        <source>left this chat</source>
-        <comment>myself</comment>
-        <translation>hai lasciato questa chat</translation>
-    </message>
-    <message>
-        <source>left this chat</source>
-        <translation>ha lasciato questa chat</translation>
+        <translation type="unfinished">hat %1 zum Chat hinzugefügt</translation>
     </message>
     <message>
         <source>have removed %1 from the chat</source>
         <comment>myself</comment>
-        <translation>hai rimosso %1 dalla chat</translation>
+        <translation type="unfinished">haben %1 vom Chat entfernt</translation>
     </message>
     <message>
         <source>has removed %1 from the chat</source>
-        <translation>ha rimosso %1 dalla chat</translation>
-    </message>
-    <message>
-        <source>changed the chat title to %1</source>
-        <comment>myself</comment>
-        <translation>hai modificato il titolo della chat in %1</translation>
-    </message>
-    <message>
-        <source>changed the chat title to %1</source>
-        <translation>ha modificato il titolo della chat in %1</translation>
+        <translation type="unfinished">hat %1 vom Chat entfernt</translation>
     </message>
     <message>
         <source>Anonymous Quiz</source>
-        <translation>Quiz anonimo</translation>
+        <translation type="unfinished">Anonymes Quiz</translation>
     </message>
     <message>
         <source>Quiz</source>
-        <translation>Quiz</translation>
+        <translation type="unfinished">Quiz</translation>
     </message>
     <message>
         <source>Anonymous Poll</source>
-        <translation>Sondaggio anonimo</translation>
+        <translation type="unfinished">Anonyme Umfrage</translation>
     </message>
     <message>
         <source>Poll</source>
-        <translation>Sondaggio</translation>
-    </message>
-    <message>
-        <source>created this group</source>
-        <comment>myself</comment>
-        <translation>hai creato questo gruppo</translation>
-    </message>
-    <message>
-        <source>created this group</source>
-        <translation>ha creato questo gruppo</translation>
-    </message>
-    <message>
-        <source>changed the chat photo</source>
-        <comment>myself</comment>
-        <translation>hai modificato l&apos;immagine di profilo della chat</translation>
-    </message>
-    <message>
-        <source>changed the chat photo</source>
-        <translation>ha cambiato l&apos;immagine di profilo della chat</translation>
-    </message>
-    <message>
-        <source>deleted the chat photo</source>
-        <comment>myself</comment>
-        <translation>hai eliminato l&apos;immagine di profilo della chat</translation>
-    </message>
-    <message>
-        <source>deleted the chat photo</source>
-        <translation>ha eliminato l&apos;immagine di profilo della chat</translation>
-    </message>
-    <message>
-        <source>upgraded this group to a supergroup</source>
-        <comment>myself</comment>
-        <translation>hai aggiornato questo gruppo ad un supergruppo</translation>
-    </message>
-    <message>
-        <source>upgraded this group to a supergroup</source>
-        <translation>ha aggiornato questo gruppo ad un supergruppo</translation>
-    </message>
-    <message>
-        <source>pinned a message</source>
-        <comment>myself</comment>
-        <translation>hai messo un messaggio in evidenza</translation>
-    </message>
-    <message>
-        <source>pinned a message</source>
-        <translation>ha messo un messaggio in evidenza</translation>
-    </message>
-    <message>
-        <source>sent a self-destructing photo that is expired</source>
-        <comment>myself</comment>
-        <translation>hai inviato una foto con timer che è scaduta</translation>
-    </message>
-    <message>
-        <source>sent a self-destructing photo that is expired</source>
-        <translation>ha inviato una foto con timer che è scaduta</translation>
+        <translation type="unfinished">Umfrage</translation>
     </message>
     <message>
         <source>sent a self-destructing video that is expired</source>
         <comment>myself</comment>
-        <translation>hai inviato un video con timer che è scaduto</translation>
+        <translation type="unfinished">haben ein selbstzerstörendes Video gesendet, das abgelaufen ist</translation>
     </message>
     <message>
         <source>sent a self-destructing video that is expired</source>
-        <translation>ha inviato un video con timer che è scaduto</translation>
-    </message>
-    <message>
-        <source>sent a self-destructing voice message that is expired</source>
-        <comment>myself</comment>
-        <translation>hai inviato un messaggio vocale con timer che è scaduto</translation>
-    </message>
-    <message>
-        <source>sent a self-destructing voice message that is expired</source>
-        <translation>ha inviato un messaggio vocale con timer che è scaduto</translation>
-    </message>
-    <message>
-        <source>sent a self-destructing video message that is expired</source>
-        <comment>myself</comment>
-        <translation>hai inviato un videomessaggio con timer che è scaduto</translation>
-    </message>
-    <message>
-        <source>sent a self-destructing video message that is expired</source>
-        <translation>ha inviato un videomessaggio con timer che è scaduto</translation>
-    </message>
-    <message>
-        <source>created a screenshot in this chat</source>
-        <comment>myself</comment>
-        <translation>hai fatto uno screenshot di questa chat</translation>
-    </message>
-    <message>
-        <source>created a screenshot in this chat</source>
-        <translation>ha fatto uno screenshot di questa chat</translation>
-    </message>
-    <message numerus="yes">
-        <source>scored %Ln points</source>
-        <comment>myself</comment>
-        <translation>
-            <numerusform>hai fatto %Ln punto</numerusform>
-            <numerusform>hai fatto %Ln punti</numerusform>
-        </translation>
-    </message>
-    <message numerus="yes">
-        <source>scored %Ln points</source>
-        <translation>
-            <numerusform>ha fatto %Ln punto</numerusform>
-            <numerusform>ha fatto %Ln punti</numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>you allowed this bot to message you when you added it to your attachment menu</source>
-        <translation>hai permesso a questo bot di scriverti quando l&apos;hai aggiunto al menu degli allegati</translation>
-    </message>
-    <message>
-        <source>you allowed this bot to message you when you logged in on %1</source>
-        <translation>hai permesso a questo bot di scriverti quando sei entrato su %1</translation>
-    </message>
-    <message>
-        <source>you allowed this bot to message you in its web-app</source>
-        <translation>hai permesso a questo bot di scriverti nella sua applicazione web</translation>
-    </message>
-    <message>
-        <source>you allowed this bot to message you</source>
-        <translation>hai permesso a questo bot di scriverti</translation>
-    </message>
-    <message numerus="yes">
-        <source>boosted this chat %Ln times</source>
-        <comment>myself</comment>
-        <translation>
-            <numerusform>hai potenziato questa chat %Ln volta</numerusform>
-            <numerusform>hai potenziato questa chat %Ln volte</numerusform>
-        </translation>
-    </message>
-    <message numerus="yes">
-        <source>boosted this chat %Ln times</source>
-        <translation>
-            <numerusform>ha potenziato questa chat %Ln volta</numerusform>
-            <numerusform>ha potenziato questa chat %Ln volte</numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>sent a gift</source>
-        <comment>myself</comment>
-        <translation>hai inviato un regalo</translation>
-    </message>
-    <message>
-        <source>sent a gift</source>
-        <translation>ha inviato un regalo</translation>
-    </message>
-    <message>
-        <source>started a giveaway</source>
-        <comment>myself</comment>
-        <translation>hai iniziato un giveaway</translation>
-    </message>
-    <message>
-        <source>started a giveaway</source>
-        <translation>ha iniziato un giveaway</translation>
-    </message>
-    <message>
-        <source>a giveaway was completed</source>
-        <comment>myself</comment>
-        <translation>hai completato un giveaway</translation>
-    </message>
-    <message>
-        <source>a giveaway was completed</source>
-        <translation>ha completato un giveaway</translation>
-    </message>
-    <message>
-        <source>sent an unsupported message</source>
-        <comment>myself</comment>
-        <translation>hai inviato un messaggio non supportato</translation>
-    </message>
-    <message>
-        <source>sent an unsupported message</source>
-        <translation>ha inviato un messaggio non supportato</translation>
-    </message>
-    <message>
-        <source>sent an unsupported message: %1</source>
-        <comment>myself; %1 is message type</comment>
-        <translation>hai inviato un messaggio non supportato: %1</translation>
-    </message>
-    <message>
-        <source>sent an unsupported message: %1</source>
-        <comment>%1 is message type</comment>
-        <translation>ha inviato un messaggio non supportato: %1</translation>
-    </message>
-    <message>
-        <source>Photo: %1</source>
-        <translation>Foto: %1</translation>
-    </message>
-    <message>
-        <source>Photo</source>
-        <translation>Foto</translation>
-    </message>
-    <message>
-        <source>Video</source>
-        <translation>Video</translation>
-    </message>
-    <message>
-        <source>Video message</source>
-        <translation>Videomessaggio</translation>
-    </message>
-    <message>
-        <source>GIF: %1</source>
-        <translation>GIF: %1</translation>
-    </message>
-    <message>
-        <source>GIF</source>
-        <translation>GIF</translation>
-    </message>
-    <message>
-        <source>%1: %2</source>
-        <comment>Audio message. %1 is the audio file name, %2 is the caption</comment>
-        <translation>%1: %2</translation>
-    </message>
-    <message>
-        <source>Audio</source>
-        <translation>Audio</translation>
-    </message>
-    <message>
-        <source>%1: %2</source>
-        <comment>A message with a file attached. %1 is the file name, %2 is the caption</comment>
-        <translation>%1: %2</translation>
-    </message>
-    <message>
-        <source>File</source>
-        <translation>File</translation>
-    </message>
-    <message>
-        <source>Voice message</source>
-        <translation>Nota vocale</translation>
-    </message>
-    <message>
-        <source>Venue: %1</source>
-        <translation>Luogo: %1</translation>
-    </message>
-    <message>
-        <source>Venue</source>
-        <translation>Luogo</translation>
-    </message>
-    <message>
-        <source>Game</source>
-        <translation>Gioco</translation>
-    </message>
-    <message>
-        <source>Quiz: %1</source>
-        <translation>Quiz: %1</translation>
-    </message>
-    <message>
-        <source>Anonymous Poll: %1</source>
-        <translation>Sondaggio anonimo: %1</translation>
-    </message>
-    <message>
-        <source>Poll: %1</source>
-        <translation>Sondaggio: %1</translation>
-    </message>
-    <message>
-        <source>Game: %1</source>
-        <translation>Gioco: %1</translation>
-    </message>
-    <message>
-        <source>Sticker</source>
-        <translation>Sticker</translation>
-    </message>
-    <message>
-        <source>created this topic</source>
-        <comment>myself</comment>
-        <translation>hai creato questo topic</translation>
-    </message>
-    <message>
-        <source>created this topic</source>
-        <translation>ha creato questo topic</translation>
-    </message>
-    <message>
-        <source>created the topic &quot;%1&quot;</source>
-        <comment>myself</comment>
-        <translation>hai creato questo topic &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>created the topic &quot;%1&quot;</source>
-        <translation>ha creato questo topic &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>renamed this topic to &quot;%1&quot;</source>
-        <comment>myself</comment>
-        <translation>hai rinominato questo topic in &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>renamed this topic to &quot;%1&quot;</source>
-        <translation>ha rinominato questo topic in &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>renamed the topic &quot;%1&quot;</source>
-        <comment>myself</comment>
-        <translation>hai rinominato il topic in &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>renamed the topic &quot;%1&quot;</source>
-        <translation>ha rinominato il topic in &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>changed this topic&apos;s icon</source>
-        <comment>myself</comment>
-        <translation>hai modificato l&apos;icona di questo topic</translation>
-    </message>
-    <message>
-        <source>changed this topic&apos;s icon</source>
-        <translation>ha cambiato l&apos;icona di questo topic</translation>
-    </message>
-    <message>
-        <source>changed the icon of the topic &quot;%1&quot;</source>
-        <comment>myself</comment>
-        <translation>hai modificato l&apos;icona del topic &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>changed the icon of the topic &quot;%1&quot;</source>
-        <translation>ha cambiato l&apos;icona del topic &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>closed this topic</source>
-        <comment>myself</comment>
-        <translation>hai chiuso questo topic</translation>
-    </message>
-    <message>
-        <source>closed this topic</source>
-        <translation>ha chiuso questo topic</translation>
-    </message>
-    <message>
-        <source>closed the topic &quot;%1&quot;</source>
-        <comment>myself</comment>
-        <translation>hai chiuso il topic &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>closed the topic &quot;%1&quot;</source>
-        <translation>ha chiuso il topic &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>reopened this topic</source>
-        <comment>myself</comment>
-        <translation>hai riaperto questo topic</translation>
-    </message>
-    <message>
-        <source>reopened this topic</source>
-        <translation>ha riaperto questo topic</translation>
-    </message>
-    <message>
-        <source>reopened the topic &quot;%1&quot;</source>
-        <comment>myself</comment>
-        <translation>hai riaperto il topic &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>reopened the topic &quot;%1&quot;</source>
-        <translation>ha riaperto il topic &quot;%1&quot;</translation>
-    </message>
-    <message>
-        <source>hid this topic</source>
-        <comment>myself</comment>
-        <translation>hai nascosto questo topic</translation>
-    </message>
-    <message>
-        <source>hid this topic</source>
-        <translation>ha nascosto questo topic</translation>
-    </message>
-    <message>
-        <source>hid the general topic</source>
-        <comment>myself</comment>
-        <translation>hai nascosto il topic generale</translation>
-    </message>
-    <message>
-        <source>hid the general topic</source>
-        <translation>ha nascosto il topic generale</translation>
-    </message>
-    <message>
-        <source>unhid this topic</source>
-        <comment>myself</comment>
-        <translation>hai riattivato questo topic</translation>
-    </message>
-    <message>
-        <source>unhid this topic</source>
-        <translation>ha riattivato questo topic</translation>
-    </message>
-    <message>
-        <source>unhid the general topic</source>
-        <comment>myself</comment>
-        <translation>hai riattivato il topic generale</translation>
-    </message>
-    <message>
-        <source>unhid the general topic</source>
-        <translation>ha riattivato il topic generale</translation>
-    </message>
-    <message>
-        <source>Deleted Account</source>
-        <translation>Elimina account</translation>
+        <translation type="unfinished">haben ein selbstzerstörendes Video gesendet, das abgelaufen ist</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>A user without a known name</comment>
-        <translation>Sconosciuto</translation>
+        <translation type="unfinished">Unbekannt</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>A chat without a known name</comment>
-        <translation>Sconosciuto</translation>
+        <translation type="unfinished">Unbekannt</translation>
+    </message>
+    <message>
+        <source>Sticker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GIF: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GIF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1: %2</source>
+        <comment>Audio message. %1 is the audio file name, %2 is the caption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1: %2</source>
+        <comment>A message with a file attached. %1 is the file name, %2 is the caption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice message: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Voice message</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Location</source>
-        <translation>Posizione</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Venue: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Venue</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Anonymous Quiz: %1</source>
-        <translation>Quiz anonimo : %1</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quiz: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Anonymous Poll: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Poll: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Game: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>left this chat</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>left this chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>changed the chat title to %1</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>changed the chat title to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>created this group</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>created this group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>changed the chat photo</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>changed the chat photo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted the chat photo</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted the chat photo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>upgraded this group to a supergroup</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>upgraded this group to a supergroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pinned a message</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pinned a message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sent a self-destructing photo that is expired</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sent a self-destructing photo that is expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sent a self-destructing voice message that is expired</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sent a self-destructing voice message that is expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sent a self-destructing video message that is expired</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sent a self-destructing video message that is expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>created a screenshot in this chat</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>created a screenshot in this chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>scored %Ln points</source>
+        <comment>myself</comment>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>scored %Ln points</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>you allowed this bot to message you when you added it to your attachment menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>you allowed this bot to message you when you logged in on %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>you allowed this bot to message you in its web-app</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>you allowed this bot to message you</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>boosted this chat %Ln times</source>
+        <comment>myself</comment>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>boosted this chat %Ln times</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>sent a gift</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sent a gift</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>started a giveaway</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>started a giveaway</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a giveaway was completed</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a giveaway was completed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>created this topic</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>created this topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>created the topic &quot;%1&quot;</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>created the topic &quot;%1&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>renamed this topic to &quot;%1&quot;</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>renamed this topic to &quot;%1&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>renamed the topic &quot;%1&quot;</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>renamed the topic &quot;%1&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>changed this topic&apos;s icon</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>changed this topic&apos;s icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>changed the icon of the topic &quot;%1&quot;</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>changed the icon of the topic &quot;%1&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>closed this topic</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>closed this topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>closed the topic &quot;%1&quot;</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>closed the topic &quot;%1&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>reopened this topic</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>reopened this topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>reopened the topic &quot;%1&quot;</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>reopened the topic &quot;%1&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>hid this topic</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>hid this topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>hid the general topic</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>hid the general topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>unhid this topic</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>unhid this topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>unhid the general topic</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>unhid the general topic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>added &quot;%1&quot; to the poll</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>added &quot;%1&quot; to the poll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>removed &quot;%1&quot; from the poll</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>removed &quot;%1&quot; from the poll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sent an unsupported message</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sent an unsupported message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sent an unsupported message: %1</source>
+        <comment>myself; %1 is message type</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sent an unsupported message: %1</source>
+        <comment>%1 is message type</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deleted Account</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>, </source>
         <comment>Separator for names</comment>
-        <translation>, </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 and %2</source>
         <comment>names</comment>
-        <translation>%1 e %2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%1 and %Ln others</source>
         <comment>names</comment>
-        <translation>
-            <numerusform>%1 e %Ln altri</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>typing</source>
-        <translation>Sta scrivendo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%1 is typing</source>
-        <translation>
-            <numerusform>%1 sta scrivendo</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>recording a video</source>
-        <translation>sta registrando un video</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%1 is recording a video</source>
-        <translation>
-            <numerusform>%1 sta registrando un video</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>sending a video</source>
-        <translation>sta inviando un video</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%1 is sending a video</source>
-        <translation>
-            <numerusform>%1 sta inviando un video</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>recording a voice message</source>
-        <translation>sta registrando una nota vocale</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%1 is recording a voice message</source>
-        <translation>
-            <numerusform>%1 sta registrando una nota vocale</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>sending a voice message</source>
-        <translation>sta inviando una nota vocale</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%1 is sending a voice message</source>
-        <translation>
-            <numerusform>%1 sta inviando una nota vocale</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>sending a photo</source>
-        <translation>sta inviando una foto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%1 is sending a photo</source>
-        <translation>
-            <numerusform>%1 sta inviando una foto</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>sending a file</source>
-        <translation>sta inviando un file</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%1 is sending a file</source>
-        <translation>
-            <numerusform>%1 sta inviando un file</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>choosing a sticker</source>
-        <translation>sta scegliendo un adesivo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%1 is choosing a sticker</source>
-        <translation>
-            <numerusform>%1 sta scegliendo un adesivo</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>choosing location</source>
-        <translation>sta scegliendo una posizione</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%1 is choosing location</source>
-        <translation>
-            <numerusform>%1 sta scegliendo una posizione</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>choosing a contact</source>
-        <translation>sta scegliendo un contatto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%1 is choosing a contact</source>
-        <translation>
-            <numerusform>%1 sta scegliendo un contatto</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>playing a game</source>
-        <translation>sta giocando ad un gioco</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%1 is playing a game</source>
-        <translation>
-            <numerusform>%1 sta giocando ad un gioco</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>recording a video message</source>
-        <translation>sta registrando un videomessaggio</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%1 is recording a video message</source>
-        <translation>
-            <numerusform>%1 sta registrando un videomessaggio</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>sending a video message</source>
-        <translation>sta inviando un videomessaggio</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%1 is sending a video message</source>
-        <translation>
-            <numerusform>%1 sta inviando un videomessaggio</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
-    </message>
-    <message>
-        <source>added &quot;%1&quot; to the poll</source>
-        <translation>ha aggiunto %1 al sondaggio</translation>
-    </message>
-    <message>
-        <source>removed &quot;%1&quot; from the poll</source>
-        <translation>ha rimosso %1 dal sondaggio</translation>
-    </message>
-    <message>
-        <source>Canceled Video Call</source>
-        <comment>outgoing</comment>
-        <translation>Videochiamata cancellata</translation>
-    </message>
-    <message>
-        <source>Missed Video Call</source>
-        <comment>incoming</comment>
-        <translation>Videochiamata persa</translation>
-    </message>
-    <message>
-        <source>Outgoing Video Call</source>
-        <translation>Videochiamata in uscita</translation>
-    </message>
-    <message>
-        <source>Incoming Video Call</source>
-        <translation>Videochiamata in entrata</translation>
-    </message>
-    <message>
-        <source>Canceled Call</source>
-        <comment>outgoing</comment>
-        <translation>Chiamata cancellata</translation>
-    </message>
-    <message>
-        <source>Missed Call</source>
-        <comment>incoming</comment>
-        <translation>Chiamata persa</translation>
-    </message>
-    <message>
-        <source>Outgoing Call</source>
-        <translation>Chiamata in uscita</translation>
-    </message>
-    <message>
-        <source>Incoming Call</source>
-        <translation>Chiamata in entrata</translation>
-    </message>
-    <message>
-        <source>Outgoing Group Call</source>
-        <translation>Chiamata di gruppo in uscita</translation>
-    </message>
-    <message>
-        <source>Missed Group Call</source>
-        <translation>Chiamata di gruppo persa</translation>
-    </message>
-    <message>
-        <source>Incoming Group Call</source>
-        <translation>Chiamata di gruppo in entrata</translation>
     </message>
     <message>
         <source>watching %1</source>
         <comment>The other party is watching an animation, %1 is the emoji describing the animation being watched</comment>
-        <translation>sta guardando %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%1 is watching %2</source>
         <comment>%1 is watching an animation, %2 is the emoji describing the animation being watched</comment>
-        <translation>
-            <numerusform>%1 sta guardando %2</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <source>added &quot;%1&quot; to the poll</source>
-        <comment>myself</comment>
-        <translation>ha aggiunto %1 al sondaggio</translation>
+        <source>Canceled Video Call</source>
+        <comment>outgoing</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>removed &quot;%1&quot; from the poll</source>
-        <comment>myself</comment>
-        <translation>ha rimosso %1 dal sondaggio</translation>
+        <source>Missed Video Call</source>
+        <comment>incoming</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outgoing Video Call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incoming Video Call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Canceled Call</source>
+        <comment>outgoing</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missed Call</source>
+        <comment>incoming</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outgoing Call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incoming Call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outgoing Group Call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missed Group Call</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Incoming Group Call</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>joined the chat from the &quot;%1&quot; community</source>
         <comment>myself</comment>
-        <translation>sei entrato nella chat dalla community &quot;%1&quot;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>joined the chat from the &quot;%1&quot; community</source>
-        <translation>è entrato nella chat dalla community &quot;%1&quot;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>added the chat to the &quot;%1&quot; community</source>
         <comment>myself</comment>
-        <translation>hai aggiunto la chat alla community &quot;%1&quot;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>added the chat to the &quot;%1&quot; community</source>
-        <translation>ha aggiunto la chat alla community &quot;%1&quot;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>removed the chat from the community</source>
         <comment>myself</comment>
-        <translation>hai rimosso la chat alla community</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>removed the chat from the community</source>
-        <translation>ha rimosso la chat alla community</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Contact</source>
@@ -4670,85 +4665,85 @@ Trascina in basso per visitare telegram.org</translation>
     <name>VoiceNoteOverlay</name>
     <message>
         <source>Record a Voice Note</source>
-        <translation>Registra una nota vocale</translation>
+        <translation>Eine Sprachnachricht aufzeichnen</translation>
     </message>
     <message>
         <source>Press the button to start recording</source>
-        <translation>Premi il pulsante per iniziare la registrazione</translation>
+        <translation>Drücken Sie den Knopf, um die Aufzeichnung zu starten</translation>
     </message>
     <message>
         <source>Unavailable</source>
-        <translation>Non disponibile</translation>
-    </message>
-    <message>
-        <source>Starting</source>
-        <translation>Inizia</translation>
-    </message>
-    <message>
-        <source>Recording</source>
-        <translation>In registrazione</translation>
-    </message>
-    <message>
-        <source>Stopping</source>
-        <translation>Stop</translation>
-    </message>
-    <message>
-        <source>Use recording</source>
-        <translation>Usa registrazione</translation>
-    </message>
-    <message>
-        <source>Voice Note (%1)</source>
-        <translation>Nota vocale (%1)</translation>
+        <translation>Nicht verfügbar</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>Pronto</translation>
+        <translation>Bereit</translation>
+    </message>
+    <message>
+        <source>Starting</source>
+        <translation>Startet</translation>
+    </message>
+    <message>
+        <source>Recording</source>
+        <translation>Zeichnet auf</translation>
+    </message>
+    <message>
+        <source>Stopping</source>
+        <translation>Stoppt</translation>
+    </message>
+    <message>
+        <source>Use recording</source>
+        <translation>Aufzeichnung verwenden</translation>
+    </message>
+    <message>
+        <source>Voice Note (%1)</source>
+        <translation>Sprachnachricht (%1)</translation>
     </message>
 </context>
 <context>
     <name>WebPagePreview</name>
     <message>
         <source>Preview not supported for this link</source>
-        <translation>Anteprima non supportata per questo collegamento</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>WelcomeDialog</name>
     <message>
         <source>Start Messaging</source>
-        <translation>Inizia a messaggiare</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>YAST Client is a yet another SailfishOS Telegram client</source>
-        <translation>Il cliet YAST è un altro client di Telegram per SailfishOS</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>YAST is not an official Telegram client, but it uses the official Telegram API through TDLib</source>
-        <translation>YAST non è un client Telegram ufficiale, ma usa le API ufficiali tramite TDLib</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Free</source>
-        <translation>Gratuito</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Telegram provides free unlimited cloud storage for chats and media</source>
-        <translation>Telegram ti da spazio illimitato di archiviazione per per conversazioni e media</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Secure</source>
-        <translation>Sicuro</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Telegram keeps your messages safe from hacker attacks</source>
-        <translation>Telegram tiene i tuoi messaggi al sicuro dagli attacchi hacker</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cloud-Based</source>
-        <translation>Basato sul cloud</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Telegram lets you access your messages from multiple devices</source>
-        <translation>Telegram ti consente di accedere ai tuoi messaggi da più dispositivi</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4759,23 +4754,23 @@ Trascina in basso per visitare telegram.org</translation>
     </message>
     <message>
         <source>%1K</source>
-        <translation>%1K</translation>
+        <translation>%1T</translation>
     </message>
     <message>
         <source>was never online</source>
-        <translation>mai online</translation>
+        <translation>war niemals online</translation>
     </message>
     <message>
         <source>last online: last month</source>
-        <translation>ultimo accesso il mese scorso</translation>
+        <translation>zuletzt online im letzten Monat</translation>
     </message>
     <message>
         <source>last online: last week</source>
-        <translation>ultimo accesso la settimana scorsa</translation>
+        <translation>zuletzt online in der letzten Woche</translation>
     </message>
     <message>
         <source>last online: %1</source>
-        <translation>ultimo accesso: %1</translation>
+        <translation>zuletzt online: %1</translation>
     </message>
     <message>
         <source>online</source>
@@ -4783,127 +4778,127 @@ Trascina in basso per visitare telegram.org</translation>
     </message>
     <message>
         <source>was recently online</source>
-        <translation>online di recente</translation>
+        <translation>war neulich online</translation>
     </message>
     <message>
         <source>Admin</source>
         <comment>channel user role</comment>
-        <translation>Amministratore</translation>
+        <translation>Administrator</translation>
     </message>
     <message>
         <source>Banned</source>
         <comment>channel user role</comment>
-        <translation>Bannato</translation>
+        <translation>Verbannt</translation>
     </message>
     <message>
         <source>Restricted</source>
         <comment>channel user role</comment>
-        <translation>Limitato</translation>
+        <translation>Eingeschränkt</translation>
     </message>
     <message>
         <source>Unable to find user %1</source>
-        <translation>Impossibile trovare l&apos;utente %1</translation>
+        <translation>Konnte Benutzer %1 nicht finden</translation>
     </message>
     <message>
         <source>You are already a member of this chat.</source>
-        <translation>Sei già membro di questa chat.</translation>
+        <translation>Sie sind bereits Mitglied dieses Chats.</translation>
     </message>
     <message>
         <source>Owner</source>
         <comment>channel user role</comment>
-        <translation>Proprietario</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1, %2</source>
         <comment>combination of &apos;[x members], [y online]&apos;, which are separate translations</comment>
-        <translation>%1, %2</translation>
+        <translation type="unfinished">%1, %2</translation>
     </message>
     <message numerus="yes">
         <source>%1 members</source>
-        <translation>
-            <numerusform>%1 membro</numerusform>
-            <numerusform>%1 membri</numerusform>
+        <translation type="unfinished">
+            <numerusform>%1 Mitglied</numerusform>
+            <numerusform>%1 Mitglieder</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%1 online</source>
-        <translation>
+        <translation type="unfinished">
             <numerusform>%1 online</numerusform>
             <numerusform>%1 online</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%1 subscribers</source>
-        <translation>
-            <numerusform>%1 abbonato</numerusform>
-            <numerusform>%1 abbonati</numerusform>
+        <translation type="unfinished">
+            <numerusform>%1 Abonnent</numerusform>
+            <numerusform>%1 Abonnenten</numerusform>
         </translation>
     </message>
     <message>
         <source>service notifications</source>
         <comment>used as a status for the service notifications chat</comment>
-        <translation>notifiche di servizio</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>support</source>
         <comment>used as a status for support chats, excluding the service notifications chat</comment>
-        <translation>supporto</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Channel</source>
-        <translation>Canale</translation>
+        <translation type="unfinished">Kanal</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Gruppo</translation>
+        <translation type="unfinished">Gruppe</translation>
     </message>
     <message>
         <source>Unavailable</source>
         <comment>Indicates that the proxy is unavailable</comment>
-        <translation>Non disponibile</translation>
+        <translation type="unfinished">Nicht verfügbar</translation>
     </message>
     <message numerus="yes">
         <source>Available (ping: %Ln ms)</source>
         <comment>Indicates that the proxy is available</comment>
-        <translation>
-            <numerusform>Disponibile (ping: %Ln ms)</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Available</source>
         <comment>Indicates that the proxy is available</comment>
-        <translation>Disponibile</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unmute</source>
-        <translation>Riattiva notifiche</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mute notifications</source>
-        <translation>Silenzia notifiche</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Closed</source>
         <comment>secret chat</comment>
-        <translation>Chiusa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pending acknowledgement</source>
         <comment>secret chat</comment>
-        <translation>In attesa di conferma</translation>
+        <translation type="unfinished">Ausstehende Bestätigung</translation>
     </message>
 </context>
 <context>
-    <name>harbour-yast-client</name>
+    <name>harbour-yast-x</name>
     <message>
         <source>Link unsupported: %1</source>
-        <translation>Collegamento non supportato: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TelegramTips</source>
         <comment>Username of the localized Telegram Tips channel. Keep unfinished or as-is if not available for your language</comment>
-        <translation>TelegramTipsIT</translation>
+        <translation>TelegramTipsDE</translation>
     </message>
 </context>
 </TS>

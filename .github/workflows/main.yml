@@ -38,8 +38,8 @@ jobs:
     - name: Prepare build variant
       run: |
         if [ "${{ matrix.variant }}" = "harbour" ]; then
-          sed -i 's/^Release:.*$/Release: 1/' rpm/harbour-yast-client.spec || true
-          sed -i 's/-DHARBOUR_COMPLIANCE=.*$/-DHARBOUR_COMPLIANCE=on/' rpm/harbour-yast-client.spec || true
+          sed -i 's/^Release:.*$/Release: 1/' rpm/harbour-yast-x.spec || true
+          sed -i 's/-DHARBOUR_COMPLIANCE=.*$/-DHARBOUR_COMPLIANCE=on/' rpm/harbour-yast-x.spec || true
         fi
 
     - name: Set Secrets
@@ -60,7 +60,7 @@ jobs:
 
     - name: Fix confusing release types
       run: |
-        for f in RPMS/harbour-yast-client-*-1.*.rpm; do
+        for f in RPMS/harbour-yast-x-*-1.*.rpm; do
           if [[ $f =~ -1\.(aarch64|i486|armv7hl)\.rpm$ ]]; then
             mv "$f" "${f%-1.*.rpm}-lite.${BASH_REMATCH[1]}.rpm"
           fi
@@ -86,7 +86,7 @@ jobs:
       uses: actions/download-artifact@v8
       with:
         path: RPMS
-        pattern: harbour-yast-client-*
+        pattern: harbour-yast-x-*
         merge-multiple: true
 
     - name: Upload the nightly release
@@ -117,7 +117,7 @@ jobs:
       uses: actions/download-artifact@v8
       with:
         path: RPMS
-        pattern: harbour-yast-client-*
+        pattern: harbour-yast-x-*
         merge-multiple: true
 
     - name: Upload the release to Telegram
@@ -131,7 +131,7 @@ jobs:
           CHAT_ID=${{ secrets.TELEGRAM_CHAT_ID_NIGHTLY }}
           IS_NIGHTLY=true
         fi
-        FILES=(RPMS/harbour-yast-client-*)
+        FILES=(RPMS/harbour-yast-x-*)
         MEDIA_ITEMS=()
 
         for i in "${!FILES[@]}"; do

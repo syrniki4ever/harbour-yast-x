@@ -1,236 +1,232 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ru">
+<TS version="2.1" language="en">
 <context>
     <name>AboutPage</name>
     <message>
         <source>About YAST</source>
-        <translation>О программе</translation>
+        <translation type="unfinished">About YAST</translation>
     </message>
     <message>
         <source>A Telegram client for Sailfish OS</source>
-        <translation>Клиент Telegram для Sailfish OS</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation>Перевод</translation>
+        <translation type="unfinished">Translations</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation>Итальянский</translation>
+        <translation type="unfinished">Italian</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation>Русский</translation>
+        <translation type="unfinished">Russian</translation>
     </message>
     <message>
         <source>Fernschreiber translations</source>
-        <translation>Перевод Fernschreiber</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chinese</source>
-        <translation>Китайский</translation>
+        <translation type="unfinished">Chinese</translation>
     </message>
     <message>
         <source>Finnish</source>
-        <translation>Финский</translation>
+        <translation type="unfinished">Finnish</translation>
     </message>
     <message>
         <source>French</source>
-        <translation>Французский</translation>
+        <translation type="unfinished">French</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation>Венгерский</translation>
+        <translation type="unfinished">Hungarian</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation>Польский</translation>
+        <translation type="unfinished">Polish</translation>
     </message>
     <message>
         <source>Slovak</source>
-        <translation>Словацкий</translation>
+        <translation type="unfinished">Slovak</translation>
     </message>
     <message>
         <source>Spanish</source>
-        <translation>Испанский</translation>
+        <translation type="unfinished">Spanish</translation>
     </message>
     <message>
         <source>Swedish</source>
-        <translation>Шведский</translation>
+        <translation type="unfinished">Swedish</translation>
     </message>
     <message>
         <source>This application is a fork of Fernschreiber, and wouldn&apos;t be possible without it. Thanks to everyone who developed and contributed to it!</source>
-        <translation>Это приложение - форк Fernschreiber, и не было бы возможно без него. Спасибо всем, кто учавствовал в его разработке!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Telegram Database Library (TDLib)</source>
-        <translation>Telegram Database Library (TDLib)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This project uses twemoji. Thanks for making it available under the conditions of the MIT License (coding) and CC-BY 4.0 (graphics)!</source>
-        <translation>Этот проект использует twemoji. Спасибо, что сделали её доступной на условиях лицензии MIT License (программирование) und CC-BY 4.0 (графика)!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Coding</source>
-        <translation>Программирование</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Graphics</source>
-        <translation>Графика</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This project uses OpenStreetMap Nominatim for reverse geocoding of location attachments. Thanks for making it available as web service!</source>
-        <translation>Этот проект использует OpenStreetMap Nominatim для обратного геокодирования вложений местоположения. Спасибо, что сделали его доступным в качестве веб-сервиса!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>About Telegram</source>
-        <translation>О Telegram</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This product uses the Telegram API but is not endorsed or certified by Telegram.</source>
-        <translation>Этот продукт использует Telegram API, но не одобрен или сертифицирован Telegram</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Terms of Service</source>
-        <translation>Условия использования</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Privacy Policy</source>
-        <translation>Политика конфиденциальности</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TDLib version %1 (commit hash %2)</source>
-        <translation>Версия TDLib %1 (хэш коммита %2)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>News</source>
-        <translation>Новости</translation>
+        <translation type="unfinished">News</translation>
     </message>
     <message>
         <source>Ask a Question</source>
         <comment>Contact support</comment>
-        <translation>Задать вопрос</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Not needed, debug mode is already enabled.</source>
-        <translation>Не требуется, режим отладки уже включён</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>You are now %n steps away from enabling debug mode</source>
-        <translation>
-            <numerusform>Вы теперь в %n шаге от включения режима отладки</numerusform>
-            <numerusform>Вы теперь в %n шагах от включения режима отладки</numerusform>
-            <numerusform>Вы теперь в %n шагах от включения режима отладки</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Debug mode is now enabled!</source>
-        <translation>Режим отладки теперь включён!</translation>
-    </message>
-    <message>
-        <source>SailfishOS Resources</source>
-        <translation>Ресурсы SailfishOS</translation>
-    </message>
-    <message>
-        <source>To get more info on SailfishOS, consider joining these groups and channels.</source>
-        <translation>Чтобы узнать больше о SailfishOS, присоединяйтесь к этим группам и каналам.</translation>
-    </message>
-    <message>
-        <source>International Fan Club</source>
-        <comment>Button which opens the SailfishOS Fan Club group</comment>
-        <translation>Клуб фанатов</translation>
-    </message>
-    <message>
-        <source>News Network</source>
-        <comment>Button which opens the Sailfish OS News Network channel</comment>
-        <translation>Новости</translation>
-    </message>
-    <message>
-        <source>Community meeting</source>
-        <comment>Button which opens the SailfishOS Meeting channel</comment>
-        <translation>Встреча сообщества</translation>
-    </message>
-    <message>
-        <source>Resources in your language</source>
-        <comment>Translate as (language)-speaking resources, for example English-speaking resources for English</comment>
-        <translation>Русскоязычные ресурсы</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Features</source>
         <comment>Opens Telegram Tips channel</comment>
-        <translation>Возможности</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SailfishOS Resources</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To get more info on SailfishOS, consider joining these groups and channels.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>International Fan Club</source>
+        <comment>Button which opens the SailfishOS Fan Club group</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>News Network</source>
+        <comment>Button which opens the Sailfish OS News Network channel</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Community meeting</source>
+        <comment>Button which opens the SailfishOS Meeting channel</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resources in your language</source>
+        <comment>Translate as (language)-speaking resources, for example English-speaking resources for English</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation>Чешский</translation>
+        <translation type="unfinished">Czech</translation>
     </message>
 </context>
 <context>
     <name>AddContactDialog</name>
     <message>
         <source>First name</source>
-        <translation>Имя</translation>
+        <translation>First name</translation>
     </message>
     <message>
         <source>Last name</source>
-        <translation>Фамилия</translation>
+        <translation>Last name</translation>
     </message>
     <message>
         <source>Share my phone number</source>
-        <translation>Делиться номером телефона</translation>
+        <translation>Share my phone number</translation>
     </message>
     <message>
         <source>Use the international format, e.g. %1</source>
-        <translation>Используйте международный формат, например %1</translation>
+        <translation>Use the international format, e.g. %1</translation>
     </message>
     <message>
         <source>Phone number</source>
-        <translation>Номер телефона</translation>
+        <translation>Phone number</translation>
     </message>
     <message numerus="yes">
         <source>First name must have 1-%Ln characters</source>
-        <translation>
-            <numerusform>Имя должно содержать 1-%Ln символ</numerusform>
-            <numerusform>Имя должно содержать 1-%Ln символа</numerusform>
-            <numerusform>Имя должно содержать 1-%Ln символов</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Last name length must be less than %Ln</source>
-        <translation>
-            <numerusform>Фамилия должна содержать 1-%Ln символ</numerusform>
-            <numerusform>Фамилия должна содержать 1-%Ln символа</numerusform>
-            <numerusform>Фамилия должна содержать 1-%Ln символов</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Note</source>
-        <translation>Заметка</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>Note length must be less than %Ln</source>
-        <translation>
-            <numerusform>Длина заметки должна не превышать %Ln</numerusform>
-            <numerusform>Длина заметки должна не превышать %Ln</numerusform>
-            <numerusform>Длина заметки должна не превышать %Ln</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>The note is only visible to you.</source>
-        <translation>Заметка видна только Вам.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete contact</source>
-        <translation>Удалить контакт</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Contact deleted</source>
-        <translation>Контакт удалён</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share contact</source>
-        <translation>Поделиться контактом</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -238,27 +234,27 @@
     <message>
         <source>Check status</source>
         <comment>Check proxy status when adding</comment>
-        <translation>Проверить</translation>
+        <translation>Check status</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Добавить</translation>
+        <translation>Add</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation>Сервер</translation>
+        <translation>Server</translation>
     </message>
     <message>
         <source>Port</source>
-        <translation>Порт</translation>
+        <translation>Port</translation>
     </message>
     <message>
         <source>TCP/UDP port number must be within the 0-65535 range</source>
-        <translation>Порт TCP/UDP должен быть в диапазоне 0-65535</translation>
+        <translation>TCP/UDP port number must be within the 0-65535 range</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Тип</translation>
+        <translation>Type</translation>
     </message>
     <message>
         <source>MTPROTO</source>
@@ -274,112 +270,112 @@
     </message>
     <message>
         <source>Secret</source>
-        <translation>Ключ</translation>
+        <translation>Secret</translation>
     </message>
     <message>
         <source>Transparent TCP connection</source>
-        <translation>Прозрачное TCP-соединение</translation>
+        <translation>Transparent TCP connection</translation>
     </message>
     <message>
         <source>Credentials (optional)</source>
-        <translation>Учётные данные (необязательно)</translation>
+        <translation>Credentials (optional)</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation>Имя пользователя</translation>
+        <translation>Username</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Пароль</translation>
+        <translation>Password</translation>
     </message>
     <message>
         <source>Add proxy</source>
-        <translation>Добавить прокси</translation>
+        <translation>Add proxy</translation>
     </message>
     <message>
         <source>Edit proxy</source>
-        <translation>Изменить прокси</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Сохранить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Favorite</source>
-        <translation>Избранное</translation>
+        <translation type="unfinished">Favorite</translation>
     </message>
     <message>
         <source>Favorite proxies are pinned to the top of the proxy list</source>
-        <translation>Избранные прокси-серверы закреплены вверху списка.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation>Комментарий</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ArchiveChatListTutorialDialog</name>
     <message>
         <source>This is your Archive</source>
-        <translation>Это Ваш архив</translation>
+        <translation>This is your Archive</translation>
     </message>
     <message>
         <source>Archived chats will remain in the Archive when you receive a new message. %1Tap to change%2</source>
-        <translation>Чаты остаются в архиве, когда приходят новые сообщения. %1Изменить%2</translation>
+        <translation>Archived chats will remain in the Archive when you receive a new message. %1Tap to change%2</translation>
     </message>
     <message>
         <source>When you receive a new message, muted chats will remain in the Archive, while unmuted chats will be moved to Chats. %1Tap to change%2</source>
-        <translation>Когда приходят новые сообщения, чаты без уведомлений остаются в архиве, а с включёнными уведомлениями — переносятся в «Чаты». %1Изменить%2</translation>
+        <translation>When you receive a new message, muted chats will remain in the Archive, while unmuted chats will be moved to Chats. %1Tap to change%2</translation>
     </message>
     <message>
         <source>Archived Chats</source>
-        <translation>Архив</translation>
+        <translation>Archived Chats</translation>
     </message>
     <message>
         <source>Move any chat into your Archive and back using the context menu.</source>
-        <translation>Чат можно перенести в архив и обратно, используя контекстное меню.</translation>
+        <translation>Move any chat into your Archive and back using the context menu.</translation>
     </message>
     <message>
         <source>Stories</source>
-        <translation>Истории</translation>
+        <translation>Stories</translation>
     </message>
     <message>
         <source>Archive Stories from your contacts separately from chats with them.</source>
-        <translation>Вы можете добавлять истории контактов в архив отдельно от чатов.</translation>
+        <translation>Archive Stories from your contacts separately from chats with them.</translation>
     </message>
 </context>
 <context>
     <name>ArchivedChatsPage</name>
     <message>
         <source>Archive</source>
-        <translation>Архив</translation>
+        <translation>Archive</translation>
     </message>
     <message>
         <source>How does it work?</source>
-        <translation>Как это работает?</translation>
+        <translation>How does it work?</translation>
     </message>
     <message>
         <source>Archive settings</source>
-        <translation>Настройки архива</translation>
+        <translation>Archive settings</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation>Пометить прочитанным</translation>
+        <translation>Mark as read</translation>
     </message>
     <message>
         <source>Archive is empty</source>
-        <translation>Архив пуст</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You can archive chats using the context menu.</source>
-        <translation>Вы можете помещать чаты в архив, используя контекстное меню.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AuthKeyDropDialog</name>
     <message>
         <source>Log out</source>
-        <translation>Выйти</translation>
+        <translation>Log out</translation>
     </message>
 </context>
 <context>
@@ -398,73 +394,73 @@
     <message>
         <source>Connected</source>
         <comment>Call status</comment>
-        <translation>Подключено</translation>
+        <translation>Connected</translation>
     </message>
 </context>
 <context>
     <name>CallPage</name>
     <message>
         <source>End call</source>
-        <translation>Завершить вызов</translation>
+        <translation>End call</translation>
     </message>
     <message>
         <source>Call back</source>
-        <translation>Перезвонить</translation>
+        <translation>Call back</translation>
     </message>
     <message>
         <source>%1&apos;s microphone is off</source>
-        <translation>Микрофон %1 отключён</translation>
+        <translation>%1&apos;s microphone is off</translation>
     </message>
     <message>
         <source>%1&apos;s battery level is low</source>
-        <translation>У %1 низкий заряд батареи</translation>
+        <translation>%1&apos;s battery level is low</translation>
     </message>
 </context>
 <context>
     <name>CallWindow</name>
     <message>
         <source>Disconnected</source>
-        <translation>Соединение прервано</translation>
+        <translation>Disconnected</translation>
     </message>
     <message>
         <source>Call ended</source>
-        <translation>Звонок завершён</translation>
+        <translation>Call ended</translation>
     </message>
     <message>
         <source>An error occured</source>
-        <translation>Произошла ошибка</translation>
+        <translation>An error occured</translation>
     </message>
     <message>
         <source>Connection error</source>
-        <translation>Ошибка соединения</translation>
+        <translation>Connection error</translation>
     </message>
     <message>
         <source>Line busy</source>
-        <translation>Линия занята</translation>
+        <translation>Line busy</translation>
     </message>
     <message>
         <source>Connection timed out</source>
-        <translation>Время ожидания подключения истекло</translation>
+        <translation>Connection timed out</translation>
     </message>
     <message>
         <source>An error occured: %1</source>
-        <translation>Произошла ошибка: %1</translation>
+        <translation>An error occured: %1</translation>
     </message>
     <message>
         <source>Connecting…</source>
-        <translation>Подключение…</translation>
+        <translation>Connecting…</translation>
     </message>
     <message>
         <source>Ringing…</source>
-        <translation>Вызов…</translation>
+        <translation>Ringing…</translation>
     </message>
     <message>
         <source>Exchanging keys…</source>
-        <translation>Обмен ключами…</translation>
+        <translation>Exchanging keys…</translation>
     </message>
     <message>
         <source>Hanging up…</source>
-        <translation>Завершение…</translation>
+        <translation>Hanging up…</translation>
     </message>
 </context>
 <context>
@@ -472,31 +468,31 @@
     <message>
         <source>SCAM</source>
         <comment>string for a user text badge, should not be too long. Badge shows that this user was reported by many users as a fake or scam user: you should careful when interacting with them.</comment>
-        <translation>СКАМ</translation>
+        <translation>SCAM</translation>
     </message>
     <message>
         <source>FAKE</source>
         <comment>string for a user text badge, should not be too long. Badge shows that this may be a scam user.</comment>
-        <translation>ФЕЙК</translation>
+        <translation>FAKE</translation>
     </message>
     <message>
         <source>Ad</source>
         <comment>chat badge, indicates that the search result is sponsored</comment>
-        <translation>Реклама</translation>
+        <translation>Ad</translation>
     </message>
 </context>
 <context>
     <name>ChatBotSponsoredMessageItem</name>
     <message>
         <source>Unknown</source>
-        <translation>Неизвестно</translation>
+        <translation>Unknown</translation>
     </message>
 </context>
 <context>
     <name>ChatFolderTabBase</name>
     <message>
         <source>You have no chats</source>
-        <translation>У Вас нет чатов</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -504,128 +500,126 @@
     <message>
         <source>All</source>
         <comment>all chats tab</comment>
-        <translation>Все</translation>
+        <translation>All</translation>
     </message>
     <message>
         <source>Archive</source>
         <comment>archived chats tab</comment>
-        <translation>Архив</translation>
+        <translation>Archive</translation>
     </message>
 </context>
 <context>
     <name>ChatInformationPageContent</name>
     <message>
         <source>Leave Chat</source>
-        <translation>Выйти из чата</translation>
+        <translation>Leave Chat</translation>
     </message>
     <message>
         <source>Join Chat</source>
-        <translation>Присоединиться к чату</translation>
+        <translation>Join Chat</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Неизвестно</translation>
+        <translation>Unknown</translation>
     </message>
     <message>
         <source>Chat Title</source>
         <comment>group title header</comment>
-        <translation>Название</translation>
+        <translation>Chat Title</translation>
     </message>
     <message>
         <source>There is no information text available, yet.</source>
-        <translation>Пока нет доступной текстовой информации.</translation>
+        <translation>There is no information text available, yet.</translation>
     </message>
     <message>
         <source>Info</source>
         <comment>group or user infotext header</comment>
-        <translation>Сведения</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <source>Phone Number</source>
         <comment>user phone number header</comment>
-        <translation>Номер телефона</translation>
+        <translation>Phone Number</translation>
     </message>
     <message>
         <source>Invite Link</source>
         <comment>header</comment>
-        <translation>Ссылка для приглашения</translation>
+        <translation>Invite Link</translation>
     </message>
     <message>
         <source>The Invite Link has been copied to the clipboard.</source>
-        <translation>Ссылка для приглашения скопирована в буфер обмена.</translation>
+        <translation>The Invite Link has been copied to the clipboard.</translation>
     </message>
     <message>
         <source>New Secret Chat</source>
-        <translation>Новый секретный чат</translation>
+        <translation>New Secret Chat</translation>
     </message>
     <message>
         <source>ID has been copied to the clipboard.</source>
-        <translation>ID скопирован в буфер обмена.</translation>
+        <translation>ID has been copied to the clipboard.</translation>
     </message>
     <message>
         <source>Username has been copied to the clipboard</source>
-        <translation>Имя пользователя скопировано в буфер обмена</translation>
+        <translation>Username has been copied to the clipboard</translation>
     </message>
     <message>
         <source>Username</source>
         <comment>header</comment>
-        <translation>Ник</translation>
-    </message>
-    <message>
-        <source>Left chat</source>
-        <translation>Чат покинут</translation>
+        <translation>Username</translation>
     </message>
     <message>
         <source>View discussion</source>
-        <translation>Открыть обсуждение</translation>
+        <translation>View discussion</translation>
     </message>
     <message>
         <source>View linked channel</source>
-        <translation>Открыть привязанный канал</translation>
+        <translation>View linked channel</translation>
     </message>
     <message>
         <source>Date of birth</source>
-        <translation>Дата рождения</translation>
+        <translation>Date of birth</translation>
+    </message>
+    <message>
+        <source>Left chat</source>
+        <translation>Left chat</translation>
     </message>
     <message>
         <source>Call</source>
-        <translation>Позвонить</translation>
+        <translation>Call</translation>
     </message>
     <message>
         <source>Unfortunately, you cannot call %1 because of their privacy settings. You can ask them to modify their setting or to call you instead</source>
-        <translation>К сожалению, %1 не принимает звонки. Вы можете попросить пользователя изменить настройки или позвонить Вам самому.</translation>
+        <translation>Unfortunately, you cannot call %1 because of their privacy settings. You can ask them to modify their setting or to call you instead</translation>
     </message>
     <message numerus="yes">
         <source>Enter 1-%Ln characters</source>
-        <translation>
-            <numerusform>Введите 1-%Ln символ</numerusform>
-            <numerusform>Введите 1-%Ln символа</numerusform>
-            <numerusform>Введите 1-%Ln символов</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Note (only visible to you)</source>
-        <translation>Заметка (видна только Вам)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>Enter 0-%Ln characters</source>
-        <translation>
-            <numerusform>Введите 0-%Ln символ</numerusform>
-            <numerusform>Введите 0-%Ln символа</numerusform>
-            <numerusform>Введите 0-%Ln символов</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Edit contact</source>
-        <translation>Изменить контакт</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add to contacts</source>
-        <translation>Добавить в контакты</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Community</source>
-        <translation>Сообщество</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -633,25 +627,25 @@
     <message>
         <source>Loading groups in common</source>
         <comment>groups you have in common with a user</comment>
-        <translation>Загрузка общих групп</translation>
+        <translation>Loading groups in common</translation>
     </message>
     <message>
         <source>No groups in common</source>
-        <translation>Нет общих групп</translation>
+        <translation>No groups in common</translation>
     </message>
 </context>
 <context>
     <name>ChatInformationTabItemMediaGrid</name>
     <message>
         <source>Jump to message</source>
-        <translation>Перейти к сообщению</translation>
+        <translation>Jump to message</translation>
     </message>
 </context>
 <context>
     <name>ChatInformationTabItemMediaList</name>
     <message>
         <source>Jump to message</source>
-        <translation>Перейти к сообщению</translation>
+        <translation>Jump to message</translation>
     </message>
 </context>
 <context>
@@ -659,24 +653,24 @@
     <message>
         <source>Loading subscribers</source>
         <comment>channel</comment>
-        <translation>Загрузка подписчиков</translation>
+        <translation>Loading subscribers</translation>
     </message>
     <message>
         <source>Loading members</source>
         <comment>group</comment>
-        <translation>Загрузка участников</translation>
+        <translation>Loading members</translation>
     </message>
     <message>
         <source>This channel is empty</source>
-        <translation>Канал пуст</translation>
+        <translation>This channel is empty</translation>
     </message>
     <message>
         <source>Channel members are anonymous</source>
-        <translation>Подписчики канала анонимны</translation>
+        <translation>Channel members are anonymous</translation>
     </message>
     <message>
         <source>This group is empty</source>
-        <translation>Группа пуста</translation>
+        <translation>This group is empty</translation>
     </message>
 </context>
 <context>
@@ -684,65 +678,64 @@
     <message>
         <source>New Members</source>
         <comment>what can new group members do</comment>
-        <translation>Новые участники</translation>
+        <translation>New Members</translation>
     </message>
     <message>
         <source>New members can see older messages</source>
         <comment>member permission</comment>
-        <translation>Новые участники могут видеть старые сообщения</translation>
+        <translation>New members can see older messages</translation>
     </message>
     <message>
         <source>Topics</source>
         <comment>group topics</comment>
-        <translation>Темы</translation>
+        <translation>Topics</translation>
     </message>
     <message>
         <source>The group chat will be divided into topics created by admins or users.</source>
-        <translation>Чат группы будет разделён на темы, созданные администраторами и пользователями.</translation>
+        <translation>The group chat will be divided into topics created by admins or users.</translation>
     </message>
     <message>
         <source>Enable Topics</source>
         <comment>group topics</comment>
-        <translation>Включить темы</translation>
+        <translation type="unfinished">Enable Topics</translation>
     </message>
     <message>
         <source>Choose how topics appear for all members.</source>
-        <translation>Выберите расположение тем на экране у всех участников.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Off</source>
         <comment>topics</comment>
-        <translation>Отключены</translation>
+        <translation type="unfinished">Off</translation>
     </message>
     <message>
         <source>List</source>
         <comment>topics</comment>
-        <translation>Список</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tabs</source>
         <comment>topics</comment>
-        <translation>Вкладки</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Broadcast Group</source>
-        <translation>Группа для трансляций</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Convert to Broadcast Group</source>
-        <translation>Сделать группой для трансляций</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Converted to Broadcast Group</source>
         <comment>Remorse</comment>
-        <translation>Преобразовано в группу для трансляций</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>Broadcast groups can have over %Ln member(s), but only admins can send messages in them. Members who are not admins will %1permanently%2 lose their right to send messages in the group. %3This action cannot be undone.%4</source>
-        <translation>
-            <numerusform>В группе для трансляций может состоять больше %Ln участника, но писать сообщения смогут только администраторы. Обычные участники (не администраторы) %1навсегда%2 потеряют возможность писать сообщения в группе. Это %3нельзя%4 будет отменить.</numerusform>
-            <numerusform>В группе для трансляций могут состоять больше %Ln участников, но писать сообщения смогут только администраторы. Обычные участники (не администраторы) %1навсегда%2 потеряют возможность писать сообщения в группе. Это %3нельзя%4 будет отменить.</numerusform>
-            <numerusform>В группе для трансляций могут состоять больше %Ln участников, но писать сообщения смогут только администраторы. Обычные участники (не администраторы) %1навсегда%2 потеряют возможность писать сообщения в группе. Это %3нельзя%4 будет отменить.</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -752,9 +745,8 @@
         <source>Subscribe to Telegram Premium to unlock up to %Ln similar bots.</source>
         <comment>Info label suggesting the user to get Telegram Premium to access more similar bots</comment>
         <translation>
-            <numerusform>С подпиской Telegram Premium доступно до %Ln похожего канала.</numerusform>
-            <numerusform>С подпиской Telegram Premium доступно до %Ln похожих канала.</numerusform>
-            <numerusform>С подпиской Telegram Premium доступно до %Ln похожих каналов.</numerusform>
+            <numerusform>Subscribe to Telegram Premium to unlock up to %Ln similar bot.</numerusform>
+            <numerusform>Subscribe to Telegram Premium to unlock up to %Ln similar bots.</numerusform>
         </translation>
     </message>
 </context>
@@ -764,9 +756,8 @@
         <source>Subscribe to Telegram Premium to unlock up to %Ln similar channels.</source>
         <comment>Info label suggesting the user to get Telegram Premium to access more similar channels</comment>
         <translation>
-            <numerusform>С подпиской Telegram Premium доступно до %Ln похожего бота.</numerusform>
-            <numerusform>С подпиской Telegram Premium доступно до %Ln похожих бота.</numerusform>
-            <numerusform>С подпиской Telegram Premium доступно до %Ln похожих ботов.</numerusform>
+            <numerusform>Subscribe to Telegram Premium to unlock up to %Ln similar channel.</numerusform>
+            <numerusform>Subscribe to Telegram Premium to unlock up to %Ln similar channels.</numerusform>
         </translation>
     </message>
 </context>
@@ -775,67 +766,67 @@
     <message>
         <source>Groups</source>
         <comment>Button: groups in common (short)</comment>
-        <translation>Группы</translation>
+        <translation>Groups</translation>
     </message>
     <message>
         <source>Members</source>
         <comment>Button: Group Members</comment>
-        <translation>Участники группы</translation>
+        <translation>Members</translation>
     </message>
     <message>
         <source>Settings</source>
         <comment>Button: Chat Settings</comment>
-        <translation>Настройки</translation>
+        <translation>Settings</translation>
     </message>
     <message>
         <source>Media</source>
         <comment>Button: Chat media (photos and videos)</comment>
-        <translation>Медиа</translation>
+        <translation>Media</translation>
     </message>
     <message>
         <source>GIFs</source>
         <comment>Button: Chat GIFs</comment>
-        <translation>GIF</translation>
+        <translation>GIFs</translation>
     </message>
     <message>
         <source>Video Messages</source>
         <comment>Button: Chat video messages</comment>
-        <translation>Видеосообщения</translation>
+        <translation>Video Messages</translation>
     </message>
     <message>
         <source>Files</source>
         <comment>Button: Chat files</comment>
-        <translation>Файлы</translation>
+        <translation>Files</translation>
     </message>
     <message>
         <source>Subscribers</source>
         <comment>Button: channel subscribers</comment>
-        <translation>Подписчики</translation>
+        <translation>Subscribers</translation>
     </message>
     <message>
         <source>Similar channels</source>
         <comment>Profile tab</comment>
-        <translation>Похожие каналы</translation>
+        <translation>Similar channels</translation>
     </message>
     <message>
         <source>Similar bots</source>
         <comment>Profile tab</comment>
-        <translation>Похожие боты</translation>
+        <translation>Similar bots</translation>
     </message>
     <message>
         <source>Audio</source>
         <comment>Button: Chat audio files</comment>
-        <translation>Аудио</translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <source>Links</source>
         <comment>Button: Chat shared links</comment>
-        <translation>Ссылки</translation>
+        <translation>Links</translation>
     </message>
     <message>
         <source>Voice</source>
         <comment>Button: Chat voice messages (short)</comment>
-        <translation>Голосовые</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -843,159 +834,158 @@
     <message>
         <source>Request to join</source>
         <comment>channel</comment>
-        <translation>Просьба присоединиться</translation>
+        <translation>Request to join</translation>
     </message>
     <message>
         <source>Request to join</source>
         <comment>group</comment>
-        <translation>Просьба присоединиться</translation>
+        <translation>Request to join</translation>
     </message>
     <message>
         <source>Join channel</source>
         <comment>channel</comment>
-        <translation>Зайти в канал</translation>
+        <translation>Join channel</translation>
     </message>
     <message>
         <source>Join group</source>
         <comment>group</comment>
-        <translation>Зайти в группу</translation>
+        <translation>Join group</translation>
     </message>
     <message>
         <source>This channel accepts new subscribers only after they are approved by its admins.</source>
-        <translation>Этот канал принимает новых подписчиков только после одобрения администраторами.</translation>
+        <translation>This channel accepts new subscribers only after they are approved by its admins.</translation>
     </message>
     <message>
         <source>This group accepts new members only after they are approved by its admins.</source>
-        <translation>Эта группа принимает новых участников только после одобрения администраторами.</translation>
+        <translation>This group accepts new members only after they are approved by its admins.</translation>
     </message>
 </context>
 <context>
     <name>ChatListViewItem</name>
     <message>
         <source>User Info</source>
-        <translation>Сведения о пользователе</translation>
+        <translation>User Info</translation>
     </message>
     <message>
         <source>Group Info</source>
-        <translation>Сведения о группе</translation>
+        <translation>Group Info</translation>
     </message>
     <message>
         <source>Mark all messages as read</source>
-        <translation>Прочитано</translation>
+        <translation>Mark all messages as read</translation>
     </message>
     <message>
         <source>Mark chat as unread</source>
-        <translation>Пометить как непрочитанное</translation>
+        <translation>Mark chat as unread</translation>
     </message>
     <message>
         <source>Mark chat as read</source>
-        <translation>Пометить как прочитанное</translation>
+        <translation>Mark chat as read</translation>
     </message>
     <message>
         <source>Unpin chat</source>
-        <translation>Открепить чат</translation>
+        <translation>Unpin chat</translation>
     </message>
     <message>
         <source>Pin chat</source>
-        <translation>Закрепить чат</translation>
+        <translation>Pin chat</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>Архивировать</translation>
+        <translation>Archive</translation>
     </message>
     <message>
         <source>Unarchive</source>
-        <translation>Вернуть из архива</translation>
+        <translation>Unarchive</translation>
     </message>
     <message>
         <source>Saved Messages</source>
-        <translation>Избранное</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ChatPage</name>
     <message>
         <source>Unknown</source>
-        <translation>Неизвестный(ая)</translation>
+        <translation>Unknown</translation>
     </message>
     <message numerus="yes">
         <source>Forward %Ln messages</source>
         <comment>dialog header</comment>
         <translation>
-            <numerusform>Переслать %Ln сообщение</numerusform>
-            <numerusform>Переслать %Ln сообщения</numerusform>
-            <numerusform>Переслать %Ln сообщений</numerusform>
+            <numerusform>Forward %Ln message</numerusform>
+            <numerusform>Forward %Ln messages</numerusform>
         </translation>
     </message>
     <message>
         <source>Deleted User</source>
-        <translation>Удалённый пользователь</translation>
+        <translation>Deleted User</translation>
     </message>
     <message>
         <source>Double-tap on a message to choose a reaction</source>
-        <translation>Двойное нажатие на сообщение для выбора реакции</translation>
+        <translation>Double-tap on a message to choose a reaction</translation>
     </message>
     <message>
         <source>Chat deleted</source>
-        <translation>Чат удалён</translation>
+        <translation>Chat deleted</translation>
     </message>
     <message>
         <source>View as Messages</source>
         <comment>view a forum chat in full chat mode</comment>
-        <translation>Посмотр по сообщениям</translation>
+        <translation>View as Messages</translation>
     </message>
     <message>
         <source>View as Topics</source>
         <comment>view a forum chat as topics</comment>
-        <translation>Просмотр по темам</translation>
+        <translation>View as Topics</translation>
     </message>
     <message>
         <source>Search in chat</source>
-        <translation>Поиск в чате</translation>
+        <translation>Search in chat</translation>
     </message>
     <message>
         <source>Delete chat</source>
-        <translation>Удалить чат</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Secret chat closed</source>
-        <translation>Секретный чат закрыт</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close secret chat</source>
-        <translation>Закрыть секретный чат</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left the channel</source>
-        <translation>Чат покинут</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left the group</source>
-        <translation>Группа покинута</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Leave channel</source>
-        <translation>Покинуть канал</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Leave group</source>
-        <translation>Покинуть группу</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Join channel</source>
-        <translation>Зайти в канал</translation>
+        <translation type="unfinished">Join channel</translation>
     </message>
     <message>
         <source>Join group</source>
-        <translation>Зайти в группу</translation>
+        <translation type="unfinished">Join group</translation>
     </message>
     <message>
         <source>Saved Messages</source>
-        <translation>Избранное</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Поиск</translation>
+        <translation type="unfinished">Search</translation>
     </message>
 </context>
 <context>
@@ -1003,15 +993,14 @@
     <message>
         <source>%1 requested to join</source>
         <comment>banner indicating that there is one unreviewed group join request from a user</comment>
-        <translation>%1 просит присоединиться</translation>
+        <translation>%1 requested to join</translation>
     </message>
     <message numerus="yes">
         <source>%n join requests</source>
         <comment>banner indicating that there are unreviewed group join requests, for admins</comment>
         <translation>
-            <numerusform>%n просят присоединиться</numerusform>
-            <numerusform>%n просят присоединиться</numerusform>
-            <numerusform>%n просят присоединиться</numerusform>
+            <numerusform>%n join request</numerusform>
+            <numerusform>%n join requests</numerusform>
         </translation>
     </message>
 </context>
@@ -1020,189 +1009,182 @@
     <message>
         <source>Decline all</source>
         <comment>decline all join requests</comment>
-        <translation>Отклонить все запросы</translation>
+        <translation>Decline all</translation>
     </message>
     <message>
         <source>Declined all join requests</source>
         <comment>remorse</comment>
-        <translation>Отклонены все запросы</translation>
+        <translation>Declined all join requests</translation>
     </message>
     <message>
         <source>Accept all</source>
         <comment>accept all join requests</comment>
-        <translation>Принять все запросы</translation>
+        <translation>Accept all</translation>
     </message>
     <message>
         <source>Accepted all join requests</source>
         <comment>remorse</comment>
-        <translation>Все запросы приняты</translation>
+        <translation>Accepted all join requests</translation>
     </message>
     <message>
         <source>Join Requests</source>
-        <translation>Запросов на принятие</translation>
+        <translation>Join Requests</translation>
     </message>
     <message>
         <source>No join requests</source>
-        <translation>Нет запросов на принятие</translation>
+        <translation>No join requests</translation>
     </message>
     <message>
         <source>Wait for someone to send a join request</source>
-        <translation>Дождитесь, когда кто-то отправит запрос на принятие</translation>
+        <translation>Wait for someone to send a join request</translation>
     </message>
     <message>
         <source>requested to join %1</source>
         <comment>Indicates when a user sent the join request</comment>
-        <translation>отправил запрос %1</translation>
+        <translation>requested to join %1</translation>
     </message>
     <message>
         <source>Add to Channel</source>
         <comment>button: accept a chat join request</comment>
-        <translation>Добавить в Канал</translation>
+        <translation>Add to Channel</translation>
     </message>
     <message>
         <source>Add to Group</source>
         <comment>button: accept a chat join request</comment>
-        <translation>Добавить в Группу</translation>
+        <translation>Add to Group</translation>
     </message>
     <message>
         <source>Decline</source>
         <comment>decline a chat join request</comment>
-        <translation>Отклонить</translation>
+        <translation>Decline</translation>
     </message>
 </context>
 <context>
     <name>ChatSelectionPage</name>
     <message>
         <source>Select Chat</source>
-        <translation>Выбрать чат</translation>
+        <translation>Select Chat</translation>
     </message>
     <message>
         <source>Hide Sender Name</source>
-        <translation>Скрыть имя отправителя</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hide Caption</source>
-        <translation>Скрыть подпись</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search</source>
-        <translation>Поиск</translation>
+        <translation type="unfinished">Search</translation>
     </message>
 </context>
 <context>
     <name>ClearPaymentInfoDialog</name>
     <message>
         <source>Clear payment info</source>
-        <translation>Очистить платежные данные</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Очистить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete your shipping info and instruct all payment providers to remove your saved credit cards? Note that Telegram never stores your credit card data.</source>
-        <translation>Хотите удалить платёжную информацию и запросить удаление сохранённых кредитных карт у всех платёжных провайдеров? Обратите внимание, что сам Telegram не хранит информацию о Ваших кредитных картах.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shipping info</source>
-        <translation>Информация о доставке</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Payment info</source>
-        <translation>Платёжная информация</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CommunityPage</name>
     <message>
         <source>Rename community</source>
-        <translation>Переименовать сообщество</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%Ln chats</source>
         <comment>Number of chats in a community</comment>
-        <translation>
-            <numerusform>%Ln чат</numerusform>
-            <numerusform>%Ln чата</numerusform>
-            <numerusform>%Ln чатов</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Community name</source>
-        <translation>Название сообщества</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ContactSupportDialog</name>
     <message>
         <source>Ask a Question</source>
-        <translation>Задать вопрос</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ask</source>
-        <translation>Задать</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please note that Telegram Support is done by volunteers. We try to respond as quickly as possible, but it may take a while.
 
 Please take a look at the %1Telegram FAQ%2: it has answers to most questions and important tips for %3troubleshooting%4.</source>
-        <translation>Пожалуйста, обратите внимание, что в поддержке Telegram отвечают волонтеры. Мы постараемся помочь как можно быстрее, но ожидание может занять время.
-
-Пожалуйста, ознакомьтесь с %1часто задаваемыми вопросами о Telegram%2: там Вы найдёте ответы на большинство вопросов и важные советы по %3устранению неполадок%4.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>https://telegram.org/faq#general-questions</source>
         <comment>Localized Telegram FAQ URL. Keep unfinished or as-is if not available for your language</comment>
-        <translation>https://telegram.org/faq#general-questions</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>https://telegram.org/faq#troubleshooting</source>
         <comment>Localized Telegram troubleshooting FAQ URL. Keep unfinished or as-is if not available for your language</comment>
-        <translation>https://telegram.org/faq#troubleshooting</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ContactSync</name>
     <message numerus="yes">
         <source>Synced %Ln contacts</source>
-        <translation>
-            <numerusform>%Ln контакт синхронизирован</numerusform>
-            <numerusform>%Ln контакта синхронизировано</numerusform>
-            <numerusform>%Ln контактов синхронизировано</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Failed to sync contacts</source>
-        <translation>Не удалось синхронизировать контакты</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CoverPage</name>
     <message>
         <source>in</source>
-        <translation>в</translation>
+        <translation>in</translation>
     </message>
     <message>
         <source>Connected</source>
-        <translation>В сети</translation>
+        <translation>Connected</translation>
     </message>
     <message numerus="yes">
         <source>chats</source>
         <translation>
-            <numerusform>чатe</numerusform>
-            <numerusform>чатах</numerusform>
-            <numerusform>чатах</numerusform>
+            <numerusform>chat</numerusform>
+            <numerusform>chats</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>unread messages</source>
         <translation>
-            <numerusform>новое
-сообщение</numerusform>
-            <numerusform>новых
-сообщения</numerusform>
-            <numerusform>новых
-сообщений</numerusform>
+            <numerusform>unread
+message</numerusform>
+            <numerusform>unread
+messages</numerusform>
         </translation>
     </message>
 </context>
@@ -1211,49 +1193,49 @@ Please take a look at the %1Telegram FAQ%2: it has answers to most questions and
     <message>
         <source>Notifications</source>
         <comment>Page header</comment>
-        <translation>Уведомления</translation>
+        <translation>Notifications</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation>Звук</translation>
+        <translation>Sound</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>No notification sound</comment>
-        <translation>Отключён</translation>
+        <translation>Disabled</translation>
     </message>
     <message>
         <source>Default</source>
         <comment>Default notification sound</comment>
-        <translation>По умолчанию</translation>
+        <translation>Default</translation>
     </message>
     <message>
         <source>Message Preview</source>
-        <translation>Предпросмотр сообщения</translation>
+        <translation>Message Preview</translation>
     </message>
     <message>
         <source>Events</source>
-        <translation>События</translation>
+        <translation>Events</translation>
     </message>
     <message>
         <source>Pinned Messages</source>
-        <translation>Закреплённые сообщения</translation>
+        <translation>Pinned Messages</translation>
     </message>
     <message>
         <source>Mentions</source>
-        <translation>Упоминания</translation>
+        <translation>Mentions</translation>
     </message>
     <message>
         <source>Stories</source>
-        <translation>Истории</translation>
+        <translation>Stories</translation>
     </message>
     <message>
         <source>Story notifications</source>
-        <translation>Уведомления о историях</translation>
+        <translation>Story notifications</translation>
     </message>
     <message>
         <source>Show Sender&apos;s Name</source>
-        <translation>Показывать имя отправителя</translation>
+        <translation>Show Sender&apos;s Name</translation>
     </message>
 </context>
 <context>
@@ -1261,37 +1243,37 @@ Please take a look at the %1Telegram FAQ%2: it has answers to most questions and
     <message>
         <source>Days</source>
         <comment>Duration picker</comment>
-        <translation>Дни</translation>
+        <translation>Days</translation>
     </message>
     <message>
         <source>h</source>
         <comment>Duration picker hours</comment>
-        <translation>ч</translation>
+        <translation>h</translation>
     </message>
     <message>
         <source>min</source>
         <comment>Duration picker minutes</comment>
-        <translation>мин</translation>
+        <translation>min</translation>
     </message>
     <message>
         <source>s</source>
         <comment>Duration picker seconds</comment>
-        <translation>с</translation>
+        <translation>s</translation>
     </message>
     <message>
         <source>Units</source>
         <comment>Duration picker units</comment>
-        <translation>Единицы измерения</translation>
+        <translation>Units</translation>
     </message>
     <message>
         <source>Hours and minutes</source>
         <comment>Duration picker units</comment>
-        <translation>Часы и минуты</translation>
+        <translation>Hours and minutes</translation>
     </message>
     <message>
         <source>Minutes and seconds</source>
         <comment>Duration picker units</comment>
-        <translation>Минуты и секунды</translation>
+        <translation>Minutes and seconds</translation>
     </message>
 </context>
 <context>
@@ -1299,115 +1281,115 @@ Please take a look at the %1Telegram FAQ%2: it has answers to most questions and
     <message>
         <source>Permissions</source>
         <comment>What can members of this group do</comment>
-        <translation>Разрешения</translation>
+        <translation>Permissions</translation>
     </message>
     <message>
         <source>Send messages</source>
         <comment>member permission</comment>
-        <translation>Отправлять сообщения</translation>
+        <translation>Send messages</translation>
     </message>
     <message>
         <source>Send media</source>
         <comment>member permission</comment>
-        <translation>Отправлять медиа</translation>
+        <translation>Send media</translation>
     </message>
     <message>
         <source>Photos</source>
         <comment>member permission</comment>
-        <translation>Фото</translation>
+        <translation>Photos</translation>
     </message>
     <message>
         <source>Videos</source>
         <comment>member permission</comment>
-        <translation>Видео</translation>
+        <translation>Videos</translation>
     </message>
     <message>
         <source>Video messages</source>
         <comment>member permission</comment>
-        <translation>Видеосообщения</translation>
+        <translation>Video messages</translation>
     </message>
     <message>
         <source>Music</source>
         <comment>member permission</comment>
-        <translation>Музыка</translation>
+        <translation>Music</translation>
     </message>
     <message>
         <source>Voice messages</source>
         <comment>member permission</comment>
-        <translation>Голосовые сообщения</translation>
+        <translation>Voice messages</translation>
     </message>
     <message>
         <source>Files</source>
         <comment>member permission</comment>
-        <translation>Файлы</translation>
+        <translation>Files</translation>
     </message>
     <message>
         <source>Stickers &amp; GIFs</source>
         <comment>member permission</comment>
-        <translation>Стикеры и GIF</translation>
+        <translation>Stickers &amp; GIFs</translation>
     </message>
     <message>
         <source>Embed links</source>
         <comment>member permission</comment>
-        <translation>Встроенные ссылки</translation>
+        <translation>Embed links</translation>
     </message>
     <message>
         <source>Polls</source>
         <comment>member permission</comment>
-        <translation>Опросы</translation>
+        <translation>Polls</translation>
     </message>
     <message>
         <source>Add members</source>
         <comment>member permission</comment>
-        <translation>Добавление участников</translation>
+        <translation>Add members</translation>
     </message>
     <message>
         <source>Pin messages</source>
         <comment>member permission</comment>
-        <translation>Закрепление сообщений</translation>
+        <translation>Pin messages</translation>
     </message>
     <message>
         <source>Change group info</source>
         <comment>member permission</comment>
-        <translation>Изменение информации о группе</translation>
+        <translation>Change group info</translation>
     </message>
     <message>
         <source>Create topics</source>
         <comment>member permission</comment>
-        <translation>Создание тем</translation>
+        <translation>Create topics</translation>
     </message>
 </context>
 <context>
     <name>EditSuperGroupSlowModeColumn</name>
     <message>
         <source>Slow Mode</source>
-        <translation>Медленный режим</translation>
+        <translation>Slow Mode</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation>Выкл</translation>
+        <translation>Off</translation>
     </message>
     <message>
         <source>Set how long every chat member has to wait between Messages</source>
-        <translation>Задержка между сообщениями</translation>
+        <translation>Set how long every chat member has to wait between Messages</translation>
     </message>
 </context>
 <context>
     <name>ExternalUrlPage</name>
     <message>
         <source>Swipe left to preview.</source>
-        <translation>Смахните влево для предпросмотра.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You are using a mobile data connection.</source>
-        <translation>Вы используете мобильную передачу данных.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>FullscreenHintDialog</name>
     <message>
         <source>Got it</source>
-        <translation>ОК</translation>
+        <translation type="unfinished">Got it</translation>
     </message>
 </context>
 <context>
@@ -1416,9 +1398,8 @@ Please take a look at the %1Telegram FAQ%2: it has answers to most questions and
         <source>Forward %Ln messages</source>
         <comment>dialog header</comment>
         <translation>
-            <numerusform>Переслать %Ln сообщение</numerusform>
-            <numerusform>Переслать %Ln сообщения</numerusform>
-            <numerusform>Переслать %Ln сообщений</numerusform>
+            <numerusform>Forward %Ln message</numerusform>
+            <numerusform>Forward %Ln messages</numerusform>
         </translation>
     </message>
 </context>
@@ -1426,184 +1407,182 @@ Please take a look at the %1Telegram FAQ%2: it has answers to most questions and
     <name>InReplyToRow</name>
     <message>
         <source>You</source>
-        <translation>Вы</translation>
+        <translation>You</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Неизвестный(ая)</translation>
+        <translation>Unknown</translation>
     </message>
     <message>
         <source>This message was deleted</source>
-        <translation>Сообщение было удалено</translation>
+        <translation>This message was deleted</translation>
     </message>
 </context>
 <context>
     <name>InitializationDialog</name>
     <message>
         <source>About YAST</source>
-        <translation>О программе</translation>
+        <translation>About YAST</translation>
     </message>
     <message>
         <source>Proxy settings</source>
-        <translation>Настройки прокси</translation>
+        <translation>Proxy settings</translation>
     </message>
     <message>
         <source>Visit telegram.org</source>
         <comment>Visit telegram.org to download an official app for purchasing the Telegram Premium subscription</comment>
-        <translation>Открыть telegram.org</translation>
+        <translation>Visit telegram.org</translation>
     </message>
     <message>
         <source>Your Phone</source>
-        <translation>Ваш телефон</translation>
+        <translation>Your Phone</translation>
     </message>
     <message>
         <source>Confirmation Code</source>
-        <translation>Код подтверждения</translation>
+        <translation>Confirmation Code</translation>
     </message>
     <message>
         <source>Two-Step Verification</source>
-        <translation>Облачный пароль</translation>
+        <translation>Two-Step Verification</translation>
     </message>
     <message>
         <source>Your Email</source>
-        <translation>Адрес электронной почты</translation>
+        <translation>Your Email</translation>
     </message>
     <message>
         <source>Confirmation code</source>
         <comment>email</comment>
-        <translation>Код подтверждения</translation>
+        <translation>Confirmation code</translation>
     </message>
     <message>
         <source>Registration</source>
-        <translation>Регистрация</translation>
+        <translation>Registration</translation>
     </message>
     <message>
         <source>Confirm</source>
         <comment>confirmation code</comment>
-        <translation>Подтвердить</translation>
+        <translation>Confirm</translation>
     </message>
     <message>
         <source>Confirm</source>
         <comment>email code</comment>
-        <translation>Подтвердить</translation>
+        <translation>Confirm</translation>
     </message>
     <message>
         <source>Phone number</source>
-        <translation>Номер телефона</translation>
+        <translation>Phone number</translation>
     </message>
     <message>
         <source>Use the international format, e.g. %1</source>
-        <translation>Используйте международный формат, например %1</translation>
+        <translation>Use the international format, e.g. %1</translation>
     </message>
     <message numerus="yes">
         <source>Last %Ln digits</source>
         <translation>
-            <numerusform>Последняя %Ln цифра</numerusform>
-            <numerusform>Последние %Ln цифры</numerusform>
-            <numerusform>Последних %Ln цифр</numerusform>
+            <numerusform>Last %Ln digit</numerusform>
+            <numerusform>Last %Ln digits</numerusform>
         </translation>
     </message>
     <message>
         <source>Code</source>
-        <translation>Код</translation>
+        <translation>Code</translation>
     </message>
     <message>
         <source>Calling your phone %1 to dictate the code.</source>
-        <translation>Мы звоним Вам по номеру %1, чтобы продиктовать код.</translation>
+        <translation>Calling your phone %1 to dictate the code.</translation>
     </message>
     <message>
         <source>Within next few seconds you should receive a short call from a phone number which starts with %1.</source>
-        <translation></translation>
+        <translation>Within next few seconds you should receive a short call from a phone number which starts with %1.</translation>
     </message>
     <message>
         <source>We&apos;ve sent the code to the Telegram app on your other device.</source>
-        <translation></translation>
+        <translation>We&apos;ve sent the code to the Telegram app on your other device.</translation>
     </message>
     <message>
         <source>Open Fragment</source>
-        <translation></translation>
+        <translation>Open Fragment</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation>Пароль</translation>
+        <translation>Password</translation>
     </message>
     <message>
         <source>Hint: %1</source>
         <comment>Password hint</comment>
-        <translation>Подсказка: %1</translation>
+        <translation>Hint: %1</translation>
     </message>
     <message>
         <source>You have enabled Two-Step Verification, so your account is protected with an additional password.</source>
-        <translation>Вы включили двухэтапную аутентификацию. Теперь Ваш аккаунт защищён дополнительным облачным паролем.</translation>
+        <translation>You have enabled Two-Step Verification, so your account is protected with an additional password.</translation>
     </message>
     <message>
         <source>Email address</source>
-        <translation>Адрес электронной почты</translation>
+        <translation>Email address</translation>
     </message>
     <message>
         <source>Please enter your valid email address.</source>
-        <translation>Пожалуста, введите корректный адрес электронной почты.</translation>
+        <translation>Please enter your valid email address.</translation>
     </message>
     <message>
         <source>Code</source>
         <comment>email</comment>
-        <translation>Код</translation>
+        <translation>Code</translation>
     </message>
     <message>
         <source>Telegram Premium required</source>
-        <translation> Только с Telegram Premium </translation>
+        <translation>Telegram Premium required</translation>
     </message>
     <message>
         <source>Telegram Premium is required to proceed. Unfortunately, it&apos;s currently not possible to make in-app purchases through YAST. Please use one of Telegram&apos;s official apps and enter the same phone number to set up the subscription, after which you can return to singing in to YAST.
 
 Pull down to visit telegram.org</source>
-        <translation>Чтобы продолжить, Вам необходимо оформить Telegram Premium. К сожалению, YAST пока не поддерживает покупки в приложении. Для оформления подписки перейдите в одно из официальных приложений Telegram и укажите тот же номер телефона.
+        <translation>Telegram Premium is required to proceed. Unfortunately, it&apos;s currently not possible to make in-app purchases through YAST. Please use one of Telegram&apos;s official apps and enter the same phone number to set up the subscription, after which you can return to singing in to YAST.
 
-Потяните вниз, чтобы открыть telegram.org</translation>
+Pull down to visit telegram.org</translation>
     </message>
     <message>
         <source>By accepting, you agree to the Telegram Terms of Service:</source>
-        <translation>Продолжая, вы соглашаетесь с пользовательское соглашением Telegram</translation>
+        <translation>By accepting, you agree to the Telegram Terms of Service:</translation>
     </message>
     <message>
         <source>Notify my contacts</source>
-        <translation>Уведомить контакты</translation>
+        <translation>Notify my contacts</translation>
     </message>
     <message>
         <source>Notify your contacts that you joined Telegram</source>
-        <translation>Уведомить контакты о том, что вы теперь в Telegram</translation>
+        <translation>Notify your contacts that you joined Telegram</translation>
     </message>
     <message>
         <source>First name</source>
-        <translation>Имя</translation>
+        <translation>First name</translation>
     </message>
     <message>
         <source>Last name</source>
-        <translation>Фамилия</translation>
+        <translation>Last name</translation>
     </message>
     <message>
         <source>Unsupported authorization mode</source>
-        <translation>Режим авторизации не поддерживается</translation>
+        <translation>Unsupported authorization mode</translation>
     </message>
     <message>
         <source>Sorry, this authorization mode is not yet supported: %1</source>
-        <translation>К сожалению, этот режим авторизации пока не поддерживается: %1</translation>
+        <translation>Sorry, this authorization mode is not yet supported: %1</translation>
     </message>
     <message>
         <source>Sign Up</source>
-        <translation>Зарегистрироваться</translation>
+        <translation>Sign Up</translation>
     </message>
     <message>
         <source>Get the code for %1 in the Numbers section on Fragment.</source>
-        <translation> Получите код для %1 в разделе Numbers платформы Fragment.</translation>
+        <translation>Get the code for %1 in the Numbers section on Fragment.</translation>
     </message>
     <message numerus="yes">
         <source>We&apos;ve sent a %Ln-digit recovery code to %1. Please check your email and enter it here.</source>
         <comment>%1 is the email address</comment>
         <translation>
-            <numerusform>Мы отправили %Ln-значный код восстановления на указанный Вами адрес электронной почты. Проверьте почту и введите его здесь.</numerusform>
-            <numerusform>Мы отправили %Ln-значный код восстановления на указанный Вами адрес электронной почты. Проверьте почту и введите его здесь.</numerusform>
-            <numerusform>Мы отправили %Ln-значный код восстановления на указанный Вами адрес электронной почты. Проверьте почту и введите его здесь.</numerusform>
+            <numerusform>We&apos;ve sent a %Ln-digit recovery code to %1. Please check your email and enter it here.</numerusform>
+            <numerusform>We&apos;ve sent a %Ln-digit recovery code to %1. Please check your email and enter it here.</numerusform>
         </translation>
     </message>
 </context>
@@ -1611,113 +1590,113 @@ Pull down to visit telegram.org</source>
     <name>LicenseListPart</name>
     <message>
         <source>License text</source>
-        <translation>Текст лицензии</translation>
+        <translation>License text</translation>
     </message>
 </context>
 <context>
     <name>LoginUrlConfirmationDialog</name>
     <message>
         <source>Open Link</source>
-        <translation>Открыть ссылку</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure you want to open %1?</source>
-        <translation>Вы уверены, что хотите открыть %1?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login to %1 as %2</source>
-        <translation>Авторизоваться на %1 как %2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Allow %1 to send me messages</source>
-        <translation>Разрешить %1 писать мне сообщения</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>MessageContextMenu</name>
     <message>
         <source>Message unpinned</source>
-        <translation>Сообщение откреплено</translation>
+        <translation type="unfinished">Message unpinned</translation>
     </message>
     <message>
         <source>Message deleted</source>
-        <translation>Сообщение удалено</translation>
+        <translation type="unfinished">Message deleted</translation>
     </message>
     <message>
         <source>Message deleted only for yourself</source>
-        <translation>Удалить у себя</translation>
+        <translation type="unfinished">Message deleted only for yourself</translation>
     </message>
     <message>
         <source>Jump to message</source>
-        <translation>Перейти к сообщению</translation>
+        <translation type="unfinished">Jump to message</translation>
     </message>
     <message>
         <source>Forward</source>
         <comment>Short version for &quot;Forward Message&quot;</comment>
-        <translation>Переслать</translation>
+        <translation type="unfinished">Forward</translation>
     </message>
     <message>
         <source>Forward Message</source>
-        <translation>Переслать сообщение</translation>
+        <translation type="unfinished">Forward Message</translation>
     </message>
     <message>
         <source>Reply</source>
         <comment>Short version for &quot;Reply to Message&quot;</comment>
-        <translation>Ответить</translation>
+        <translation type="unfinished">Reply</translation>
     </message>
     <message>
         <source>Reply to Message</source>
-        <translation>Ответить</translation>
+        <translation type="unfinished">Reply to Message</translation>
     </message>
     <message>
         <source>Delete</source>
         <comment>Short version for &quot;Delete Message&quot;</comment>
-        <translation>Удалить</translation>
+        <translation type="unfinished">Delete</translation>
     </message>
     <message>
         <source>Delete Message</source>
-        <translation>Удалить сообщение</translation>
+        <translation type="unfinished">Delete Message</translation>
     </message>
     <message>
         <source>Edit</source>
         <comment>Short version for &quot;Edit Message&quot;</comment>
-        <translation>Изменить</translation>
+        <translation type="unfinished">Edit</translation>
     </message>
     <message>
         <source>Edit Message</source>
-        <translation>Редактировать</translation>
+        <translation type="unfinished">Edit Message</translation>
     </message>
     <message>
         <source>Read %1</source>
         <comment>Message read date</comment>
-        <translation>Прочитано %1</translation>
+        <translation type="unfinished">Read %1</translation>
     </message>
     <message>
         <source>Loading</source>
         <comment>Indicates that the message read date is being loaded</comment>
-        <translation>Загрузка</translation>
+        <translation type="unfinished">Loading</translation>
     </message>
     <message>
         <source>Edited %1</source>
         <comment>Message edit date</comment>
-        <translation>Изменено %1</translation>
+        <translation type="unfinished">Edited %1</translation>
     </message>
     <message>
         <source>Delete for me and %1</source>
-        <translation>Удалить у меня и у %1</translation>
+        <translation type="unfinished">Delete for me and %1</translation>
     </message>
     <message>
         <source>Delete for everyone</source>
-        <translation>Удалить для всех</translation>
+        <translation type="unfinished">Delete for everyone</translation>
     </message>
     <message>
         <source>Delete just for me</source>
-        <translation>Удалить только у меня</translation>
+        <translation type="unfinished">Delete just for me</translation>
     </message>
     <message>
         <source>Originally sent %1</source>
         <comment>Forwarded message original date</comment>
-        <translation>Оригинал отправлен %1</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1725,61 +1704,61 @@ Pull down to visit telegram.org</source>
     <message>
         <source>Send a %1 emoji to any chat to try your luck.</source>
         <comment>in-app notification text</comment>
-        <translation>Отправьте эмодзи %1, чтобы испытать удачу.</translation>
+        <translation>Send a %1 emoji to any chat to try your luck.</translation>
     </message>
     <message>
         <source>Send</source>
         <comment>in-app notification button for &quot;Send a %1 emoji to any chat to try your luck.&quot;</comment>
-        <translation>Отправить</translation>
+        <translation>Send</translation>
     </message>
 </context>
 <context>
     <name>MessageListViewItem</name>
     <message>
         <source>Forwarded Message</source>
-        <translation>Пересланное сообщение</translation>
+        <translation>Forwarded Message</translation>
     </message>
     <message>
         <source>Select Message</source>
-        <translation>Выделить сообщение</translation>
+        <translation>Select Message</translation>
     </message>
     <message>
         <source>More Options...</source>
-        <translation>Ещё...</translation>
+        <translation>More Options...</translation>
     </message>
     <message>
         <source>Copy Message to Clipboard</source>
-        <translation>Скопировать в буфер обмена</translation>
+        <translation>Copy Message to Clipboard</translation>
     </message>
     <message>
         <source>Unpin Message</source>
-        <translation>Открепить сообщение</translation>
+        <translation>Unpin Message</translation>
     </message>
     <message>
         <source>Pin Message</source>
-        <translation>Закрепить сообщение</translation>
+        <translation>Pin Message</translation>
     </message>
     <message>
         <source>Recommended Message</source>
-        <translation>Рекомендованное сообщение</translation>
+        <translation>Recommended Message</translation>
     </message>
     <message>
         <source>Sponsored Message</source>
-        <translation>Спонсировано</translation>
+        <translation>Sponsored Message</translation>
     </message>
     <message>
         <source>edited</source>
-        <translation>изменено</translation>
+        <translation>edited</translation>
     </message>
     <message>
         <source>for %1</source>
         <comment>guest bot caller</comment>
-        <translation>для %1</translation>
+        <translation>for %1</translation>
     </message>
     <message>
         <source>The account was hidden by the user</source>
         <comment>Forwarded message</comment>
-        <translation>Аккаунт был скрыт пользователем</translation>
+        <translation>The account was hidden by the user</translation>
     </message>
 </context>
 <context>
@@ -1788,17 +1767,15 @@ Pull down to visit telegram.org</source>
         <source>scored %Ln points in %2</source>
         <comment>myself</comment>
         <translation>
-            <numerusform>набрал(а) %Ln очко в %2</numerusform>
-            <numerusform>набрал(а) %Ln очка в %2</numerusform>
-            <numerusform>набрал(а) %Ln очков в %2</numerusform>
+            <numerusform>scored %Ln point in %2</numerusform>
+            <numerusform>scored %Ln points in %2</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>scored %Ln points in %2</source>
         <translation>
-            <numerusform>набрал(а) %Ln очко в %2</numerusform>
-            <numerusform>набрал(а) %Ln очка в %2</numerusform>
-            <numerusform>набрал(а) %Ln очков в %2</numerusform>
+            <numerusform>scored %Ln point in %2</numerusform>
+            <numerusform>scored %Ln points in %2</numerusform>
         </translation>
     </message>
 </context>
@@ -1810,68 +1787,66 @@ Pull down to visit telegram.org</source>
         <translation>
             <numerusform>%Ln%</numerusform>
             <numerusform>%Ln%</numerusform>
-            <numerusform>%Ln%</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%Ln vote(s) total</source>
         <comment>number of total votes</comment>
         <translation>
-            <numerusform>%Ln голос</numerusform>
-            <numerusform>%Ln голоса</numerusform>
-            <numerusform>%Ln голосов</numerusform>
+            <numerusform>%Ln vote total</numerusform>
+            <numerusform>%Ln votes total</numerusform>
         </translation>
     </message>
     <message>
         <source>Stop poll</source>
-        <translation>Остановить</translation>
+        <translation>Stop poll</translation>
     </message>
     <message>
         <source>Retract vote</source>
-        <translation>Отменить голос</translation>
+        <translation>Retract vote</translation>
     </message>
     <message>
         <source>Final results</source>
-        <translation>Результаты</translation>
+        <translation>Final results</translation>
     </message>
     <message>
         <source>Anonymous Quiz</source>
-        <translation>Анонимная викторина</translation>
+        <translation>Anonymous Quiz</translation>
     </message>
     <message>
         <source>Quiz</source>
-        <translation>Викторина</translation>
+        <translation>Quiz</translation>
     </message>
     <message>
         <source>Anonymous Poll</source>
-        <translation>Анонимный опрос</translation>
+        <translation>Anonymous Poll</translation>
     </message>
     <message>
         <source>Poll</source>
-        <translation>Опрос</translation>
+        <translation>Poll</translation>
     </message>
     <message>
         <source>Vote</source>
-        <translation>Голосовать</translation>
+        <translation>Vote</translation>
     </message>
     <message>
         <source>Add an option</source>
-        <translation>Добавить ответ</translation>
+        <translation>Add an option</translation>
     </message>
     <message>
         <source>Option text</source>
-        <translation>Вариант ответа</translation>
+        <translation>Option text</translation>
     </message>
 </context>
 <context>
     <name>MessageSticker</name>
     <message>
         <source>Remove from Favorites</source>
-        <translation>Убрать из Избранных</translation>
+        <translation>Remove from Favorites</translation>
     </message>
     <message>
         <source>Add to Favorites</source>
-        <translation>Добавить в Избранные</translation>
+        <translation>Add to Favorites</translation>
     </message>
 </context>
 <context>
@@ -1879,403 +1854,399 @@ Pull down to visit telegram.org</source>
     <message>
         <source>via %1</source>
         <comment>message posted via bot user</comment>
-        <translation>через %1</translation>
+        <translation>via %1</translation>
     </message>
 </context>
 <context>
     <name>MessageVideo</name>
     <message>
         <source>Error loading video! %1</source>
-        <translation>Не удалось загрузить видео! %1</translation>
+        <translation>Error loading video! %1</translation>
     </message>
 </context>
 <context>
     <name>MessageVoiceNote</name>
     <message>
         <source>Voice Note</source>
-        <translation>Голосовое сообщение</translation>
+        <translation>Voice Note</translation>
     </message>
 </context>
 <context>
     <name>MessageableListItem</name>
     <message>
         <source>Draft</source>
-        <translation>Черновик</translation>
+        <translation>Draft</translation>
     </message>
     <message>
         <source>No message in this chat</source>
-        <translation>Чат пуст</translation>
+        <translation>No message in this chat</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Неизвестно</translation>
+        <translation>Unknown</translation>
     </message>
     <message>
         <source>You</source>
-        <translation>Вы</translation>
+        <translation>You</translation>
     </message>
 </context>
 <context>
     <name>MessagesView</name>
     <message>
         <source>Select Messages</source>
-        <translation>Выбрать сообщения</translation>
+        <translation>Select Messages</translation>
     </message>
     <message numerus="yes">
         <source>%Ln messages selected</source>
         <comment>number of messages selected</comment>
         <translation>
-            <numerusform>Выбрано %Ln сообщение</numerusform>
-            <numerusform>Выбрано %Ln сообщения</numerusform>
-            <numerusform>Выбрано %Ln сообщений</numerusform>
+            <numerusform>%Ln message selected</numerusform>
+            <numerusform>%Ln messages selected</numerusform>
         </translation>
     </message>
     <message>
         <source>No results</source>
         <comment>No messages search results found</comment>
-        <translation>Нет результатов</translation>
+        <translation>No results</translation>
     </message>
     <message numerus="yes">
         <source>%Ln messages have been copied</source>
         <translation>
-            <numerusform>%Ln сообщение скопировано</numerusform>
-            <numerusform>%Ln сообщения скопировано</numerusform>
-            <numerusform>%Ln сообщений скопировано</numerusform>
+            <numerusform>%Ln message has been copied</numerusform>
+            <numerusform>%Ln messages have been copied</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%Ln Messages deleted</source>
         <translation>
-            <numerusform>%Ln сообщение удалено</numerusform>
-            <numerusform>%Ln сообщения удалено</numerusform>
-            <numerusform>%Ln сообщений удалено</numerusform>
+            <numerusform>%Ln Message deleted</numerusform>
+            <numerusform>%Ln Messages deleted</numerusform>
         </translation>
     </message>
     <message>
         <source>Loading messages</source>
-        <translation>Загрузка сообщений</translation>
+        <translation>Loading messages</translation>
     </message>
     <message>
         <source>Waiting for %1 to come online…</source>
-        <translation>Ждём появления %1 в сети…</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This chat is empty</source>
-        <translation>Чат пуст</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The other user must come online for the secret chat to be created.</source>
-        <translation>Пользователь должен появиться в сети, чтобы секрутный чат был создан.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>NewChatPage</name>
     <message>
         <source>Your Contacts</source>
-        <translation>Ваши контакты</translation>
+        <translation>Your Contacts</translation>
     </message>
     <message>
         <source>Private Chat</source>
-        <translation>Приватный чат</translation>
+        <translation>Private Chat</translation>
     </message>
     <message>
         <source>Secret Chat</source>
-        <translation>Секретный чат</translation>
+        <translation>Secret Chat</translation>
     </message>
     <message>
         <source>End-to-end-encrypted, accessible on this device only</source>
-        <translation>Сквозное шифрование, доступное только на этом устройстве</translation>
+        <translation>End-to-end-encrypted, accessible on this device only</translation>
     </message>
     <message>
         <source>Transport-encrypted, uses Telegram Cloud, sharable across devices</source>
-        <translation>Транспорт шифруется, используя облачную технологию Telegram для использования на различных устройствах</translation>
+        <translation>Transport-encrypted, uses Telegram Cloud, sharable across devices</translation>
     </message>
     <message>
         <source>Add contact</source>
-        <translation>Добавить контакт</translation>
+        <translation>Add contact</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Удалить</translation>
+        <translation>Remove</translation>
     </message>
     <message>
         <source>Contact removed</source>
-        <translation>Контакт удалён</translation>
+        <translation>Contact removed</translation>
     </message>
     <message>
         <source>Loading contacts</source>
-        <translation>Загрузка контактов</translation>
+        <translation>Loading contacts</translation>
     </message>
     <message>
         <source>Invite to Telegram</source>
-        <translation>Пригласить в Telegram</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hey! I&apos;m using Telegram to chat. Join me! Download it here: %1</source>
-        <translation>Привет, я использую Telegram для переписки. Присоединяйся! Скачать его можно здесь: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unfortunately %1 has not joined Telegram yet, but you can send them an invitation. We will notify you when any of your contacts join Telegram.</source>
-        <translation>К сожалению, %1 пока не пользуется Telegram, но Вы можете отправить приглашение. Когда кто-либо из Ваших контактов регистрируется в Telegram, Вы будете получать уведомление.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invite</source>
         <comment>In-app notification button for inviting a user to Telegram</comment>
-        <translation>Пригласить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sync contacts</source>
-        <translation>Синхронизировать контакты</translation>
+        <translation type="unfinished">Sync contacts</translation>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation>Сортировать по имени</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sort by Last Seen</source>
-        <translation>Сортировать по времени захода</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Results</source>
-        <translation>Нет результатов</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You don&apos;t have any contacts yet</source>
-        <translation>У Вас пока нет контактов</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Try a new search.</source>
-        <translation>Попробуйте снова.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pull down to add a new contact or synchronize existing contacts from your address book.</source>
-        <translation>Потяните вниз, чтобы добавить контакт или синхронизировать контакты с Вашего устройства.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search contacts</source>
-        <translation>Поиск контактов</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Редактировать</translation>
+        <translation type="unfinished">Edit</translation>
     </message>
     <message>
         <source>Pull down to add a new contact</source>
-        <translation>Потяните вниз, чтобы добавить новый контакт</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share contact</source>
-        <translation>Поделиться контактом</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>NewMessageColumn</name>
     <message>
         <source>Unknown address</source>
-        <translation>Неизвестный адрес</translation>
+        <translation>Unknown address</translation>
     </message>
     <message>
         <source>Location (%1/%2)</source>
-        <translation>Местоположение (%1/%2)</translation>
+        <translation>Location (%1/%2)</translation>
     </message>
     <message>
         <source>Accuracy: %1m</source>
-        <translation>Точность: %1м</translation>
+        <translation>Accuracy: %1m</translation>
     </message>
     <message>
         <source>Edit Message</source>
-        <translation>Редактировать</translation>
+        <translation>Edit Message</translation>
     </message>
     <message>
         <source>Silent Broadcast</source>
         <comment>placeholder for broadcasting a message to a channel silently</comment>
-        <translation>Тихая публикация</translation>
+        <translation>Silent Broadcast</translation>
     </message>
     <message>
         <source>Broadcast</source>
         <comment>placeholder for broadcasting a message to a channel</comment>
-        <translation>Публикация</translation>
+        <translation>Broadcast</translation>
     </message>
     <message>
         <source>Send anonymously</source>
         <comment>placeholder for sending an anonymous message in a supergroup</comment>
-        <translation>Отправить анонимно</translation>
+        <translation>Send anonymously</translation>
     </message>
     <message>
         <source>Message for %1 Stars</source>
         <comment>placeholder for sending a message for %1 stars</comment>
-        <translation>Сообщение за %1 Звезд</translation>
+        <translation>Message for %1 Stars</translation>
     </message>
     <message>
         <source>Message</source>
         <comment>placeholder for sending a message</comment>
-        <translation>Сообщение</translation>
+        <translation>Message</translation>
     </message>
     <message>
         <source>Location: Obtaining position…</source>
-        <translation>Геопозиция: Получение локации…</translation>
+        <translation>Location: Obtaining position…</translation>
     </message>
     <message>
         <source>Uploading…</source>
-        <translation>Загрузка…</translation>
+        <translation>Uploading…</translation>
     </message>
 </context>
 <context>
     <name>NewPollDialog</name>
     <message>
         <source>A poll requires %1-%2 options.</source>
-        <translation>Опрос требует %1-%2 ответов.</translation>
+        <translation>A poll requires %1-%2 options.</translation>
     </message>
     <message>
         <source>Please choose at least one correct answer</source>
-        <translation>Пожалуйста, выберите хотя бы один ответ</translation>
+        <translation>Please choose at least one correct answer</translation>
     </message>
     <message>
         <source>New poll</source>
         <comment>header</comment>
-        <translation>Новый опрос</translation>
+        <translation>New poll</translation>
     </message>
     <message>
         <source>in %1</source>
         <comment>After dialog header… New Poll in [group name]</comment>
-        <translation>в %1</translation>
+        <translation>in %1</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation>Вопрос</translation>
+        <translation>Question</translation>
     </message>
     <message>
         <source>Enter your question here</source>
-        <translation>Введите ваш вопрос здесь</translation>
+        <translation>Enter your question here</translation>
     </message>
     <message>
         <source>You have to enter a question</source>
-        <translation>Необходимо задать вопрос</translation>
+        <translation>You have to enter a question</translation>
     </message>
     <message numerus="yes">
         <source>%Ln characters left</source>
         <translation>
-            <numerusform>Остался %Ln символ</numerusform>
-            <numerusform>Осталось %Ln символа</numerusform>
-            <numerusform>Осталось %Ln символов</numerusform>
+            <numerusform>%Ln character left</numerusform>
+            <numerusform>%Ln characters left</numerusform>
         </translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Описание</translation>
+        <translation>Description</translation>
     </message>
     <message>
         <source>Poll options</source>
         <comment>Section header</comment>
-        <translation>Ответы</translation>
+        <translation>Poll options</translation>
     </message>
     <message>
         <source>Add an option</source>
-        <translation>Добавить ответ</translation>
+        <translation>Add an option</translation>
     </message>
     <message>
         <source>Option can&apos;t be empty</source>
-        <translation>Ответы не могут быть пустыми</translation>
+        <translation>Option can&apos;t be empty</translation>
     </message>
     <message>
         <source>Add an answer</source>
-        <translation>Добавить ответ</translation>
+        <translation>Add an answer</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Настройки</translation>
+        <translation>Settings</translation>
     </message>
     <message>
         <source>Anonymous answers</source>
-        <translation>Анонимные ответы</translation>
+        <translation>Anonymous answers</translation>
     </message>
     <message>
         <source>Multiple answers</source>
-        <translation>Выбор нескольких ответов</translation>
+        <translation>Multiple answers</translation>
     </message>
     <message>
         <source>Allow adding options</source>
-        <translation>Добавление ответов</translation>
+        <translation>Allow adding options</translation>
     </message>
     <message>
         <source>Allow revoting</source>
-        <translation>Изменение ответа</translation>
+        <translation>Allow revoting</translation>
     </message>
     <message>
         <source>Allow users to change their vote</source>
-        <translation>Разрешить пользователям менять их ответ</translation>
+        <translation>Allow users to change their vote</translation>
     </message>
     <message>
         <source>Shuffle options</source>
-        <translation>Перемешать ответы</translation>
+        <translation>Shuffle options</translation>
     </message>
     <message>
         <source>Make answer appear in random order</source>
-        <translation>Ответы отображаются у всех участников в случайном порядке</translation>
+        <translation>Make answer appear in random order</translation>
     </message>
     <message>
         <source>Quiz Mode</source>
-        <translation>Режим викторины</translation>
+        <translation>Quiz Mode</translation>
     </message>
     <message>
         <source>Mark one or more options as the correct answer</source>
-        <translation>Отметьте один или несколько правильных вариантов</translation>
+        <translation>Mark one or more options as the correct answer</translation>
     </message>
     <message>
         <source>Shown when the user selects a wrong answer.</source>
-        <translation>Показывается, когда пользователь выбирает неправильный ответ.</translation>
+        <translation>Shown when the user selects a wrong answer.</translation>
     </message>
     <message>
         <source>Enter an optional explanation</source>
-        <translation>Дополнительное пояснение</translation>
+        <translation>Enter an optional explanation</translation>
     </message>
     <message>
         <source>Limit duration</source>
-        <translation>Ограничение срока</translation>
+        <translation>Limit duration</translation>
     </message>
     <message>
         <source>Automatically close the poll at a set time</source>
-        <translation>Опрос автоматически завершится в заданное время</translation>
+        <translation>Automatically close the poll at a set time</translation>
     </message>
     <message>
         <source>Close in</source>
-        <translation>Завершить через</translation>
+        <translation>Close in</translation>
     </message>
     <message>
         <source>1 hour</source>
-        <translation>1 час</translation>
+        <translation>1 hour</translation>
     </message>
     <message>
         <source>3 hours</source>
-        <translation>3 часа</translation>
+        <translation>3 hours</translation>
     </message>
     <message>
         <source>8 hours</source>
-        <translation>8 часов</translation>
+        <translation>8 hours</translation>
     </message>
     <message>
         <source>1 day</source>
-        <translation>1 день</translation>
+        <translation>1 day</translation>
     </message>
     <message>
         <source>3 days</source>
-        <translation>3 дня</translation>
+        <translation>3 days</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Другое</translation>
+        <translation>Custom</translation>
     </message>
     <message>
         <source>Close poll in</source>
-        <translation>Завершить опрос через</translation>
+        <translation>Close poll in</translation>
     </message>
     <message>
         <source>Hide results</source>
-        <translation>Скрыть результаты</translation>
+        <translation>Hide results</translation>
     </message>
     <message>
         <source>Hide results until the poll closes</source>
-        <translation>Скрыть результаты до окончания срока</translation>
+        <translation>Hide results until the poll closes</translation>
     </message>
 </context>
 <context>
@@ -2283,65 +2254,63 @@ Pull down to visit telegram.org</source>
     <message>
         <source>This secret chat was created</source>
         <comment>Notification</comment>
-        <translation>Секретный чат был создан</translation>
+        <translation>This secret chat was created</translation>
     </message>
     <message>
         <source>Close</source>
         <comment>Notification button for closing a newly created secret chat</comment>
-        <translation>Закрыть</translation>
+        <translation>Close</translation>
     </message>
     <message>
         <source>You have a new message</source>
         <comment>Notification</comment>
-        <translation>Вам пришло сообщение</translation>
+        <translation>You have a new message</translation>
     </message>
     <message numerus="yes">
         <source>Mentions in %1</source>
         <comment>Title for a notification containing messages with mentions from a group chat. Mention count is displayed separately</comment>
         <translation>
-            <numerusform>Упоминание в %1</numerusform>
-            <numerusform>Упоминания в %1</numerusform>
-            <numerusform>Упоминания в %1</numerusform>
+            <numerusform>Mention in %1</numerusform>
+            <numerusform>Mentions in %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Mentions from %1</source>
         <comment>Title for a notification containing messages with mentions from a private chat. Mention count is displayed separately</comment>
         <translation>
-            <numerusform>Упоминание от %1</numerusform>
-            <numerusform>Упоминания от %1</numerusform>
-            <numerusform>Упоминания от %1</numerusform>
+            <numerusform>Mention from %1</numerusform>
+            <numerusform>Mentions from %1</numerusform>
         </translation>
     </message>
     <message>
         <source>Incoming video call</source>
         <comment>notification</comment>
-        <translation>Входящий видеозвонок</translation>
+        <translation>Incoming video call</translation>
     </message>
     <message>
         <source>Incoming call</source>
         <comment>notification</comment>
-        <translation>Входящий звонок</translation>
+        <translation>Incoming call</translation>
     </message>
     <message>
         <source>Accept</source>
         <comment>Accept a call</comment>
-        <translation>Принять</translation>
+        <translation>Accept</translation>
     </message>
     <message>
         <source>Decline</source>
         <comment>Decline a call</comment>
-        <translation>Отклонить</translation>
+        <translation>Decline</translation>
     </message>
     <message>
         <source>Read</source>
         <comment>Shorter version of &apos;Mark as read&apos; for a notification button. The buttons must fit on a single line.</comment>
-        <translation>Прочитать</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reply</source>
         <comment>Shorter version for a notification button. The buttons must fit on a single line.</comment>
-        <translation>Ответить</translation>
+        <translation type="unfinished">Reply</translation>
     </message>
 </context>
 <context>
@@ -2349,359 +2318,356 @@ Pull down to visit telegram.org</source>
     <message>
         <source>Sound</source>
         <comment>Page header</comment>
-        <translation>Звук</translation>
+        <translation>Sound</translation>
     </message>
     <message>
         <source>Upload Sound</source>
         <comment>Upload a new sound</comment>
-        <translation>Загрузить звук</translation>
+        <translation>Upload Sound</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Удалить</translation>
+        <translation>Delete</translation>
     </message>
     <message>
         <source>Default</source>
         <comment>Sound</comment>
-        <translation>По умолчанию</translation>
+        <translation>Default</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Sound</comment>
-        <translation>Отключён</translation>
+        <translation>Disabled</translation>
     </message>
 </context>
 <context>
     <name>NotificationsContextMenu</name>
     <message>
         <source>Mute forever</source>
-        <translation>Выключить уведомления</translation>
+        <translation>Mute forever</translation>
     </message>
     <message numerus="yes">
         <source>Mute for %Ln hours</source>
         <translation>
-            <numerusform>Выкл. уведомления на %Ln час</numerusform>
-            <numerusform>Выкл. уведомления на %Ln часа</numerusform>
-            <numerusform>Выкл. уведомления на %Ln часов</numerusform>
+            <numerusform>Mute for %Ln hour</numerusform>
+            <numerusform>Mute for %Ln hours</numerusform>
         </translation>
     </message>
     <message>
         <source>Mute notifications</source>
-        <translation>Выключить уведомления</translation>
+        <translation>Mute notifications</translation>
     </message>
     <message>
         <source>Customize</source>
-        <translation>Настроить</translation>
+        <translation>Customize</translation>
     </message>
     <message>
         <source>Mute for…</source>
-        <translation>Выключить на время…</translation>
+        <translation>Mute for…</translation>
     </message>
 </context>
 <context>
     <name>NotificationsSwitch</name>
     <message>
         <source>Notifications</source>
-        <translation>Уведомления</translation>
+        <translation type="unfinished">Notifications</translation>
     </message>
     <message>
         <source>Muted</source>
-        <translation>Выкл.</translation>
+        <translation type="unfinished">Muted</translation>
     </message>
     <message>
         <source>Muted for %1</source>
-        <translation>Выкл. на %1</translation>
+        <translation type="unfinished">Muted for %1</translation>
     </message>
     <message>
         <source>Unmuted</source>
-        <translation>Вкл.</translation>
+        <translation type="unfinished">Unmuted</translation>
     </message>
     <message>
         <source>%1, press and hold for more options</source>
-        <translation>%1, нажмите и удерживайте для более точной настройки</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Opal.About</name>
     <message>
         <source>About</source>
-        <translation>О программе</translation>
+        <translation>About</translation>
     </message>
     <message>
         <source>Version %1</source>
-        <translation>Версия %1</translation>
+        <translation>Version %1</translation>
     </message>
     <message>
         <source>Development</source>
-        <translation>Разработка</translation>
+        <translation>Development</translation>
     </message>
     <message>
         <source>show contributors</source>
-        <translation>Показать участников</translation>
+        <translation>show contributors</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation>Домашняя страница</translation>
+        <translation>Homepage</translation>
     </message>
     <message>
         <source>Changelog</source>
-        <translation>Список изменений</translation>
+        <translation>Changelog</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation>Перевод</translation>
+        <translation>Translations</translation>
     </message>
     <message>
         <source>Source Code</source>
-        <translation>Исходный код</translation>
+        <translation>Source Code</translation>
     </message>
     <message>
         <source>Donations</source>
-        <translation>Пожертвования</translation>
+        <translation>Donations</translation>
     </message>
     <message>
         <source>License</source>
-        <translation>Лицензия</translation>
+        <translation>License</translation>
     </message>
     <message numerus="yes">
         <source>show license(s)</source>
         <translation>
-            <numerusform>показать лицензию</numerusform>
-            <numerusform>показать лицензии</numerusform>
-            <numerusform>показать лицензии</numerusform>
+            <numerusform>show license</numerusform>
+            <numerusform>show licenses</numerusform>
         </translation>
     </message>
     <message>
         <source>News</source>
-        <translation>Новости</translation>
+        <translation>News</translation>
     </message>
     <message>
         <source>Changes since version %1</source>
-        <translation>Изменения начиная с версии %1</translation>
+        <translation>Changes since version %1</translation>
     </message>
     <message>
         <source>show details</source>
-        <translation>Показать детали</translation>
+        <translation>show details</translation>
     </message>
     <message>
         <source>Thank you!</source>
-        <translation>Спасибо вам!</translation>
+        <translation>Thank you!</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation>Подробности</translation>
+        <translation>Details</translation>
     </message>
     <message>
         <source>Contributors</source>
-        <translation>Участники</translation>
+        <translation>Contributors</translation>
     </message>
     <message>
         <source>Acknowledgements</source>
-        <translation>Благодарности</translation>
+        <translation>Acknowledgements</translation>
     </message>
     <message>
         <source>External Link</source>
-        <translation>Внешняя ссылка</translation>
+        <translation>External Link</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation>Открыть в браузере</translation>
+        <translation>Open in browser</translation>
     </message>
     <message>
         <source>Copied to clipboard: %1</source>
-        <translation>Скопировано в буфер обмена: %1</translation>
+        <translation>Copied to clipboard: %1</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation>Скопировать в буфер обмена</translation>
+        <translation>Copy to clipboard</translation>
     </message>
     <message>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation>См. &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
+        <translation>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Download license texts</source>
-        <translation>Скачать тексты лицензий</translation>
+        <translation>Download license texts</translation>
     </message>
     <message>
         <source>You are using a mobile data connection.</source>
-        <translation>Вы используете мобильную передачу данных.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>License(s)</source>
         <translation>
-            <numerusform>Лицензия</numerusform>
-            <numerusform>Лицензии</numerusform>
-            <numerusform>Лицензий</numerusform>
+            <numerusform>License</numerusform>
+            <numerusform>Licenses</numerusform>
         </translation>
     </message>
     <message>
         <source>Note: please check the source code for most accurate information.</source>
-        <translation>Примечание: для получения наиболее точной информации обращайтесь к исходному коду.</translation>
+        <translation>Note: please check the source code for most accurate information.</translation>
     </message>
 </context>
 <context>
     <name>Opal.About.Common</name>
     <message>
         <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation>Если вы хотите поддержать мою работу, вы можете купить мне чашку кофе.</translation>
+        <translation>If you want to support my work, you can buy me a cup of coffee.</translation>
     </message>
     <message>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation>Вы можете поддержать этот проект, внеся свой вклад, или пожертвовать, используя любой из этих сервисов.</translation>
+        <translation>You can support this project by contributing, or by donating using any of these services.</translation>
     </message>
     <message>
         <source>Your contributions to translations or code would be most welcome.</source>
-        <translation>Ваш вклад в перевод или код будет только приветствоваться.</translation>
+        <translation>Your contributions to translations or code would be most welcome.</translation>
     </message>
 </context>
 <context>
     <name>Opal.LinkHandler</name>
     <message>
         <source>Copied to clipboard: %1</source>
-        <translation>Скопировано в буфер обмена: %1</translation>
+        <translation>Copied to clipboard: %1</translation>
     </message>
     <message>
         <source>Share link</source>
-        <translation>Поделиться ссылкой</translation>
+        <translation>Share link</translation>
     </message>
     <message>
         <source>Phone number</source>
-        <translation>Номер телефона</translation>
+        <translation type="unfinished">Phone number</translation>
     </message>
     <message>
         <source>External link</source>
-        <translation>Внешняя ссылка</translation>
+        <translation>External link</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation>Открыть в браузере</translation>
+        <translation>Open in browser</translation>
     </message>
     <message>
         <source>Open externally</source>
-        <translation>Открыть снаружи</translation>
+        <translation>Open externally</translation>
     </message>
     <message>
         <source>Share</source>
-        <translation>Поделиться</translation>
+        <translation>Share</translation>
     </message>
     <message>
         <source>Copy link</source>
-        <translation>Скопировать ссылку</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy text</source>
-        <translation>Скопировать текст</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No preview available.</source>
-        <translation>Предварительный просмотр недоступен.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The page is taking too long to load.</source>
-        <translation>Страница загружается дольше обычного.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>OverviewPage</name>
     <message>
         <source>Settings</source>
-        <translation>Настройки</translation>
+        <translation>Settings</translation>
     </message>
     <message>
         <source>New Chat</source>
-        <translation>Новый чат</translation>
+        <translation>New Chat</translation>
     </message>
     <message>
         <source>Logging out</source>
-        <translation>Завершение сеанса</translation>
-    </message>
-    <message>
-        <source>Archive</source>
-        <translation>Архив</translation>
+        <translation>Logging out</translation>
     </message>
     <message>
         <source>Download of %1 successful.</source>
         <comment>in-app notification text</comment>
-        <translation>Успешно скачано %1.</translation>
+        <translation>Download of %1 successful.</translation>
     </message>
     <message>
         <source>Open</source>
         <comment>in-app notification button: open downloaded file</comment>
-        <translation>Открыть</translation>
+        <translation>Open</translation>
+    </message>
+    <message>
+        <source>Archive</source>
+        <translation>Archive</translation>
     </message>
     <message>
         <source>Search</source>
         <comment>pulley menu option for opening search page</comment>
-        <translation>Поиск</translation>
+        <translation>Search</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation>Отметить прочитанным</translation>
+        <translation>Mark as read</translation>
     </message>
     <message>
         <source>Tap on the title bar to quickly open search</source>
-        <translation>Нажмите на заголовок чтобы открыть поиск</translation>
+        <translation>Tap on the title bar to quickly open search</translation>
     </message>
     <message>
         <source>Loading</source>
-        <translation>Загрузка</translation>
+        <translation>Loading</translation>
     </message>
     <message>
         <source>Download failed</source>
         <comment>in-app notification text</comment>
-        <translation>Загрузка не удалась</translation>
+        <translation>Download failed</translation>
     </message>
     <message>
         <source>Unable to open link</source>
         <comment>in-app notification text</comment>
-        <translation>Не удалось открыть ссылку</translation>
+        <translation>Unable to open link</translation>
     </message>
     <message>
         <source>You joined this channel</source>
         <comment>channel</comment>
-        <translation>Вы подписались на этот канал</translation>
+        <translation>You joined this channel</translation>
     </message>
     <message>
         <source>You joined this group</source>
         <comment>group</comment>
-        <translation>Вы вступили в группу</translation>
+        <translation>You joined this group</translation>
     </message>
     <message>
         <source>Request to join sent</source>
         <comment>channel</comment>
-        <translation>Заявка на вступление подана</translation>
+        <translation>Request to join sent</translation>
     </message>
     <message>
         <source>Request to join sent</source>
         <comment>group</comment>
-        <translation>Заявка на вступление подана</translation>
+        <translation>Request to join sent</translation>
     </message>
     <message>
         <source>Your request to join the channel was declined</source>
         <comment>channel</comment>
-        <translation>Ваша заявка на вступление в канал отклонена</translation>
+        <translation>Your request to join the channel was declined</translation>
     </message>
     <message>
         <source>Your request to join the group was declined</source>
         <comment>group</comment>
-        <translation>Ваша заявка на вступление в группу отклонена</translation>
+        <translation>Your request to join the group was declined</translation>
     </message>
     <message>
         <source>An approval from a guard bot is required to join the chat, but guard bots are not yet supported</source>
-        <translation>Заявки на вступление в этот чат проверяются ботом, но эта функция пока не поддерживается</translation>
+        <translation>An approval from a guard bot is required to join the chat, but guard bots are not yet supported</translation>
     </message>
     <message>
         <source>Link copied to clipboard</source>
-        <translation>Ссылка скопирована</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Welcome to Telegram</source>
-        <translation>Добро пожаловать в Telegram</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pull down to search public chats or create a new chat</source>
-        <translation>Потяните вниз, чтобы создать новый чат или найти публичные</translation>
+        <translation type="unfinished">Pull down to search public chats or create a new chat</translation>
     </message>
 </context>
 <context>
@@ -2715,84 +2681,80 @@ Pull down to visit telegram.org</source>
     <name>PinnedMessageItem</name>
     <message>
         <source>Message unpinned</source>
-        <translation>Сообщение откреплено</translation>
+        <translation>Message unpinned</translation>
     </message>
     <message numerus="yes">
         <source>%Ln pinned messages</source>
-        <translation>
-            <numerusform>%Ln закреплённое сообщение</numerusform>
-            <numerusform>%Ln закреплённых сообщения</numerusform>
-            <numerusform>%Ln закреплённых сообщений</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Unpin all messages</source>
-        <translation>Открепить все сообщения</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pinned message</source>
-        <translation>Закреплённое сообщение</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Previous message</source>
-        <translation>Предыдущее сообщение</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>Pinned message #%Ln</source>
-        <translation>
-            <numerusform>Закреплённое сообщение #%Ln</numerusform>
-            <numerusform>Закреплённое сообщение #%Ln</numerusform>
-            <numerusform>Закреплённое сообщение #%Ln</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Messages unpinned</source>
-        <translation>Сообщения откреплены</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All pinned messages</source>
-        <translation>Все закреплённые сообщения</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No pinned messages</source>
-        <translation>Нет закреплённых сообщений</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unpin message</source>
-        <translation>Открепить сообщение</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>PollResultsPage</name>
     <message>
         <source>Quiz Results</source>
-        <translation>Результаты викторины</translation>
+        <translation>Quiz Results</translation>
     </message>
     <message>
         <source>Poll Results</source>
-        <translation>Результаты Опроса</translation>
+        <translation>Poll Results</translation>
     </message>
     <message numerus="yes">
         <source>%Ln vote(s) total</source>
         <comment>number of total votes</comment>
         <translation>
-            <numerusform>%Ln голос</numerusform>
-            <numerusform>%Ln голоса</numerusform>
-            <numerusform>%Ln голосов</numerusform>
+            <numerusform>%Ln vote total</numerusform>
+            <numerusform>%Ln votes total</numerusform>
         </translation>
     </message>
     <message>
         <source>Results</source>
         <comment>section header</comment>
-        <translation>Результаты</translation>
+        <translation>Results</translation>
     </message>
     <message numerus="yes">
         <source>%Ln vote(s)</source>
         <comment>number of votes for option</comment>
         <translation>
-            <numerusform>%Ln голос</numerusform>
-            <numerusform>%Ln голоса</numerusform>
-            <numerusform>%Ln голосов</numerusform>
+            <numerusform>%Ln vote</numerusform>
+            <numerusform>%Ln votes</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -2801,25 +2763,22 @@ Pull down to visit telegram.org</source>
         <translation>
             <numerusform>%Ln%</numerusform>
             <numerusform>%Ln%</numerusform>
-            <numerusform>%Ln%</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%Ln vote(s) including yours</source>
         <comment>number of votes for option</comment>
         <translation>
-            <numerusform>%Ln голос, включая ваш</numerusform>
-            <numerusform>%Ln голоса, включая ваш</numerusform>
-            <numerusform>%Ln голосов, включая ваш</numerusform>
+            <numerusform>%Ln vote including yours</numerusform>
+            <numerusform>%Ln votes including yours</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Show %Ln more</source>
         <comment>Button to show %Ln more poll voters</comment>
         <translation>
-            <numerusform>Показать ещё %Ln</numerusform>
-            <numerusform>Показать ещё %Ln</numerusform>
-            <numerusform>Показать ещё %Ln</numerusform>
+            <numerusform>Show %Ln more</numerusform>
+            <numerusform>Show %Ln more</numerusform>
         </translation>
     </message>
 </context>
@@ -2839,110 +2798,106 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Add proxy</source>
-        <translation>Добавить прокси</translation>
+        <translation>Add proxy</translation>
     </message>
     <message>
         <source>Proxy</source>
-        <translation>Прокси</translation>
+        <translation>Proxy</translation>
     </message>
     <message>
         <source>Proxy servers may be helpful in accessing Telegram if there is no connection in a specific region.</source>
-        <translation>Использование прокси-сервера может помочь, если Telegram не удаётся установить соединение в Вашем регионе.</translation>
+        <translation>Proxy servers may be helpful in accessing Telegram if there is no connection in a specific region.</translation>
     </message>
     <message>
         <source>Connections</source>
-        <translation>Подключения</translation>
+        <translation>Connections</translation>
     </message>
     <message>
         <source>Without Proxy</source>
-        <translation>Без прокси</translation>
+        <translation>Without Proxy</translation>
     </message>
     <message>
         <source>Remove</source>
         <comment>proxy</comment>
-        <translation>Удалить</translation>
+        <translation>Remove</translation>
     </message>
     <message>
         <source>Edit</source>
         <comment>proxy</comment>
-        <translation>Редактировать</translation>
+        <translation>Edit</translation>
     </message>
     <message>
         <source>No proxies</source>
-        <translation>Нет прокси-серверов</translation>
+        <translation>No proxies</translation>
     </message>
     <message>
         <source>Pull down to add a new proxy server</source>
-        <translation>Потяните вниз, чтобы добавить новый прокси-сервер</translation>
+        <translation>Pull down to add a new proxy server</translation>
     </message>
     <message>
         <source>Copy Proxy List</source>
-        <translation>Скопировать список прокси</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy link</source>
         <comment>proxy</comment>
-        <translation>Копировать ссылку</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Proxy List copied to clipboard</source>
-        <translation>Список прокси скопирован</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1, %2</source>
         <comment>Combines the &quot;Added %Ln proxies&quot; and &quot;%Ln failed&quot; strings</comment>
-        <translation>%1, %2</translation>
+        <translation type="unfinished">%1, %2</translation>
     </message>
     <message numerus="yes">
         <source>Added %Ln proxies</source>
         <comment>First part of &quot;Added %Ln proxies, %Ln failed&quot;</comment>
-        <translation>
-            <numerusform>Добавлен %Ln прокси-сервер</numerusform>
-            <numerusform>Добавлено %Ln прокси-сервера</numerusform>
-            <numerusform>Добавлено %Ln прокси-серверов</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%Ln failed</source>
         <comment>Second part of &quot;Added %Ln proxies, %Ln failed&quot;</comment>
-        <translation>
-            <numerusform>не удалось добавить %Ln</numerusform>
-            <numerusform>не удалось добавить %Ln</numerusform>
-            <numerusform>не удалось добавить %Ln</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Failed to add %Ln proxies</source>
-        <translation>
-            <numerusform>Не удалось добавить %Ln прокси-сервер</numerusform>
-            <numerusform>Не удалось добавить %Ln прокси-сервера</numerusform>
-            <numerusform>Не удалось добавить %Ln прокси-серверов</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Added %Ln proxies</source>
-        <translation>
-            <numerusform>Добавлен %Ln прокси-сервер</numerusform>
-            <numerusform>Добавлено %Ln прокси-сервера</numerusform>
-            <numerusform>Добавлено %Ln прокси-серверов</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Add proxy from clipboard</source>
-        <translation>Добавить прокси из буфера обмена</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Try connecting through IPv6</source>
-        <translation>Через IPv6 (если возможно)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>connecting…</source>
         <comment>Indicates that a connection test is being done for a proxy or a direct connection to Telegram&apos;s servers</comment>
-        <translation>подключение…</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sort by Ping</source>
-        <translation>Сортировка по пингу</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2950,7 +2905,7 @@ Pull down to visit telegram.org</source>
     <message>
         <source>Search</source>
         <comment>page header for search page</comment>
-        <translation>Поиск</translation>
+        <translation type="unfinished">Search</translation>
     </message>
 </context>
 <context>
@@ -2958,789 +2913,786 @@ Pull down to visit telegram.org</source>
     <message>
         <source>Search</source>
         <comment>Placeholder text for chats search field</comment>
-        <translation>Поиск</translation>
+        <translation type="unfinished">Search</translation>
     </message>
     <message>
         <source>Frequent contacts</source>
-        <translation>Частые контакты</translation>
+        <translation type="unfinished">Frequent contacts</translation>
     </message>
     <message>
         <source>Remove from Recents</source>
-        <translation>Убрать из недавних</translation>
+        <translation type="unfinished">Remove from Recents</translation>
     </message>
     <message>
         <source>Recent</source>
         <comment>Recently found chats</comment>
-        <translation>Недавние</translation>
+        <translation type="unfinished">Recent</translation>
     </message>
     <message>
         <source>Cleared recents</source>
         <comment>Remorse popup indicating that recently found chats are cleared</comment>
-        <translation>Недавние очищены</translation>
+        <translation type="unfinished">Cleared recents</translation>
     </message>
     <message>
         <source>Remove from Recent</source>
         <comment>Remove a chat from recently found chats</comment>
-        <translation>Убрать из недавних</translation>
+        <translation type="unfinished">Remove from Recent</translation>
     </message>
     <message>
         <source>Global search results</source>
-        <translation>Результаты общего поиска</translation>
+        <translation type="unfinished">Global search results</translation>
     </message>
     <message>
         <source>Searching chats</source>
-        <translation>Поиск чатов</translation>
+        <translation type="unfinished">Searching chats</translation>
     </message>
     <message>
         <source>No Results</source>
-        <translation>Нет результатов</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No recent searches</source>
-        <translation>Нет недавних запросов</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>There were no results for &quot;%1&quot;. Try another search.</source>
-        <translation>По запросу &quot;%1&quot; ничего не найдено. Попробуйте другой запрос.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recent search results will appear here.</source>
-        <translation>Недавние запросы будут показаны здесь.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SetBirthdateDialog</name>
     <message>
         <source>Your birthday</source>
-        <translation>Ваш день рождения</translation>
+        <translation>Your birthday</translation>
     </message>
     <message>
         <source>Remove birthday</source>
-        <translation>Удалить день рождения</translation>
+        <translation>Remove birthday</translation>
     </message>
 </context>
 <context>
     <name>SettingsAdvanced</name>
     <message>
         <source>Advanced</source>
-        <translation>Дополнительно</translation>
+        <translation>Advanced</translation>
     </message>
     <message>
         <source>Voice messages volume</source>
-        <translation>Громкость голосовых сообщений</translation>
+        <translation>Voice messages volume</translation>
     </message>
     <message>
         <source>Translate formatted text</source>
-        <translation>Переводить форматированный текст</translation>
+        <translation>Translate formatted text</translation>
     </message>
     <message>
         <source>Force QtMultimedia-based audio recorder</source>
-        <translation>Использовать для записи аудио QtMultimedia рекордер</translation>
+        <translation>Force QtMultimedia-based audio recorder</translation>
     </message>
     <message>
         <source>Forcefully allow AI summary</source>
-        <translation>Принудительная ИИ-сводка сообщений</translation>
+        <translation>Forcefully allow AI summary</translation>
     </message>
     <message>
         <source>Calls</source>
-        <translation>Звонки</translation>
+        <translation>Calls</translation>
     </message>
     <message>
         <source>Save call logs</source>
-        <translation>Сохранять логи звонков</translation>
+        <translation>Save call logs</translation>
     </message>
     <message>
         <source>Save logs from tgcalls to Downloads</source>
-        <translation>Сохранять логи tgcalls в Загрузки</translation>
+        <translation>Save logs from tgcalls to Downloads</translation>
     </message>
     <message>
         <source>Enable online-only mode</source>
-        <translation>Включить режим &quot;только онлайн&quot;</translation>
+        <translation type="unfinished">Enable online-only mode</translation>
     </message>
     <message>
         <source>Disables offline caching. Certain features may be limited or missing in this mode. Changes require a restart of the app to take effect.</source>
-        <translation>Отключает оффлайн-кэш. Некоторые функции моугут быть ограничены или недоступны в этом режиме. Для применения изменений перезапустите приложение.</translation>
+        <translation type="unfinished">Disables offline caching. Certain features may be limited or missing in this mode. Changes require a restart of the app to take effect.</translation>
     </message>
     <message>
         <source>TDLib log verbosity</source>
-        <translation>Уровень логирования TDLib</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TDLib log stream</source>
-        <translation>Поток логирования TDLib</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Default</source>
-        <translation>По умолчанию</translation>
+        <translation type="unfinished">Default</translation>
     </message>
     <message>
         <source>None</source>
         <comment>Empty log stream (logging disabled)</comment>
-        <translation>Отключить</translation>
+        <translation type="unfinished">None</translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Файл</translation>
+        <translation type="unfinished">File</translation>
     </message>
 </context>
 <context>
     <name>SettingsAppearance</name>
     <message>
         <source>Appearance</source>
-        <translation>Внешний вид</translation>
+        <translation>Appearance</translation>
     </message>
     <message>
         <source>Show stickers as emojis</source>
-        <translation>Эмодзи вместо стикеров</translation>
+        <translation>Show stickers as emojis</translation>
     </message>
     <message>
         <source>Only display emojis instead of the actual stickers</source>
-        <translation>Показывать только эмодзи при отображении актуальных стикеров</translation>
+        <translation>Only display emojis instead of the actual stickers</translation>
     </message>
     <message>
         <source>Show stickers as images</source>
-        <translation>Показывать стикеры как обычные изображения</translation>
+        <translation>Show stickers as images</translation>
     </message>
     <message>
         <source>Show background for stickers and align them centrally like images</source>
-        <translation>То есть рисовать под ними фон и позиционировать по центру</translation>
+        <translation>Show background for stickers and align them centrally like images</translation>
     </message>
     <message>
         <source>Animate stickers</source>
-        <translation>Анимировать стикеры</translation>
+        <translation>Animate stickers</translation>
     </message>
     <message>
         <source>Video stickers</source>
-        <translation>Видеостикеры</translation>
+        <translation>Video stickers</translation>
     </message>
     <message>
         <source>Move chat folders panel to bottom</source>
-        <translation>Переместить панель папок вниз</translation>
+        <translation>Move chat folders panel to bottom</translation>
     </message>
     <message>
         <source>Show chat folders icons</source>
-        <translation>Показывать иконки папок</translation>
+        <translation>Show chat folders icons</translation>
     </message>
     <message>
         <source>Downscale animated stickers</source>
-        <translation>Уменьшить разрешение стикеров</translation>
+        <translation>Downscale animated stickers</translation>
     </message>
     <message>
         <source>May improve performance on low-end devices</source>
-        <translation>Может улучшить производительность на старых устройствах</translation>
+        <translation>May improve performance on low-end devices</translation>
     </message>
     <message>
         <source>Compact chat list</source>
-        <translation>Компактный список чатов</translation>
+        <translation>Compact chat list</translation>
     </message>
     <message>
         <source>Make chats in the list smaller</source>
-        <translation>Уменьшить чаты в списке</translation>
+        <translation>Make chats in the list smaller</translation>
     </message>
     <message>
         <source>Attachment button location</source>
-        <translation>Кнопка вложений</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>Справа</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Слева</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chat folders</source>
-        <translation>Папки с чатами</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stickers</source>
-        <translation>Стикеры</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SettingsArchiveChatList</name>
     <message>
         <source>Archive</source>
-        <translation>Архив</translation>
+        <translation>Archive</translation>
     </message>
     <message>
         <source>Always keep unmuted chats archived</source>
-        <translation>Сообщения в архиве без уведомлений</translation>
+        <translation>Always keep unmuted chats archived</translation>
     </message>
     <message>
         <source>Keep archived chats in the Archive even if they are unmuted and get a new message.</source>
-        <translation>Оставлять чаты в архиве даже с включенными уведомлениями.</translation>
+        <translation>Keep archived chats in the Archive even if they are unmuted and get a new message.</translation>
     </message>
     <message>
         <source>Always keep chats from folders archived</source>
-        <translation>Всегда оставлять чаты из папок в архиве</translation>
+        <translation>Always keep chats from folders archived</translation>
     </message>
     <message>
         <source>Keep archived chats from folders in the Archive even if they are unmuted and get a new message.</source>
-        <translation>Оставлять чаты в архиве из папок даже с включенными уведомлениями.</translation>
+        <translation>Keep archived chats from folders in the Archive even if they are unmuted and get a new message.</translation>
     </message>
     <message>
         <source>Automatically archive new chats from unknown users</source>
-        <translation>Автоматически архивировать новые чаты от неизвестных пользователей</translation>
+        <translation>Automatically archive new chats from unknown users</translation>
     </message>
     <message>
         <source>Automatically archive and mute new chats, groups and channels from non-contacts.</source>
-        <translation>Автоматически отправлять в архив и отключать уведомления от новых чатов, групп и каналов, созданных пользователями не из списка контактов.</translation>
+        <translation>Automatically archive and mute new chats, groups and channels from non-contacts.</translation>
     </message>
 </context>
 <context>
     <name>SettingsBehavior</name>
     <message>
         <source>Behavior</source>
-        <translation>Поведение</translation>
+        <translation>Behavior</translation>
     </message>
     <message>
         <source>Send message by enter</source>
-        <translation>Отправка сообщения клавишей ввода</translation>
+        <translation>Send message by enter</translation>
     </message>
     <message>
         <source>Send your message by pressing the enter key</source>
-        <translation>Клавиша ввода на клавиатуре будет отправлять сообщение, а не переносить строку</translation>
+        <translation>Send your message by pressing the enter key</translation>
     </message>
     <message>
         <source>Focus text input on chat open</source>
-        <translation>Приоритет фокусировки при открытии чата</translation>
+        <translation>Focus text input on chat open</translation>
     </message>
     <message>
         <source>Focus the text input area when entering a chat</source>
-        <translation>При входе в чат показывать клавиатуру</translation>
+        <translation>Focus the text input area when entering a chat</translation>
     </message>
     <message>
         <source>Focus text input area after send</source>
-        <translation>Приоритет фокусировки после отправки сообщения</translation>
+        <translation>Focus text input area after send</translation>
     </message>
     <message>
         <source>Focus the text input area after sending a message</source>
-        <translation>Показывать клавиатуру после отправки сообщения</translation>
+        <translation>Focus the text input area after sending a message</translation>
     </message>
     <message>
         <source>Delay before marking messages as read</source>
-        <translation>Задержка перед отметкой о прочтении</translation>
+        <translation>Delay before marking messages as read</translation>
     </message>
     <message>
         <source>Highlight unread messages</source>
-        <translation>Выделять непрочитанные сообщения</translation>
+        <translation>Highlight unread messages</translation>
     </message>
     <message>
         <source>Highlight Conversations with unread messages</source>
-        <translation>Помечать чаты и каналы с непрочитанными сообщениями другим шрифтом и цветом</translation>
+        <translation>Highlight Conversations with unread messages</translation>
     </message>
     <message>
         <source>Send attachments by enter</source>
-        <translation>Отправлять вложения клавишей ввода</translation>
+        <translation>Send attachments by enter</translation>
     </message>
     <message>
         <source>Show translate option for messages</source>
-        <translation>Показывать опцию перевода для сообщений</translation>
+        <translation>Show translate option for messages</translation>
     </message>
     <message>
         <source>Parse markdown when sending messages</source>
-        <translation>Использовать Markdown при отправлении сообщений</translation>
+        <translation>Parse markdown when sending messages</translation>
     </message>
     <message>
         <source>There will be a slight delay before the messages will be read</source>
-        <translation>Перед чтением сообшений будет небольшая задержка</translation>
+        <translation>There will be a slight delay before the messages will be read</translation>
     </message>
 </context>
 <context>
     <name>SettingsNotifications</name>
     <message>
         <source>Notifications and sounds</source>
-        <translation>Уведомления и звуки</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Notification feedback</source>
-        <translation>Отклик уведомлений</translation>
+        <translation type="unfinished">Notification feedback</translation>
     </message>
     <message>
         <source>Use non-graphical feedback (sound, vibration) for notifications</source>
-        <translation>Сопровождать уведомления звуками и/или вибрацией</translation>
+        <translation type="unfinished">Use non-graphical feedback (sound, vibration) for notifications</translation>
     </message>
     <message>
         <source>All events</source>
-        <translation>На каждое событие</translation>
+        <translation type="unfinished">All events</translation>
     </message>
     <message>
         <source>Only new events</source>
-        <translation>Только на новые события</translation>
+        <translation type="unfinished">Only new events</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Никогда</translation>
+        <translation type="unfinished">None</translation>
     </message>
     <message>
         <source>Events</source>
-        <translation>События</translation>
+        <translation type="unfinished">Events</translation>
     </message>
     <message>
         <source>Contact joined Telegram</source>
-        <translation>Контакт присоединился к Telegram</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Notification turns on the display</source>
-        <translation>Уведомления включают дисплей</translation>
+        <translation type="unfinished">Notification turns on the display</translation>
     </message>
     <message>
         <source>Hide content in notifications</source>
-        <translation>Не показывать содержимое сообщений в уведомлениях</translation>
+        <translation type="unfinished">Hide content in notifications</translation>
     </message>
     <message>
         <source>Setting quick reaction from notifications</source>
-        <translation>Выбор быстрой реакции из уведомлений</translation>
+        <translation type="unfinished">Setting quick reaction from notifications</translation>
     </message>
     <message>
         <source>In-chat sounds</source>
-        <translation>Звук в чате</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Play sounds for incoming and outgoing messages when a chat is open</source>
-        <translation>Звук для входящих и исходящих сообщений в открытом чате</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Include muted chats in unread count</source>
-        <translation>Включать в счетчик непрочитанных сообщений чаты без уведомлений</translation>
+        <translation type="unfinished">Include muted chats in unread count</translation>
     </message>
     <message>
         <source>Show unread chat count in folders</source>
-        <translation>Показывать счетчик непрочитанных сообщений в папках</translation>
+        <translation type="unfinished">Show unread chat count in folders</translation>
     </message>
     <message>
         <source>Include muted chats in folders unread count</source>
-        <translation>Включать в счетчик непрочитанных сообщений чаты без уведомлений в папках</translation>
+        <translation type="unfinished">Include muted chats in folders unread count</translation>
     </message>
     <message>
         <source>Calls</source>
-        <translation>Звонки</translation>
+        <translation type="unfinished">Calls</translation>
     </message>
     <message>
         <source>Ringtone for incoming calls in Do not disturb mode</source>
-        <translation>Рингтон для входящих вызовов в режиме Не беспокоить</translation>
+        <translation type="unfinished">Ringtone for incoming calls in Do not disturb mode</translation>
     </message>
     <message>
         <source>Allow incoming calls to play ringtones in &apos;Do not disturb&apos; mode</source>
-        <translation>Разрешить входящим вызовам играть рингтоны в режиме &apos;Не беспокоить&apos;</translation>
+        <translation type="unfinished">Allow incoming calls to play ringtones in &apos;Do not disturb&apos; mode</translation>
     </message>
     <message>
         <source>Pinned Messages</source>
-        <translation>Закреплённые сообщения</translation>
+        <translation type="unfinished">Pinned Messages</translation>
     </message>
     <message>
         <source>Badge counter</source>
-        <translation>Счётчик непрочитанных сообщений</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Private chats</source>
-        <translation>Личные чаты</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Groups</source>
-        <translation>Группы</translation>
+        <translation type="unfinished">Groups</translation>
     </message>
     <message>
         <source>Channels</source>
-        <translation>Каналы</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sounds</source>
-        <translation>Звуки</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Always use the default notification sound</source>
-        <translation>Всегда использовать стандартный звук уведомлений</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use the notification sound set in SailfishOS settings even if a custom sound is set for a chat type or a specific chat</source>
-        <translation>Использовать звук уведомлений, выбранный в настройках SailfishOS, даже если пользовательский звук выбран для типа чатов или для отдельного чата.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Notifications for chats</source>
-        <translation>Уведомления из чатов</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>Settings</source>
-        <translation>Настройки</translation>
+        <translation>Settings</translation>
     </message>
     <message>
         <source>About YAST</source>
-        <translation>О программе</translation>
+        <translation>About YAST</translation>
     </message>
     <message>
         <source>Is %1 still your number?</source>
-        <translation>%1 еще ваш номер?</translation>
+        <translation>Is %1 still your number?</translation>
     </message>
     <message>
         <source>Keep your number up to date to ensure you can always log into Telegram.</source>
-        <translation>Чтобы Вы всегда могли зайти в Telegram, важно указать актуальный номер телефона.</translation>
+        <translation>Keep your number up to date to ensure you can always log into Telegram.</translation>
     </message>
     <message>
         <source>Change phone number</source>
         <comment>Button in the menu for suggestion to check if the phone number is still yours</comment>
-        <translation>Изменить номер телефона</translation>
+        <translation>Change phone number</translation>
     </message>
     <message>
         <source>Keep %1</source>
         <comment>Button hiding the suggestion to check if the phone number is still yours</comment>
-        <translation>Оставить %1</translation>
+        <translation>Keep %1</translation>
     </message>
     <message>
         <source>Learn More</source>
         <comment>Learn more about the suggestion to check if the phone number is still yours</comment>
-        <translation>Узнать больше</translation>
-    </message>
-    <message>
-        <source>https://telegram.org/faq#q-i-have-a-new-phone-number-what-do-i-do</source>
-        <comment>URL to the Telegram&apos;s FAQ about changing the phone number for this language. Keep unfinished or as-is if not available for your language</comment>
-        <translation>https://telegram.org/faq?setln=ru#q-i-have-a-new-phone-number-what-do-i-do</translation>
+        <translation>Learn More</translation>
     </message>
     <message>
         <source>Do you still remember your password?</source>
-        <translation>Вы помните свой пароль?</translation>
+        <translation>Do you still remember your password?</translation>
     </message>
     <message>
         <source>Check that you still remember your 2-Step Verification password to ensure you can always log into Telegram.</source>
-        <translation>Чтобы Вы всегда могли войти в Telegram, важно не забыть облачный пароль.</translation>
+        <translation>Check that you still remember your 2-Step Verification password to ensure you can always log into Telegram.</translation>
     </message>
     <message>
         <source>Verify Password</source>
         <comment>Button in the menu for suggestion to check if you still remember your 2FA password</comment>
-        <translation>Проверить пароль</translation>
+        <translation>Verify Password</translation>
     </message>
     <message>
         <source>Hide Suggestion</source>
         <comment>Button hiding the suggestion to check if you still remember your 2FA password</comment>
-        <translation>Скрыть подсказку</translation>
+        <translation>Hide Suggestion</translation>
+    </message>
+    <message>
+        <source>https://telegram.org/faq#q-i-have-a-new-phone-number-what-do-i-do</source>
+        <comment>URL to the Telegram&apos;s FAQ about changing the phone number for this language. Keep unfinished or as-is if not available for your language</comment>
+        <translation type="unfinished">https://telegram.org/faq#q-i-have-a-new-phone-number-what-do-i-do</translation>
     </message>
 </context>
 <context>
     <name>SettingsPrivacy</name>
     <message>
         <source>Privacy</source>
-        <translation>Приватность</translation>
+        <translation>Privacy</translation>
     </message>
     <message>
         <source>Allow chat invites</source>
-        <translation>Разрешить приглашения в чаты</translation>
+        <translation>Allow chat invites</translation>
     </message>
     <message>
         <source>Privacy setting for managing whether you can be invited to chats.</source>
-        <translation>Кто может пригласить меня в чаты.</translation>
+        <translation>Privacy setting for managing whether you can be invited to chats.</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>Любой пользователь</translation>
+        <translation>Yes</translation>
     </message>
     <message>
         <source>Your contacts only</source>
-        <translation>Только из моих контактов</translation>
+        <translation>Your contacts only</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Никто</translation>
+        <translation>No</translation>
     </message>
     <message>
         <source>Allow finding by phone number</source>
-        <translation>Поиск по номеру телефона</translation>
+        <translation>Allow finding by phone number</translation>
     </message>
     <message>
         <source>Privacy setting for managing whether you can be found by your phone number.</source>
-        <translation>Можно ли найти меня по номеру телефона.</translation>
+        <translation>Privacy setting for managing whether you can be found by your phone number.</translation>
     </message>
     <message>
         <source>Show link in forwarded messages</source>
-        <translation>Ссылка на меня в перенаправленном сообщении</translation>
+        <translation>Show link in forwarded messages</translation>
     </message>
     <message>
         <source>Privacy setting for managing whether a link to your account is included in forwarded messages.</source>
-        <translation>Вставлять ли ссылку на меня в перенаправленное от меня сообщение.</translation>
+        <translation>Privacy setting for managing whether a link to your account is included in forwarded messages.</translation>
     </message>
     <message>
         <source>Show phone number</source>
-        <translation>Показывать номер телефона</translation>
+        <translation>Show phone number</translation>
     </message>
     <message>
         <source>Privacy setting for managing whether your phone number is visible.</source>
-        <translation>Видят ли другие пользователи номер моего телефона.</translation>
+        <translation>Privacy setting for managing whether your phone number is visible.</translation>
     </message>
     <message>
         <source>Show profile photo</source>
-        <translation>Показывать фото профиля</translation>
+        <translation>Show profile photo</translation>
     </message>
     <message>
         <source>Privacy setting for managing whether your profile photo is visible.</source>
-        <translation>Видят ли другие пользователи фото моего профиля.</translation>
+        <translation>Privacy setting for managing whether your profile photo is visible.</translation>
     </message>
     <message>
         <source>Show status</source>
-        <translation>Показывать мой статус</translation>
+        <translation>Show status</translation>
     </message>
     <message>
         <source>Privacy setting for managing whether your online status is visible.</source>
-        <translation>Виден ли мой статус другим пользователям.</translation>
+        <translation>Privacy setting for managing whether your online status is visible.</translation>
     </message>
     <message>
         <source>Bots and websites</source>
-        <translation>Боты и сайты</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Allow inline bots to access your location</source>
-        <translation>Разрешить инлайн-ботам доступ к геопозиции</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Prevent bots from showing you location-based results. This may break some bots</source>
-        <translation>Запретить ботам показывать результаты на основе вашего местоположения. Это может нарушить работу некоторых ботов</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear payment and shipping info</source>
-        <translation>Удалить данные о платежах и доставке</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>SettingsSession</name>
     <message>
         <source>Sessions</source>
-        <translation>Сеансы</translation>
+        <translation>Sessions</translation>
     </message>
     <message>
         <source>Session was terminated</source>
-        <translation>Сеанс был завершён</translation>
+        <translation>Session was terminated</translation>
     </message>
     <message>
         <source>Terminating session</source>
-        <translation>Завершение сеанса</translation>
+        <translation>Terminating session</translation>
     </message>
     <message>
         <source>Terminate Session</source>
-        <translation>Завершить сеанс</translation>
+        <translation>Terminate Session</translation>
     </message>
     <message>
         <source>This app</source>
-        <translation>Это приложение</translation>
+        <translation>This app</translation>
     </message>
     <message>
         <source>Active since: %1, last online: %2</source>
-        <translation>Активен с: %1, был онлайн: %2</translation>
+        <translation>Active since: %1, last online: %2</translation>
     </message>
     <message numerus="yes">
         <source>%1 day(s)</source>
         <translation>
-            <numerusform>%1 день</numerusform>
-            <numerusform>%1 дня</numerusform>
-            <numerusform>%1 дней</numerusform>
+            <numerusform>%1 day</numerusform>
+            <numerusform>%1 days</numerusform>
         </translation>
     </message>
     <message>
         <source>1 week</source>
-        <translation>1 неделя</translation>
+        <translation>1 week</translation>
     </message>
     <message>
         <source>1 month</source>
-        <translation>1 месяц</translation>
+        <translation>1 month</translation>
     </message>
     <message>
         <source>3 months</source>
-        <translation>3 месяца</translation>
+        <translation>3 months</translation>
     </message>
     <message>
         <source>6 months</source>
-        <translation>6 месяцев</translation>
+        <translation>6 months</translation>
     </message>
     <message>
         <source>1 year</source>
-        <translation>1 год</translation>
+        <translation>1 year</translation>
     </message>
     <message>
         <source>Session Timeout</source>
-        <translation>Таймаут сессии</translation>
+        <translation>Session Timeout</translation>
     </message>
     <message>
         <source>Inactive sessions will be terminated after this timeframe</source>
-        <translation>Неактивные сеансы будут автоматически завершены через указанное время.</translation>
+        <translation>Inactive sessions will be terminated after this timeframe</translation>
     </message>
 </context>
 <context>
     <name>SettingsStorage</name>
     <message>
         <source>Enable storage optimizer</source>
-        <translation>Включить оптимизацию хранилища</translation>
+        <translation>Enable storage optimizer</translation>
     </message>
     <message>
         <source>Optimize storage</source>
-        <translation>Оптимизировать хранилище</translation>
+        <translation>Optimize storage</translation>
     </message>
     <message>
         <source>Clear all cache</source>
-        <translation>Очистить весь кэш</translation>
+        <translation>Clear all cache</translation>
     </message>
     <message>
         <source>Clearing all cache is not recommended, unless issues occur.</source>
-        <translation>Очищать весь кэш не рекомендуется, пока не появляются проблемы.</translation>
+        <translation>Clearing all cache is not recommended, unless issues occur.</translation>
     </message>
     <message numerus="yes">
         <source>&lt;b&gt;%Ln&lt;/b&gt; files, totalling &lt;b&gt;%1&lt;/b&gt;</source>
         <translation>
-            <numerusform>&lt;b&gt;%Ln&lt;/b&gt; файл, всего &lt;b&gt;%1&lt;/b&gt;</numerusform>
-            <numerusform>&lt;b&gt;%Ln&lt;/b&gt; файла, всего &lt;b&gt;%1&lt;/b&gt;</numerusform>
-            <numerusform>&lt;b&gt;%Ln&lt;/b&gt; файлов, всего &lt;b&gt;%1&lt;/b&gt;</numerusform>
+            <numerusform>&lt;b&gt;%Ln&lt;/b&gt; file, totalling &lt;b&gt;%1&lt;/b&gt;</numerusform>
+            <numerusform>&lt;b&gt;%Ln&lt;/b&gt; files, totalling &lt;b&gt;%1&lt;/b&gt;</numerusform>
         </translation>
     </message>
     <message>
         <source>Local database size: &lt;b&gt;%1&lt;/b&gt;</source>
-        <translation>Размер локальной базы данных: &lt;b&gt;%1&lt;/b&gt;</translation>
+        <translation>Local database size: &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
         <source>TDLib log size: &lt;b&gt;%1&lt;/b&gt;</source>
-        <translation>Размер логов TDLib: &lt;b&gt;%1&lt;/b&gt;</translation>
+        <translation>TDLib log size: &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
         <source>TDLib language pack database size: &lt;b&gt;%1&lt;/b&gt;</source>
-        <translation>Размер базы данных языковых пакетов TDLib: &lt;b&gt;%1&lt;/b&gt;</translation>
+        <translation>TDLib language pack database size: &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Data and Storage</source>
-        <translation>Данные и память</translation>
+        <translation>Data and Storage</translation>
     </message>
     <message>
         <source>Proxy settings</source>
-        <translation>Настройки прокси</translation>
+        <translation>Proxy settings</translation>
     </message>
 </context>
 <context>
     <name>SettingsUserProfile</name>
     <message>
         <source>User Profile</source>
-        <translation>Профиль</translation>
+        <translation>User Profile</translation>
     </message>
     <message>
         <source>First Name</source>
         <comment>first name of the logged-in profile - header</comment>
-        <translation>Имя</translation>
+        <translation>First Name</translation>
     </message>
     <message>
         <source>Enter 1-64 characters</source>
-        <translation>Введите 1-64 символа</translation>
+        <translation>Enter 1-64 characters</translation>
     </message>
     <message>
         <source>Last Name</source>
         <comment>last name of the logged-in profile - header</comment>
-        <translation>Фамилия</translation>
+        <translation>Last Name</translation>
     </message>
     <message>
         <source>Enter 0-64 characters</source>
-        <translation>Введите 0-64 символа</translation>
+        <translation>Enter 0-64 characters</translation>
     </message>
     <message>
         <source>Username</source>
         <comment>user name of the logged-in profile - header</comment>
-        <translation>Ник</translation>
+        <translation>Username</translation>
     </message>
     <message>
         <source>Profile Pictures</source>
-        <translation>Картинки профиля</translation>
+        <translation>Profile Pictures</translation>
     </message>
     <message>
         <source>Add Picture</source>
-        <translation>Добавить</translation>
+        <translation>Add Picture</translation>
     </message>
     <message>
         <source>Log Out</source>
-        <translation>Выйти</translation>
+        <translation>Log Out</translation>
     </message>
     <message>
         <source>Logged out</source>
-        <translation>Выход из аккаунта</translation>
+        <translation>Logged out</translation>
     </message>
     <message>
         <source>Phone number: +%1</source>
-        <translation>Ваш телефон: +%1</translation>
+        <translation>Phone number: +%1</translation>
     </message>
     <message>
         <source>Birthday</source>
-        <translation>День рождения</translation>
+        <translation>Birthday</translation>
     </message>
     <message>
         <source>Add</source>
         <comment>Add the birthday to your profile</comment>
-        <translation>Добавить</translation>
+        <translation>Add</translation>
     </message>
     <message>
         <source>Uploading…</source>
-        <translation>Загрузка…</translation>
+        <translation>Uploading…</translation>
     </message>
     <message>
         <source>Sync contacts</source>
-        <translation>Синхронизировать контакты</translation>
+        <translation>Sync contacts</translation>
     </message>
 </context>
 <context>
     <name>StickerPicker</name>
     <message>
         <source>Removing sticker set</source>
-        <translation>Удаление набора стикеров</translation>
+        <translation>Removing sticker set</translation>
     </message>
     <message>
         <source>Recently used</source>
         <comment>stickers</comment>
-        <translation>Недавно использованные</translation>
+        <translation>Recently used</translation>
     </message>
     <message>
         <source>Favorite</source>
         <comment>stickers</comment>
-        <translation>Избранные</translation>
+        <translation>Favorite</translation>
     </message>
 </context>
 <context>
     <name>StickerSetOverlay</name>
     <message>
         <source>Sticker set installed</source>
-        <translation>Набор стикеров установлен</translation>
+        <translation>Sticker set installed</translation>
     </message>
     <message>
         <source>Sticker set removed</source>
-        <translation>Набор стикеров удален</translation>
+        <translation>Sticker set removed</translation>
     </message>
 </context>
 <context>
     <name>TDLibChatListItem</name>
     <message>
         <source>Secret Chat</source>
-        <translation>Секретный чат</translation>
+        <translation>Secret Chat</translation>
     </message>
     <message>
         <source>Private Chat</source>
-        <translation>Приватный чат</translation>
+        <translation>Private Chat</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Группа</translation>
+        <translation>Group</translation>
     </message>
     <message>
         <source>Channel</source>
-        <translation>Канал</translation>
+        <translation>Channel</translation>
     </message>
     <message numerus="yes">
         <source>%1 members</source>
         <translation>
-            <numerusform>%1 участник</numerusform>
-            <numerusform>%1 участника</numerusform>
-            <numerusform>%1 участников</numerusform>
+            <numerusform>%1 member</numerusform>
+            <numerusform>%1 members</numerusform>
         </translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Неизвестно</translation>
+        <translation>Unknown</translation>
     </message>
     <message>
         <source>Saved Messages</source>
-        <translation>Избранное</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3748,401 +3700,397 @@ Pull down to visit telegram.org</source>
     <message>
         <source>Unknown</source>
         <comment>An unknown chat or user</comment>
-        <translation>Неизвестно</translation>
+        <translation>Unknown</translation>
     </message>
 </context>
 <context>
     <name>TDLibWrapper</name>
     <message>
         <source>Waiting for network…</source>
-        <translation>Ожидание сети…</translation>
+        <translation>Waiting for network…</translation>
     </message>
     <message>
         <source>Connecting to network…</source>
-        <translation>Подключение к сети…</translation>
+        <translation>Connecting to network…</translation>
     </message>
     <message>
         <source>Connecting to proxy…</source>
-        <translation>Подключение к прокси…</translation>
+        <translation>Connecting to proxy…</translation>
     </message>
     <message>
         <source>Updating content…</source>
-        <translation>Обновление контента…</translation>
+        <translation>Updating content…</translation>
     </message>
 </context>
 <context>
     <name>TopicsBetaNoticeDialog</name>
     <message>
         <source>Back to Messages</source>
-        <translation>Назад к сообщениям</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Proceed</source>
-        <translation>Продолжить</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Beta Notice</source>
-        <translation>Бета-версия</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Forum topics are currently a %1beta feature%2</source>
-        <translation>Темы являются %1бета-функцией%2.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Basics Already Work</source>
-        <translation>Основной функционал работает</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You can already switch between topics, as well as view and send messages in them</source>
-        <translation>Вы уже можете переключаться по темам, а также просматривать и отправлять сообщения в них</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Viewing as Messages</source>
-        <translation>Просмотр по сообщениям</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>When a feature you want to use is not yet available for forum topics, you can always switch back to the whole chat view by pulling down to return to the older behavior</source>
-        <translation>Если функция, которая вам нужна, ещё недоступна для тем, вы всегда можете вернуться к привычному просмотру чата целиком, потянув вниз</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Help the Development</source>
-        <translation>Внесите вклад в разработку</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If you find a bug, submit it %1on GitHub%2. Make sure to check %4existing issues%3 first to avoid creating duplicates. React to issues you think are the most critical to make them more recognizeable and faster to get fixed.</source>
-        <translation>Если вы нашли баг, сообщите о нём %1на GitHub%2. Обратите внимание на %существующие отчёты%3, чтобы не создавать дубликаты. Реагируйте на отчёты, которые вы считаете наиболее критическими, чтобы сделать их более узнаваемыми и их быстрее исправили.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TopicsListView</name>
     <message>
         <source>No topics here yet</source>
-        <translation>Здесь пока нет тем</translation>
+        <translation>No topics here yet</translation>
     </message>
     <message>
         <source>Pull down to start the first topic or view the group as messages</source>
-        <translation>Потяните вниз для начала новой темы или просмотра группы в виде сообщений</translation>
+        <translation>Pull down to start the first topic or view the group as messages</translation>
     </message>
     <message>
         <source>This topic was created</source>
-        <translation>Тема была создана</translation>
+        <translation>This topic was created</translation>
     </message>
     <message>
         <source>Forum topic not found</source>
-        <translation>Тема не найдена</translation>
+        <translation>Forum topic not found</translation>
     </message>
     <message>
         <source>Forward to…</source>
-        <translation>Переслать в…</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TranslatePage</name>
     <message>
         <source>Change language</source>
-        <translation>Сменить язык</translation>
+        <translation>Change language</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation>Перевод</translation>
+        <translation>Translation</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Копировать</translation>
+        <translation>Copy</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Язык</translation>
+        <translation>Language</translation>
     </message>
     <message>
         <source>%2Device Language%3 (%1)</source>
         <comment>Indicator in language selection page for translation that a certain language is currently set as the device language</comment>
-        <translation>%2Язык системы%3 (%1)</translation>
+        <translation>%2Device Language%3 (%1)</translation>
     </message>
     <message>
         <source>Device Language</source>
-        <translation>Язык системы</translation>
+        <translation>Device Language</translation>
     </message>
     <message>
         <source>Summarize</source>
-        <translation>Краткая сводка</translation>
+        <translation>Summarize</translation>
     </message>
     <message>
         <source>Translate</source>
-        <translation>Перевод</translation>
+        <translation>Translate</translation>
     </message>
     <message>
         <source>AI Summary (%1)</source>
-        <translation>Краткая ИИ-сводка(%1)</translation>
+        <translation>AI Summary (%1)</translation>
     </message>
     <message>
         <source>AI Summary</source>
-        <translation>Краткая ИИ-сводка</translation>
+        <translation>AI Summary</translation>
     </message>
     <message>
         <source>Default</source>
         <comment>Default language for AI summary</comment>
-        <translation>По умолчанию</translation>
+        <translation>Default</translation>
     </message>
 </context>
 <context>
     <name>Utilities</name>
     <message>
         <source>Video: %1</source>
-        <translation>Видео: %1</translation>
+        <translation>Video: %1</translation>
     </message>
     <message>
         <source>Voice message: %1</source>
-        <translation>Голосовое сообщение: %1</translation>
+        <translation>Voice message: %1</translation>
     </message>
     <message>
         <source>has added %1 to the chat</source>
-        <translation>добавил(а) %1 в чат</translation>
+        <translation>has added %1 to the chat</translation>
     </message>
     <message>
         <source>left this chat</source>
         <comment>myself</comment>
-        <translation>покинули чат</translation>
+        <translation>left this chat</translation>
     </message>
     <message>
         <source>left this chat</source>
-        <translation>покинул(а) чат</translation>
+        <translation>left this chat</translation>
     </message>
     <message>
         <source>have removed %1 from the chat</source>
         <comment>myself</comment>
-        <translation>удалили %1 из чата</translation>
+        <translation>have removed %1 from the chat</translation>
     </message>
     <message>
         <source>has removed %1 from the chat</source>
-        <translation>удалил(а) %1 из чата</translation>
+        <translation>has removed %1 from the chat</translation>
     </message>
     <message>
         <source>changed the chat title to %1</source>
         <comment>myself</comment>
-        <translation>изменил название чата на %1</translation>
+        <translation>changed the chat title to %1</translation>
     </message>
     <message>
         <source>changed the chat title to %1</source>
-        <translation>изменил(а) название чата на %1</translation>
+        <translation>changed the chat title to %1</translation>
     </message>
     <message>
         <source>Anonymous Quiz</source>
-        <translation>Анонимная викторина</translation>
+        <translation>Anonymous Quiz</translation>
     </message>
     <message>
         <source>Quiz</source>
-        <translation>Викторина</translation>
+        <translation>Quiz</translation>
     </message>
     <message>
         <source>Anonymous Poll</source>
-        <translation>Анонимный опрос</translation>
+        <translation>Anonymous Poll</translation>
     </message>
     <message>
         <source>Poll</source>
-        <translation>Опрос</translation>
+        <translation>Poll</translation>
     </message>
     <message>
         <source>created this group</source>
         <comment>myself</comment>
-        <translation>создали группу</translation>
+        <translation>created this group</translation>
     </message>
     <message>
         <source>created this group</source>
-        <translation>создал(а) группу</translation>
+        <translation>created this group</translation>
     </message>
     <message>
         <source>changed the chat photo</source>
         <comment>myself</comment>
-        <translation>изменили фото чата</translation>
+        <translation>changed the chat photo</translation>
     </message>
     <message>
         <source>changed the chat photo</source>
-        <translation>изменил(а) фото чата</translation>
+        <translation>changed the chat photo</translation>
     </message>
     <message>
         <source>deleted the chat photo</source>
         <comment>myself</comment>
-        <translation>удалили фото чата</translation>
+        <translation>deleted the chat photo</translation>
     </message>
     <message>
         <source>deleted the chat photo</source>
-        <translation>удалил(а) фото чата</translation>
+        <translation>deleted the chat photo</translation>
     </message>
     <message>
         <source>upgraded this group to a supergroup</source>
         <comment>myself</comment>
-        <translation>обновили эту группу до супергруппы</translation>
+        <translation>upgraded this group to a supergroup</translation>
     </message>
     <message>
         <source>upgraded this group to a supergroup</source>
-        <translation>обновил(а) эту группу до супергруппы</translation>
+        <translation>upgraded this group to a supergroup</translation>
     </message>
     <message>
         <source>pinned a message</source>
         <comment>myself</comment>
-        <translation>закрепили сообщение</translation>
+        <translation>pinned a message</translation>
     </message>
     <message>
         <source>pinned a message</source>
-        <translation>закрепил(а) сообщение</translation>
+        <translation>pinned a message</translation>
     </message>
     <message>
         <source>sent a self-destructing photo that is expired</source>
         <comment>myself</comment>
-        <translation>отправили самоисчезающее фото, срок которого истёк</translation>
+        <translation>sent a self-destructing photo that is expired</translation>
     </message>
     <message>
         <source>sent a self-destructing photo that is expired</source>
-        <translation>отправил(а) самоисчезающее фото, срок которого истёк</translation>
+        <translation>sent a self-destructing photo that is expired</translation>
     </message>
     <message>
         <source>sent a self-destructing video that is expired</source>
         <comment>myself</comment>
-        <translation>отправили самоисчезающее видео, срок которого истёк</translation>
+        <translation>sent a self-destructing video that is expired</translation>
     </message>
     <message>
         <source>sent a self-destructing video that is expired</source>
-        <translation>отправил(а) самоисчезающее видео, срок которого истёк</translation>
+        <translation>sent a self-destructing video that is expired</translation>
     </message>
     <message>
         <source>sent a self-destructing voice message that is expired</source>
         <comment>myself</comment>
-        <translation>отправили самоисчезающее голосовое сообщение, срок которого истёк</translation>
+        <translation>sent a self-destructing voice message that is expired</translation>
     </message>
     <message>
         <source>sent a self-destructing voice message that is expired</source>
-        <translation>отправил(а) самоисчезающее голосовое сообщение, срок которого истёк</translation>
+        <translation>sent a self-destructing voice message that is expired</translation>
     </message>
     <message>
         <source>sent a self-destructing video message that is expired</source>
         <comment>myself</comment>
-        <translation>отправили самоисчезающее видеосообщение, срок которого истёк</translation>
+        <translation>sent a self-destructing video message that is expired</translation>
     </message>
     <message>
         <source>sent a self-destructing video message that is expired</source>
-        <translation>отправил(а) самоисчезающее видеосообщение, срок которого истёк</translation>
+        <translation>sent a self-destructing video message that is expired</translation>
     </message>
     <message>
         <source>created a screenshot in this chat</source>
         <comment>myself</comment>
-        <translation>создали снимок экрана в этом чате</translation>
+        <translation>created a screenshot in this chat</translation>
     </message>
     <message>
         <source>created a screenshot in this chat</source>
-        <translation>создал(а) снимок экрана в этом чате</translation>
+        <translation>created a screenshot in this chat</translation>
     </message>
     <message numerus="yes">
         <source>scored %Ln points</source>
         <comment>myself</comment>
         <translation>
-            <numerusform>набрал(а) %Ln очко</numerusform>
-            <numerusform>набрал(а) %Ln очка</numerusform>
-            <numerusform>набрал(а) %Ln очков</numerusform>
+            <numerusform>scored %Ln point</numerusform>
+            <numerusform>scored %Ln points</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>scored %Ln points</source>
         <translation>
-            <numerusform>набрал(а) %Ln очко</numerusform>
-            <numerusform>набрал(а) %Ln очка</numerusform>
-            <numerusform>набрал(а) %Ln очков</numerusform>
+            <numerusform>scored %Ln point</numerusform>
+            <numerusform>scored %Ln points</numerusform>
         </translation>
     </message>
     <message>
         <source>you allowed this bot to message you when you added it to your attachment menu</source>
-        <translation>вы разрешили этому боту писать Вам, добавив его в меню вложений</translation>
+        <translation>you allowed this bot to message you when you added it to your attachment menu</translation>
     </message>
     <message>
         <source>you allowed this bot to message you when you logged in on %1</source>
-        <translation>вы разрешили этому боту писать Вам, когда авторизовались на %1</translation>
+        <translation>you allowed this bot to message you when you logged in on %1</translation>
     </message>
     <message>
         <source>you allowed this bot to message you in its web-app</source>
-        <translation>вы разрешили этому боту писать Вам в его веб-приложении</translation>
+        <translation>you allowed this bot to message you in its web-app</translation>
     </message>
     <message>
         <source>you allowed this bot to message you</source>
-        <translation>вы разрешили этому боту писать Вам</translation>
+        <translation>you allowed this bot to message you</translation>
     </message>
     <message numerus="yes">
         <source>boosted this chat %Ln times</source>
         <comment>myself</comment>
         <translation>
-            <numerusform>проголосовал за этот чат %Ln раз</numerusform>
-            <numerusform>проголосовал за этот чат %Ln раза</numerusform>
-            <numerusform>проголосовал за этот чат %Ln раз</numerusform>
+            <numerusform>boosted this chat %Ln time</numerusform>
+            <numerusform>boosted this chat %Ln times</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>boosted this chat %Ln times</source>
         <translation>
-            <numerusform>проголосовал за этот чат %Ln раз</numerusform>
-            <numerusform>проголосовал за этот чат %Ln раза</numerusform>
-            <numerusform>проголосовал за этот чат %Ln раз</numerusform>
+            <numerusform>boosted this chat %Ln time</numerusform>
+            <numerusform>boosted this chat %Ln times</numerusform>
         </translation>
     </message>
     <message>
         <source>sent a gift</source>
         <comment>myself</comment>
-        <translation>отправили подарок</translation>
+        <translation>sent a gift</translation>
     </message>
     <message>
         <source>sent a gift</source>
-        <translation>отправил(а) подарок</translation>
+        <translation>sent a gift</translation>
     </message>
     <message>
         <source>started a giveaway</source>
         <comment>myself</comment>
-        <translation>объявили о розыгрыше</translation>
+        <translation>started a giveaway</translation>
     </message>
     <message>
         <source>started a giveaway</source>
-        <translation>объявил(а) о розыгрыше</translation>
+        <translation>started a giveaway</translation>
     </message>
     <message>
         <source>a giveaway was completed</source>
         <comment>myself</comment>
-        <translation>завершили розыгрыш</translation>
+        <translation>a giveaway was completed</translation>
     </message>
     <message>
         <source>a giveaway was completed</source>
-        <translation>завершил(а) розыгрыш</translation>
+        <translation>a giveaway was completed</translation>
     </message>
     <message>
         <source>sent an unsupported message</source>
         <comment>myself</comment>
-        <translation>отправили неподдерживаемое сообщение</translation>
+        <translation>sent an unsupported message</translation>
     </message>
     <message>
         <source>sent an unsupported message</source>
-        <translation>отправил(а) неподдерживаемое сообщение</translation>
+        <translation>sent an unsupported message</translation>
     </message>
     <message>
         <source>sent an unsupported message: %1</source>
         <comment>myself; %1 is message type</comment>
-        <translation>отправили неподдерживаемое сообщение: %1</translation>
+        <translation>sent an unsupported message: %1</translation>
     </message>
     <message>
         <source>sent an unsupported message: %1</source>
         <comment>%1 is message type</comment>
-        <translation>отправил(а) неподдерживаемое сообщение: %1</translation>
+        <translation>sent an unsupported message: %1</translation>
     </message>
     <message>
         <source>Photo: %1</source>
-        <translation>Фото: %1</translation>
+        <translation>Photo: %1</translation>
     </message>
     <message>
         <source>Photo</source>
-        <translation>Фото</translation>
+        <translation>Photo</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation>Видео</translation>
+        <translation>Video</translation>
     </message>
     <message>
         <source>Video message</source>
-        <translation>Видеосообщение</translation>
+        <translation>Video message</translation>
     </message>
     <message>
         <source>GIF: %1</source>
@@ -4159,7 +4107,7 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Audio</source>
-        <translation>Аудио</translation>
+        <translation>Audio</translation>
     </message>
     <message>
         <source>%1: %2</source>
@@ -4168,654 +4116,638 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>File</source>
-        <translation>Файл</translation>
+        <translation>File</translation>
     </message>
     <message>
         <source>Voice message</source>
-        <translation>Голосовое сообщение</translation>
+        <translation>Voice message</translation>
     </message>
     <message>
         <source>Venue: %1</source>
-        <translation>Место встречи: %1</translation>
+        <translation>Venue: %1</translation>
     </message>
     <message>
         <source>Venue</source>
-        <translation>Место встречи</translation>
+        <translation>Venue</translation>
     </message>
     <message>
         <source>Game</source>
-        <translation>Игра</translation>
+        <translation>Game</translation>
     </message>
     <message>
         <source>Quiz: %1</source>
-        <translation>Викторина: %1</translation>
+        <translation>Quiz: %1</translation>
     </message>
     <message>
         <source>Anonymous Poll: %1</source>
-        <translation>Анонимный опрос: %1</translation>
+        <translation>Anonymous Poll: %1</translation>
     </message>
     <message>
         <source>Poll: %1</source>
-        <translation>Опрос: %1</translation>
+        <translation>Poll: %1</translation>
     </message>
     <message>
         <source>Game: %1</source>
-        <translation>Игра: %1</translation>
+        <translation>Game: %1</translation>
     </message>
     <message>
         <source>Sticker</source>
-        <translation>Стикер</translation>
+        <translation>Sticker</translation>
     </message>
     <message>
         <source>created this topic</source>
         <comment>myself</comment>
-        <translation>создали эту тему</translation>
+        <translation>created this topic</translation>
     </message>
     <message>
         <source>created this topic</source>
-        <translation>создал(а) эту тему</translation>
+        <translation>created this topic</translation>
     </message>
     <message>
         <source>created the topic &quot;%1&quot;</source>
         <comment>myself</comment>
-        <translation>создали тему &quot;%1&quot;</translation>
+        <translation>created the topic &quot;%1&quot;</translation>
     </message>
     <message>
         <source>created the topic &quot;%1&quot;</source>
-        <translation>создал(а) тему &quot;%1&quot;</translation>
+        <translation>created the topic &quot;%1&quot;</translation>
     </message>
     <message>
         <source>renamed this topic to &quot;%1&quot;</source>
         <comment>myself</comment>
-        <translation>переименовали эту тему в &quot;%1&quot;</translation>
+        <translation>renamed this topic to &quot;%1&quot;</translation>
     </message>
     <message>
         <source>renamed this topic to &quot;%1&quot;</source>
-        <translation>переименовал(а) эту тему в &quot;%1&quot;</translation>
+        <translation>renamed this topic to &quot;%1&quot;</translation>
     </message>
     <message>
         <source>renamed the topic &quot;%1&quot;</source>
         <comment>myself</comment>
-        <translation>переименовали тему &quot;%1&quot;</translation>
+        <translation>renamed the topic &quot;%1&quot;</translation>
     </message>
     <message>
         <source>renamed the topic &quot;%1&quot;</source>
-        <translation>переименовал(а) тему &quot;%1&quot;</translation>
+        <translation>renamed the topic &quot;%1&quot;</translation>
     </message>
     <message>
         <source>changed this topic&apos;s icon</source>
         <comment>myself</comment>
-        <translation>изменили иконку этой темы</translation>
+        <translation>changed this topic&apos;s icon</translation>
     </message>
     <message>
         <source>changed this topic&apos;s icon</source>
-        <translation>изменил(а) иконку этой темы</translation>
+        <translation>changed this topic&apos;s icon</translation>
     </message>
     <message>
         <source>changed the icon of the topic &quot;%1&quot;</source>
         <comment>myself</comment>
-        <translation>изменили иконку темы &quot;%1&quot;</translation>
+        <translation>changed the icon of the topic &quot;%1&quot;</translation>
     </message>
     <message>
         <source>changed the icon of the topic &quot;%1&quot;</source>
-        <translation>изменил(а) иконку темы &quot;%1&quot;</translation>
+        <translation>changed the icon of the topic &quot;%1&quot;</translation>
     </message>
     <message>
         <source>closed this topic</source>
         <comment>myself</comment>
-        <translation>закрыли тему</translation>
+        <translation>closed this topic</translation>
     </message>
     <message>
         <source>closed this topic</source>
-        <translation>закрыл(а) тему</translation>
+        <translation>closed this topic</translation>
     </message>
     <message>
         <source>closed the topic &quot;%1&quot;</source>
         <comment>myself</comment>
-        <translation>закрыли тему &quot;%1&quot;</translation>
+        <translation>closed the topic &quot;%1&quot;</translation>
     </message>
     <message>
         <source>closed the topic &quot;%1&quot;</source>
-        <translation>закрыл(а) тему &quot;%1&quot;</translation>
+        <translation>closed the topic &quot;%1&quot;</translation>
     </message>
     <message>
         <source>reopened this topic</source>
         <comment>myself</comment>
-        <translation>переоткрыли эту тему</translation>
+        <translation>reopened this topic</translation>
     </message>
     <message>
         <source>reopened this topic</source>
-        <translation>переоткрыл(а) эту тему</translation>
+        <translation>reopened this topic</translation>
     </message>
     <message>
         <source>reopened the topic &quot;%1&quot;</source>
         <comment>myself</comment>
-        <translation>переоткрыли тему &quot;%1&quot;</translation>
+        <translation>reopened the topic &quot;%1&quot;</translation>
     </message>
     <message>
         <source>reopened the topic &quot;%1&quot;</source>
-        <translation>переоткрыл(а) тему &quot;%1&quot;</translation>
+        <translation>reopened the topic &quot;%1&quot;</translation>
     </message>
     <message>
         <source>hid this topic</source>
         <comment>myself</comment>
-        <translation>скрыли эту тему</translation>
+        <translation>hid this topic</translation>
     </message>
     <message>
         <source>hid this topic</source>
-        <translation>скрыл(а) эту тему</translation>
+        <translation>hid this topic</translation>
     </message>
     <message>
         <source>hid the general topic</source>
         <comment>myself</comment>
-        <translation>скрыли основную тему</translation>
+        <translation>hid the general topic</translation>
     </message>
     <message>
         <source>hid the general topic</source>
-        <translation>скрыл(а) основную тему</translation>
+        <translation>hid the general topic</translation>
     </message>
     <message>
         <source>unhid this topic</source>
         <comment>myself</comment>
-        <translation>показали эту тему</translation>
+        <translation>unhid this topic</translation>
     </message>
     <message>
         <source>unhid this topic</source>
-        <translation>показал(а) эту тему</translation>
+        <translation>unhid this topic</translation>
     </message>
     <message>
         <source>unhid the general topic</source>
         <comment>myself</comment>
-        <translation>показали основную тему</translation>
+        <translation>unhid the general topic</translation>
     </message>
     <message>
         <source>unhid the general topic</source>
-        <translation>показал(а) основную тему</translation>
+        <translation>unhid the general topic</translation>
     </message>
     <message>
         <source>Deleted Account</source>
-        <translation>Удалённый Аккаунт</translation>
+        <translation>Deleted Account</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>A user without a known name</comment>
-        <translation>Неизвестный(ая)</translation>
+        <translation>Unknown</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>A chat without a known name</comment>
-        <translation>Неизвестно</translation>
+        <translation>Unknown</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation>Геопозиция</translation>
+        <translation>Location</translation>
     </message>
     <message>
         <source>Anonymous Quiz: %1</source>
-        <translation>Анонимная викторина: %1</translation>
+        <translation>Anonymous Quiz: %1</translation>
     </message>
     <message>
         <source>, </source>
         <comment>Separator for names</comment>
-        <translation>,</translation>
+        <translation>, </translation>
     </message>
     <message>
         <source>%1 and %2</source>
         <comment>names</comment>
-        <translation>%1 и %2</translation>
+        <translation>%1 and %2</translation>
     </message>
     <message numerus="yes">
         <source>%1 and %Ln others</source>
         <comment>names</comment>
         <translation>
-            <numerusform>%1 и ещё %Ln</numerusform>
-            <numerusform>%1 и ещё %Ln</numerusform>
-            <numerusform>%1 и ещё %Ln</numerusform>
+            <numerusform>%1 and %Ln other</numerusform>
+            <numerusform>%1 and %Ln others</numerusform>
         </translation>
     </message>
     <message>
         <source>typing</source>
-        <translation>печатает</translation>
+        <translation>typing</translation>
     </message>
     <message numerus="yes">
         <source>%1 is typing</source>
         <translation>
-            <numerusform>%1 печатает</numerusform>
-            <numerusform>%1 печатают</numerusform>
-            <numerusform>%1 печатают</numerusform>
+            <numerusform>%1 is typing</numerusform>
+            <numerusform>%1 are typing</numerusform>
         </translation>
     </message>
     <message>
         <source>recording a video</source>
-        <translation>записывает видео</translation>
+        <translation>recording a video</translation>
     </message>
     <message numerus="yes">
         <source>%1 is recording a video</source>
         <translation>
-            <numerusform>%1 записывает видео</numerusform>
-            <numerusform>%1 записывают видео</numerusform>
-            <numerusform>%1 записывают видео</numerusform>
+            <numerusform>%1 is recording a video</numerusform>
+            <numerusform>%1 are recording videos</numerusform>
         </translation>
     </message>
     <message>
         <source>sending a video</source>
-        <translation>отправляет видео</translation>
+        <translation>sending a video</translation>
     </message>
     <message numerus="yes">
         <source>%1 is sending a video</source>
         <translation>
-            <numerusform>%1 отправляет видео</numerusform>
-            <numerusform>%1 отправляют видео</numerusform>
-            <numerusform>%1 отправляют видео</numerusform>
+            <numerusform>%1 is sending a video</numerusform>
+            <numerusform>%1 are sending videos</numerusform>
         </translation>
     </message>
     <message>
         <source>recording a voice message</source>
-        <translation>записывает голосовое сообщение</translation>
+        <translation>recording voice messages</translation>
     </message>
     <message numerus="yes">
         <source>%1 is recording a voice message</source>
         <translation>
-            <numerusform>%1 записывает голосовое сообщение</numerusform>
-            <numerusform>%1 записывают голосовые сообщения</numerusform>
-            <numerusform>%1 записывают голосовые сообщения</numerusform>
+            <numerusform>%1 is recording a voice message</numerusform>
+            <numerusform>%1 are recording voice messages</numerusform>
         </translation>
     </message>
     <message>
         <source>sending a voice message</source>
-        <translation>отправляет голосовое сообщение</translation>
+        <translation>sending a voice message</translation>
     </message>
     <message numerus="yes">
         <source>%1 is sending a voice message</source>
         <translation>
-            <numerusform>%1 отправляет голосовое сообщение</numerusform>
-            <numerusform>%1 отправляют голосовые сообщения</numerusform>
-            <numerusform>%1 отправляют голосовые сообщения</numerusform>
+            <numerusform>%1 is sending a voice message</numerusform>
+            <numerusform>%1 are sending voice messages</numerusform>
         </translation>
     </message>
     <message>
         <source>sending a photo</source>
-        <translation>отправляет фото</translation>
+        <translation>sending a photo</translation>
     </message>
     <message numerus="yes">
         <source>%1 is sending a photo</source>
         <translation>
-            <numerusform>%1 отправляет фото</numerusform>
-            <numerusform>%1 отправляют фото</numerusform>
-            <numerusform>%1 отправляют фото</numerusform>
+            <numerusform>%1 is sending a photo</numerusform>
+            <numerusform>%1 are sending photos</numerusform>
         </translation>
     </message>
     <message>
         <source>sending a file</source>
-        <translation>отправляет файл</translation>
+        <translation>sending a file</translation>
     </message>
     <message numerus="yes">
         <source>%1 is sending a file</source>
         <translation>
-            <numerusform>%1 отправляет файл</numerusform>
-            <numerusform>%1 отправляют файлы</numerusform>
-            <numerusform>%1 отправляют файлы</numerusform>
+            <numerusform>%1 is sending a file</numerusform>
+            <numerusform>%1 are sending files</numerusform>
         </translation>
     </message>
     <message>
         <source>choosing a sticker</source>
-        <translation>выбирает стикер</translation>
+        <translation>choosing a sticker</translation>
     </message>
     <message numerus="yes">
         <source>%1 is choosing a sticker</source>
         <translation>
-            <numerusform>%1 выбирает стикер</numerusform>
-            <numerusform>%1 выбирают стикеры</numerusform>
-            <numerusform>%1 выбирают стикеры</numerusform>
+            <numerusform>%1 is choosing a sticker</numerusform>
+            <numerusform>%1 are choosing stickers</numerusform>
         </translation>
     </message>
     <message>
         <source>choosing location</source>
-        <translation>выбирает геопозицию</translation>
+        <translation>choosing location</translation>
     </message>
     <message numerus="yes">
         <source>%1 is choosing location</source>
         <translation>
-            <numerusform>%1 выбирает геопозицию</numerusform>
-            <numerusform>%1 выбирают геопозиции</numerusform>
-            <numerusform>%1 выбирают геопозиции</numerusform>
+            <numerusform>%1 is choosing location</numerusform>
+            <numerusform>%1 are choosing locations</numerusform>
         </translation>
     </message>
     <message>
         <source>choosing a contact</source>
-        <translation>выбирает контакт</translation>
+        <translation>choosing a contact</translation>
     </message>
     <message numerus="yes">
         <source>%1 is choosing a contact</source>
         <translation>
-            <numerusform>%1 выбирает контакт</numerusform>
-            <numerusform>%1 выбирают контакты</numerusform>
-            <numerusform>%1 выбирают контакты</numerusform>
+            <numerusform>%1 is choosing a contact</numerusform>
+            <numerusform>%1 are choosing contacts</numerusform>
         </translation>
     </message>
     <message>
         <source>playing a game</source>
-        <translation>сейчас играет</translation>
+        <translation>playing a game</translation>
     </message>
     <message numerus="yes">
         <source>%1 is playing a game</source>
         <translation>
-            <numerusform>%1 сейчас играет</numerusform>
-            <numerusform>%1 сейчас играют</numerusform>
-            <numerusform>%1 сейчас играют</numerusform>
+            <numerusform>%1 is playing a game</numerusform>
+            <numerusform>%1 is playing games</numerusform>
         </translation>
     </message>
     <message>
         <source>recording a video message</source>
-        <translation>записывает видеосообщение</translation>
+        <translation>recording a video message</translation>
     </message>
     <message numerus="yes">
         <source>%1 is recording a video message</source>
         <translation>
-            <numerusform>%1 записывает видеосообщение</numerusform>
-            <numerusform>%1 записывают видеосообщения</numerusform>
-            <numerusform>%1 записывают видеосообщения</numerusform>
+            <numerusform>%1 is recording a video message</numerusform>
+            <numerusform>%1 is recording video messages</numerusform>
         </translation>
     </message>
     <message>
         <source>sending a video message</source>
-        <translation>отправляет видеосообщение</translation>
+        <translation>sending a video message</translation>
     </message>
     <message numerus="yes">
         <source>%1 is sending a video message</source>
         <translation>
-            <numerusform>%1 отправляет видеосообщение</numerusform>
-            <numerusform>%1 отправляют видеосообщения</numerusform>
-            <numerusform>%1 отправляют видеосообщения</numerusform>
+            <numerusform>%1 is sending a video message</numerusform>
+            <numerusform>%1 are sending video messages</numerusform>
         </translation>
     </message>
     <message>
         <source>added &quot;%1&quot; to the poll</source>
-        <translation>добавил(а) в опрос &quot;%1&quot;</translation>
+        <translation>added &quot;%1&quot; to the poll</translation>
     </message>
     <message>
         <source>removed &quot;%1&quot; from the poll</source>
-        <translation>удалил(а) из опроса &quot;%1&quot;</translation>
+        <translation>removed &quot;%1&quot; from the poll</translation>
     </message>
     <message>
         <source>Canceled Video Call</source>
         <comment>outgoing</comment>
-        <translation>Отменённый видеозвонок</translation>
+        <translation>Canceled Video Call</translation>
     </message>
     <message>
         <source>Missed Video Call</source>
         <comment>incoming</comment>
-        <translation>Пропущенный видеозвонок</translation>
+        <translation>Missed Video Call</translation>
     </message>
     <message>
         <source>Outgoing Video Call</source>
-        <translation>Исходящий видеозвонок</translation>
+        <translation>Outgoing Video Call</translation>
     </message>
     <message>
         <source>Incoming Video Call</source>
-        <translation>Входящий видеозвонок</translation>
+        <translation>Incoming Video Call</translation>
     </message>
     <message>
         <source>Canceled Call</source>
         <comment>outgoing</comment>
-        <translation>Отменённый звонок</translation>
+        <translation>Canceled Call</translation>
     </message>
     <message>
         <source>Missed Call</source>
         <comment>incoming</comment>
-        <translation>Пропущенный звонок</translation>
+        <translation>Missed Call</translation>
     </message>
     <message>
         <source>Outgoing Call</source>
-        <translation>Исходящий звонок</translation>
+        <translation>Outgoing Call</translation>
     </message>
     <message>
         <source>Incoming Call</source>
-        <translation>Входящий звонок</translation>
+        <translation>Incoming Call</translation>
     </message>
     <message>
         <source>Outgoing Group Call</source>
-        <translation>Исходящий групповой звонок</translation>
+        <translation>Outgoing Group Call</translation>
     </message>
     <message>
         <source>Missed Group Call</source>
-        <translation>Пропущенный групповой звонок</translation>
+        <translation>Missed Group Call</translation>
     </message>
     <message>
         <source>Incoming Group Call</source>
-        <translation>Входящий групповой звонок</translation>
+        <translation>Incoming Group Call</translation>
     </message>
     <message>
         <source>watching %1</source>
         <comment>The other party is watching an animation, %1 is the emoji describing the animation being watched</comment>
-        <translation>смотрит на %1</translation>
+        <translation>watching %1</translation>
     </message>
     <message numerus="yes">
         <source>%1 is watching %2</source>
         <comment>%1 is watching an animation, %2 is the emoji describing the animation being watched</comment>
         <translation>
-            <numerusform>%1 смотрит на %2</numerusform>
-            <numerusform>%1 смотрят на %2</numerusform>
-            <numerusform>%1 смотрят на %2</numerusform>
+            <numerusform>%1 is watching %2</numerusform>
+            <numerusform>%1 are watching %2</numerusform>
         </translation>
     </message>
     <message>
         <source>added &quot;%1&quot; to the poll</source>
         <comment>myself</comment>
-        <translation>добавили в опрос &quot;%1&quot;</translation>
+        <translation>added &quot;%1&quot; to the poll</translation>
     </message>
     <message>
         <source>removed &quot;%1&quot; from the poll</source>
         <comment>myself</comment>
-        <translation>удалили из опроса &quot;%1&quot;</translation>
+        <translation>removed &quot;%1&quot; from the poll</translation>
     </message>
     <message>
         <source>joined the chat from the &quot;%1&quot; community</source>
         <comment>myself</comment>
-        <translation>присоединились к чату из сообщества &quot;%1&quot;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>joined the chat from the &quot;%1&quot; community</source>
-        <translation>присоединил(ась)ся к чату из сообщества &quot;%1&quot;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>added the chat to the &quot;%1&quot; community</source>
         <comment>myself</comment>
-        <translation>добавили чат в сообщество &quot;%1&quot;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>added the chat to the &quot;%1&quot; community</source>
-        <translation>добавил(a) чат в сообщество &quot;%1&quot;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>removed the chat from the community</source>
         <comment>myself</comment>
-        <translation>удалили чат из сообщества</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>removed the chat from the community</source>
-        <translation>удалил(а) чат из сообщества</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Contact</source>
-        <translation>Контакт</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Contact: %1</source>
-        <translation>Контакт: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dart: throwing…</source>
         <comment>0</comment>
-        <translation>Дартс: бросок…</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dart: missed!</source>
         <comment>1</comment>
-        <translation>Дартс: мимо!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dart thrown</source>
         <comment>2</comment>
-        <translation>Бросок дротика</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dart thrown</source>
         <comment>3</comment>
-        <translation>Бросок дротика</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dart thrown</source>
         <comment>4</comment>
-        <translation>Бросок дротика</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dart: bullseye!</source>
         <comment>6</comment>
-        <translation>Дартс: в яблочко!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dart: almost there!</source>
         <comment>5</comment>
-        <translation>Дартс: близко к цели!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>Dice: %n</source>
-        <translation>
-            <numerusform>Кубик: %n</numerusform>
-            <numerusform>Кубик: %n</numerusform>
-            <numerusform>Кубик: %n</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Dice: rolling…</source>
-        <translation>Бросок кубика…</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>disabled the self-destruct timer</source>
         <comment>myself</comment>
-        <translation>отключили удаление по таймеру</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>disabled the self-destruct timer</source>
-        <translation>отключил(а) удаление по таймеру</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>joined Telegram</source>
         <comment>myself</comment>
-        <translation>теперь в Telegram</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>joined Telegram</source>
-        <translation>теперь в Telegram</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>joined this chat</source>
         <comment>myself</comment>
-        <translation>присоединились к чату</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>joined this chat</source>
-        <translation>присоединился(-ась) к чату</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>were added to this chat</source>
         <comment>myself</comment>
-        <translation>были добавлены в чат</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>was added to this chat</source>
-        <translation>был(-а) добавлена в чат</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>have added %1 to the chat</source>
         <comment>myself</comment>
-        <translation>добавили %1 в чат</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>VoiceNoteOverlay</name>
     <message>
         <source>Record a Voice Note</source>
-        <translation>Голосовое сообщение</translation>
+        <translation>Record a Voice Note</translation>
     </message>
     <message>
         <source>Press the button to start recording</source>
-        <translation>Коснитесь кнопки для записи</translation>
+        <translation>Press the button to start recording</translation>
     </message>
     <message>
         <source>Unavailable</source>
-        <translation>Недоступно</translation>
+        <translation>Unavailable</translation>
     </message>
     <message>
         <source>Starting</source>
-        <translation>Пуск</translation>
+        <translation>Starting</translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>Запись</translation>
+        <translation>Recording</translation>
     </message>
     <message>
         <source>Stopping</source>
-        <translation>Стоп</translation>
+        <translation>Stopping</translation>
     </message>
     <message>
         <source>Use recording</source>
-        <translation>Использовать запись</translation>
+        <translation>Use recording</translation>
     </message>
     <message>
         <source>Voice Note (%1)</source>
-        <translation>Аудиозаметка (%1)</translation>
+        <translation>Voice Note (%1)</translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>Ожидание</translation>
+        <translation>Ready</translation>
     </message>
 </context>
 <context>
     <name>WebPagePreview</name>
     <message>
         <source>Preview not supported for this link</source>
-        <translation>Предпросмотр для данной ссылки не поддерживается</translation>
+        <translation>Preview not supported for this link</translation>
     </message>
 </context>
 <context>
     <name>WelcomeDialog</name>
     <message>
         <source>Start Messaging</source>
-        <translation>Начать общение</translation>
+        <translation>Start Messaging</translation>
     </message>
     <message>
         <source>YAST Client is a yet another SailfishOS Telegram client</source>
-        <translation>YAST Client - ещё один клиент Telegram для SailfishOS</translation>
+        <translation>YAST Client is a yet another SailfishOS Telegram client</translation>
     </message>
     <message>
         <source>YAST is not an official Telegram client, but it uses the official Telegram API through TDLib</source>
-        <translation>YAST - неофициальный клиент Telegram, но использует официальный API Telegram, используя TDLib</translation>
+        <translation>YAST is not an official Telegram client, but it uses the official Telegram API through TDLib</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation>Бесплатный</translation>
+        <translation>Free</translation>
     </message>
     <message>
         <source>Telegram provides free unlimited cloud storage for chats and media</source>
-        <translation>Telegram предоставляет бесплатное безлимитное облачное хранилище для чатов и медиа.</translation>
+        <translation>Telegram provides free unlimited cloud storage for chats and media</translation>
     </message>
     <message>
         <source>Secure</source>
-        <translation>Безопасный</translation>
+        <translation>Secure</translation>
     </message>
     <message>
         <source>Telegram keeps your messages safe from hacker attacks</source>
-        <translation>Telegram защищает Вашу переписку от злоумышленников.</translation>
+        <translation>Telegram keeps your messages safe from hacker attacks</translation>
     </message>
     <message>
         <source>Cloud-Based</source>
-        <translation>Облачный</translation>
+        <translation>Cloud-Based</translation>
     </message>
     <message>
         <source>Telegram lets you access your messages from multiple devices</source>
-        <translation>В Telegram можно переписываться с любого количества устройств.</translation>
+        <translation>Telegram lets you access your messages from multiple devices</translation>
     </message>
 </context>
 <context>
@@ -4826,69 +4758,59 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>%1K</source>
-        <translation>%1T</translation>
+        <translation>%1K</translation>
     </message>
     <message>
         <source>was never online</source>
-        <translation>никогда не был(а) онлайн</translation>
+        <translation>was never online</translation>
     </message>
     <message>
         <source>last online: last month</source>
-        <translation>был(а) онлайн: в прошлом месяце</translation>
+        <translation>last online: last month</translation>
     </message>
     <message>
         <source>last online: last week</source>
-        <translation>был(а) онлайн: на прошлой неделе</translation>
+        <translation>last online: last week</translation>
     </message>
     <message>
         <source>last online: %1</source>
-        <translation>был(а) онлайн: %1</translation>
+        <translation>last online: %1</translation>
     </message>
     <message>
         <source>online</source>
-        <translation>онлайн</translation>
+        <translation>online</translation>
     </message>
     <message>
         <source>was recently online</source>
-        <translation>недавно был(а) онлайн</translation>
+        <translation>was recently online</translation>
     </message>
     <message>
         <source>Admin</source>
         <comment>channel user role</comment>
-        <translation>Админ</translation>
+        <translation>Admin</translation>
     </message>
     <message>
         <source>Banned</source>
         <comment>channel user role</comment>
-        <translation>Забанен</translation>
+        <translation>Banned</translation>
     </message>
     <message>
         <source>Restricted</source>
         <comment>channel user role</comment>
-        <translation>Ограничен</translation>
+        <translation>Restricted</translation>
     </message>
     <message>
         <source>Unable to find user %1</source>
-        <translation>Невозможно найти пользователя %1</translation>
+        <translation>Unable to find user %1</translation>
     </message>
     <message>
         <source>You are already a member of this chat.</source>
-        <translation>Вы уже участвуете в этом чате.</translation>
-    </message>
-    <message>
-        <source>service notifications</source>
-        <comment>used as a status for the service notifications chat</comment>
-        <translation>сервисные уведомления</translation>
-    </message>
-    <message>
-        <source>support</source>
-        <comment>used as a status for support chats, excluding the service notifications chat</comment>
-        <translation>поддержка</translation>
+        <translation>You are already a member of this chat.</translation>
     </message>
     <message>
         <source>Owner</source>
         <comment>channel user role</comment>
-        <translation>Владелец</translation>
+        <translation>Owner</translation>
     </message>
     <message>
         <source>%1, %2</source>
@@ -4898,83 +4820,89 @@ Pull down to visit telegram.org</source>
     <message numerus="yes">
         <source>%1 members</source>
         <translation>
-            <numerusform>%1 участник</numerusform>
-            <numerusform>%1 участника</numerusform>
-            <numerusform>%1 участников</numerusform>
+            <numerusform>%1 member</numerusform>
+            <numerusform>%1 members</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%1 online</source>
         <translation>
-            <numerusform>%1 онлайн</numerusform>
-            <numerusform>%1 онлайн</numerusform>
-            <numerusform>%1 онлайн</numerusform>
+            <numerusform>%1 online</numerusform>
+            <numerusform>%1 online</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%1 subscribers</source>
         <translation>
-            <numerusform>%1 подписчик</numerusform>
-            <numerusform>%1 подписчика</numerusform>
-            <numerusform>%1 подписчиков</numerusform>
+            <numerusform>%1 subscriber</numerusform>
+            <numerusform>%1 subscribers</numerusform>
         </translation>
     </message>
     <message>
+        <source>service notifications</source>
+        <comment>used as a status for the service notifications chat</comment>
+        <translation>service notifications</translation>
+    </message>
+    <message>
+        <source>support</source>
+        <comment>used as a status for support chats, excluding the service notifications chat</comment>
+        <translation>support</translation>
+    </message>
+    <message>
         <source>Channel</source>
-        <translation>Канал</translation>
+        <translation>Channel</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Группа</translation>
+        <translation>Group</translation>
     </message>
     <message>
         <source>Unavailable</source>
         <comment>Indicates that the proxy is unavailable</comment>
-        <translation>Недоступно</translation>
+        <translation>Unavailable</translation>
     </message>
     <message numerus="yes">
         <source>Available (ping: %Ln ms)</source>
         <comment>Indicates that the proxy is available</comment>
         <translation>
-            <numerusform>Доступен (пинг: %Ln мс)</numerusform>
-            <numerusform>Доступен (пинг: %Ln мс)</numerusform>
-            <numerusform>Доступен (пинг: %Ln мс)</numerusform>
+            <numerusform>Available (ping: %Ln ms)</numerusform>
+            <numerusform>Available (ping: %Ln ms)</numerusform>
         </translation>
     </message>
     <message>
         <source>Available</source>
         <comment>Indicates that the proxy is available</comment>
-        <translation>Доступен</translation>
+        <translation>Available</translation>
     </message>
     <message>
         <source>Unmute</source>
-        <translation>Вкл. уведомления</translation>
+        <translation>Unmute</translation>
     </message>
     <message>
         <source>Mute notifications</source>
-        <translation>Выключить уведомления</translation>
+        <translation>Mute notifications</translation>
     </message>
     <message>
         <source>Closed</source>
         <comment>secret chat</comment>
-        <translation>Закрыт</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pending acknowledgement</source>
         <comment>secret chat</comment>
-        <translation>Ожидание подтверждения</translation>
+        <translation type="unfinished">Pending acknowledgement</translation>
     </message>
 </context>
 <context>
-    <name>harbour-yast-client</name>
+    <name>harbour-yast-x</name>
     <message>
         <source>Link unsupported: %1</source>
-        <translation>Ссылка не поддерживается: %1</translation>
+        <translation>Link unsupported: %1</translation>
     </message>
     <message>
         <source>TelegramTips</source>
         <comment>Username of the localized Telegram Tips channel. Keep unfinished or as-is if not available for your language</comment>
-        <translation>TelegramTips</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

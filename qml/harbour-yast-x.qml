@@ -71,7 +71,7 @@ ApplicationWindow {
 
     ConfigurationGroup {
         id: appConfig
-        path: '/apps/yast-client'
+        path: '/apps/yast-x'
 
         ConfigurationGroup {
             id: hintsConfig

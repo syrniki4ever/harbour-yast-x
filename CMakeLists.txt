@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.13)
-project(harbour-yast-client CXX ASM)
+project(harbour-yast-x CXX ASM)
 
 if(POLICY CMP0077)
     cmake_policy(SET CMP0077 NEW)

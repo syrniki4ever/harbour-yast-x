@@ -202,5 +202,5 @@ qlonglong VoiceNoteRecorder::getVoiceNoteDuration() const {
 }
 
 QString VoiceNoteRecorder::getTemporaryDirectoryPath() {
-    return QStandardPaths::writableLocation(QStandardPaths::TempLocation) +  + "/harbour-yast-client";
+    return QStandardPaths::writableLocation(QStandardPaths::TempLocation) +  + "/harbour-yast-x";
 }

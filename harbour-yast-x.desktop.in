@@ -1,18 +1,18 @@
 [Desktop Entry]
 Type=Application
 X-Nemo-Application-Type=silica-qt5
-Icon=harbour-yast-client
-Exec=harbour-yast-client
+Icon=harbour-yast-x
+Exec=harbour-yast-x
 Name=YAST
 
 X-DBusActivatable=true
 MimeType=x-url-handler/t.me;x-scheme-handler/tg
-X-Maemo-Service=io.roundedrectangle.yast-client
-X-Maemo-Object-Path=/io/roundedrectangle/yast
+X-Maemo-Service=io.syrniki.yast-x
+X-Maemo-Object-Path=/io/syrniki/yast
 X-Maemo-Method=io.yaqtlib.default.openUrl
 
 [X-Sailjail]
-OrganizationName=io.roundedrectangle
-ApplicationName=yast-client
+OrganizationName=io.syrniki
+ApplicationName=yast-x
 Permissions=@SAILJAIL_EXTRA_PERMISSIONS@Audio;Contacts;Internet;Location;MediaIndexing;Microphone;RemovableMedia;UserDirs
-ExecDBus=harbour-yast-client -prestart
+ExecDBus=harbour-yast-x -prestart

@@ -1,5 +1,5 @@
-# YAST Client
-YAST Client is a yet another SailfishOS Telegram client
+# YAST X
+YAST X is an advanced fork of YAST Client. Please see [original project](https://github.com/roundedrectangle/harbour-yast-client) for more info.
 
 ## Credits
 
@@ -38,7 +38,7 @@ Licensed under GNU GPLv3
 
 This contains information about building YAST for SailfishOS. AsteroidOS version of YAST is no longer supported; a separate client for AsteroidOS based on yaqtlib will soon be developed instead.
 
-Simply clone this repository and ensure to have all [submodules](https://git-scm.com/docs/git-submodule) imported as well (e.g. by using `git submodule update --init --recursive`). Then use the project file `CMakeLists.txt` to import the sources in your SailfishOS IDE. To build and run YAST Client, you need to obtain your own Telegram API ID and hash on [https://my.telegram.org](https://my.telegram.org). After that, create the file `harbour-yast-client/src/tdlibsecrets.h` and enter the required constants in the following format:
+Simply clone this repository and ensure to have all [submodules](https://git-scm.com/docs/git-submodule) imported as well (e.g. by using `git submodule update --init --recursive`). Then use the project file `CMakeLists.txt` to import the sources in your SailfishOS IDE. To build and run YAST Client, you need to obtain your own Telegram API ID and hash on [https://my.telegram.org](https://my.telegram.org). After that, create the file `harbour-yast-x/src/tdlibsecrets.h` and enter the required constants in the following format:
 
 ```
 #pragma once
@@ -61,13 +61,13 @@ Please read the "Local build" section anyway to understand what's going on befor
 
 By default, only commits on the main branch will be built. You may [change that for your fork](https://docs.github.com/en/actions/quickstart).
 
-Nightly releases are available [here](https://github.com/yast-client/harbour-yast-client/releases/nightly). If a pushed tag starts with 'v', a release for it will be automatically created.
+Nightly releases are available [here](https://github.com/yast-client/harbour-yast-x/releases/nightly). If a pushed tag starts with 'v', a release for it will be automatically created.
 
 
 ## Debug
 YAST does only output a few TDLib messages by default. To get its own debug log messages, you can either run a debug build to see all of them or use the environment variable `QT_LOGGING_RULES` to specify/filter which messages you'd like to see.
 
-Run `QT_LOGGING_RULES="yaqtlib.*=true;yast-client.*=true" harbour-yast-client` to see all messages or replace the `*` with specific logging categories. You'll find the logging category inside the corresponding `.cpp` file for backend usage or you can use `JS` to only see frontend messages.
+Run `QT_LOGGING_RULES="yaqtlib.*=true;yast-client.*=true" harbour-yast-x` to see all messages or replace the `*` with specific logging categories. You'll find the logging category inside the corresponding `.cpp` file for backend usage or you can use `JS` to only see frontend messages.
 
 You can append ` &> yast.log` to the command to create a text file containing the debug messages.
 
@@ -75,11 +75,11 @@ You can append ` &> yast.log` to the command to create a text file containing th
 
 ### GDB
 
-To debug complex issues you can use GDB. First, ensure that you installed not only the app, but also its debugsource and debuginfo packages. Then launch it with `gdb /usr/bin/harbour-yast-client`, optionally prepending the command with `QT_LOGGING_RULES="yaqtlib.*=true;yast-client.*=true"` if you want to read the logs.
+To debug complex issues you can use GDB. First, ensure that you installed not only the app, but also its debugsource and debuginfo packages. Then launch it with `gdb /usr/bin/harbour-yast-x`, optionally prepending the command with `QT_LOGGING_RULES="yaqtlib.*=true;yast-client.*=true"` if you want to read the logs.
 
 Inside GDB, you will have to enter `handle SIGILL nostop noprint` command to ignore some false errors coming from OpenSSL. Otherwise app will fail
 
-You can then proceed with adding required breakpoints via `b ../harbour-yast-client/src/file_name.cpp:line_number` (`break`). A breakpoint can also be removed with `clear ../harbour-yast-client/src/file_name.cpp:line_number`.
+You can then proceed with adding required breakpoints via `b ../harbour-yast-x/src/file_name.cpp:line_number` (`break`). A breakpoint can also be removed with `clear ../harbour-yast-x/src/file_name.cpp:line_number`.
 
 After that you can run the program with `run`. It will pause at your specified breakpoints. In those cases you can use `step` to jump to the next part of the code, `next` to jump to next code line directly (without diving into functions) or `continue` to run the program normally (for example, if you only need to debug the second time the program reaches a specific code block). If the program crashes, it will also be possible to read the stack trace using `bt` (`backtrace`).
 
@@ -91,6 +91,6 @@ You can contribute to YAST in many ways. If you found a bug, or want to suggest 
 
 If you know how to code and want to fix a bug, add a new feature or something else, you can submit pull requests to YAST, (and, if needed, YAST's core library, [yaqtlib](https://github.com/yast-client/yaqtlib)), which is very welcome.
 
-Another way to contribute is to translate the app to your language. You can do so by downloading the `.ts` file for your language, editing it manually or using Qt Linguist, after which forking YAST, changing the file's contents in your fork and finally submitting a pull request with the changes. If you are starting a new translation, simply take an existing translation file as a reference, rename it to `harbour-yast-client-<language code>.ts`, change the language code in the file, translate it as usual and submit a PR with the translation file added.
+Another way to contribute is to translate the app to your language. You can do so by downloading the `.ts` file for your language, editing it manually or using Qt Linguist, after which forking YAST, changing the file's contents in your fork and finally submitting a pull request with the changes. If you are starting a new translation, simply take an existing translation file as a reference, rename it to `harbour-yast-x-<language code>.ts`, change the language code in the file, translate it as usual and submit a PR with the translation file added.
 
 **YAST Client currently has a strict AI (LLM) policy.** You can use AI for researching, learning, troubleshooting, debugging and similar purposes freely. However, if your PR heavily contains AI-generated code blocks, it may get closed, as such code is often prone to errors and bad styling. If you have any AI-genetated content in your PR, you have to disclose so. It is also strictly prohibited to include any AI-generated text blocks in Markdown files. Translating the app using AI is not allowed as well. *These rules are subject to change.*

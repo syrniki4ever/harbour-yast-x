@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="zh_CN">
+<TS version="2.1" language="hu_HU">
 <context>
     <name>AboutPage</name>
     <message>
         <source>About YAST</source>
-        <translation type="unfinished">关于 YAST</translation>
+        <translation type="unfinished">A YAST névjegye</translation>
     </message>
     <message>
         <source>A Telegram client for Sailfish OS</source>
@@ -13,15 +13,15 @@
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fordítások</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Olasz</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Orosz</translation>
     </message>
     <message>
         <source>Fernschreiber translations</source>
@@ -29,35 +29,35 @@
     </message>
     <message>
         <source>Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">kínai</translation>
     </message>
     <message>
         <source>Finnish</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Finn</translation>
     </message>
     <message>
         <source>French</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Francia</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Magyar</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lengyel</translation>
     </message>
     <message>
         <source>Slovak</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Szlovák</translation>
     </message>
     <message>
         <source>Spanish</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spanyol</translation>
     </message>
     <message>
         <source>Swedish</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Svéd</translation>
     </message>
     <message>
         <source>This application is a fork of Fernschreiber, and wouldn&apos;t be possible without it. Thanks to everyone who developed and contributed to it!</source>
@@ -105,7 +105,7 @@
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hírek</translation>
     </message>
     <message>
         <source>Ask a Question</source>
@@ -161,7 +161,7 @@
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">cseh</translation>
     </message>
 </context>
 <context>
@@ -180,7 +180,7 @@
     </message>
     <message>
         <source>Use the international format, e.g. %1</source>
-        <translation type="unfinished">请使用国际区号格式，例如 %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Phone number</source>
@@ -278,7 +278,7 @@
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">用户名</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Password</source>
@@ -390,7 +390,7 @@
     <message>
         <source>Connected</source>
         <comment>Call status</comment>
-        <translation type="unfinished">已连接</translation>
+        <translation type="unfinished">Csatlakozva</translation>
     </message>
 </context>
 <context>
@@ -481,7 +481,7 @@
     <name>ChatBotSponsoredMessageItem</name>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">未知</translation>
+        <translation type="unfinished">Ismeretlen</translation>
     </message>
 </context>
 <context>
@@ -508,47 +508,47 @@
     <name>ChatInformationPageContent</name>
     <message>
         <source>Leave Chat</source>
-        <translation>离开对话</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Join Chat</source>
-        <translation>加入对话</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>未知</translation>
+        <translation type="unfinished">Ismeretlen</translation>
     </message>
     <message>
         <source>Chat Title</source>
         <comment>group title header</comment>
-        <translation>对话标题</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>There is no information text available, yet.</source>
-        <translation>暂无信息</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Info</source>
         <comment>group or user infotext header</comment>
-        <translation>信息</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Phone Number</source>
         <comment>user phone number header</comment>
-        <translation>电话号码</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invite Link</source>
         <comment>header</comment>
-        <translation>邀请链接</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The Invite Link has been copied to the clipboard.</source>
-        <translation>邀请链接已复制到剪切板</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New Secret Chat</source>
-        <translation>新加密对话</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ID has been copied to the clipboard.</source>
@@ -561,7 +561,7 @@
     <message>
         <source>Username</source>
         <comment>header</comment>
-        <translation type="unfinished">用户名</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View discussion</source>
@@ -672,12 +672,12 @@
     <message>
         <source>New Members</source>
         <comment>what can new group members do</comment>
-        <translation type="unfinished">新成员</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New members can see older messages</source>
         <comment>member permission</comment>
-        <translation type="unfinished">新成员可以看见旧消息</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Topics</source>
@@ -700,7 +700,7 @@
     <message>
         <source>Off</source>
         <comment>topics</comment>
-        <translation type="unfinished">关闭</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>List</source>
@@ -757,17 +757,17 @@
     <message>
         <source>Groups</source>
         <comment>Button: groups in common (short)</comment>
-        <translation>群组</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Members</source>
         <comment>Button: Group Members</comment>
-        <translation>成员</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Settings</source>
         <comment>Button: Chat Settings</comment>
-        <translation>设置</translation>
+        <translation type="unfinished">Beállítások</translation>
     </message>
     <message>
         <source>Media</source>
@@ -855,31 +855,31 @@
     <name>ChatListViewItem</name>
     <message>
         <source>User Info</source>
-        <translation>用户信息</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Group Info</source>
-        <translation>群组信息</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mark all messages as read</source>
-        <translation>标记全部消息为已读</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mark chat as unread</source>
-        <translation>标记此对话为未读</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mark chat as read</source>
-        <translation>标记为已读</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unpin chat</source>
-        <translation>取消置顶对话</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pin chat</source>
-        <translation>置顶对话</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Archive</source>
@@ -898,13 +898,13 @@
     <name>ChatPage</name>
     <message>
         <source>Unknown</source>
-        <translation>未知</translation>
+        <translation>Ismeretlen</translation>
     </message>
     <message numerus="yes">
         <source>Forward %Ln messages</source>
         <comment>dialog header</comment>
-        <translation>
-            <numerusform>转发 %Ln 则消息</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -1052,7 +1052,7 @@
     <name>ChatSelectionPage</name>
     <message>
         <source>Select Chat</source>
-        <translation>选择对话</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hide Sender Name</source>
@@ -1152,23 +1152,22 @@ Please take a look at the %1Telegram FAQ%2: it has answers to most questions and
     <name>CoverPage</name>
     <message>
         <source>in</source>
-        <translation>位于</translation>
+        <translation>ban</translation>
     </message>
     <message>
         <source>Connected</source>
-        <translation>已连接</translation>
+        <translation>Csatlakozva</translation>
     </message>
     <message numerus="yes">
         <source>chats</source>
-        <translation>
-            <numerusform>对话</numerusform>
+        <translation type="unfinished">
+            <numerusform>csevegések</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>unread messages</source>
-        <translation>
-            <numerusform>未读
-消息</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -1347,15 +1346,15 @@ Please take a look at the %1Telegram FAQ%2: it has answers to most questions and
     <name>EditSuperGroupSlowModeColumn</name>
     <message>
         <source>Slow Mode</source>
-        <translation>慢速模式</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Off</source>
-        <translation>关闭</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set how long every chat member has to wait between Messages</source>
-        <translation>设置对话成员在发送两次消息之间需要等候的时间</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1382,7 +1381,7 @@ Please take a look at the %1Telegram FAQ%2: it has answers to most questions and
         <source>Forward %Ln messages</source>
         <comment>dialog header</comment>
         <translation type="unfinished">
-            <numerusform>转发 %Ln 则消息</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -1390,22 +1389,22 @@ Please take a look at the %1Telegram FAQ%2: it has answers to most questions and
     <name>InReplyToRow</name>
     <message>
         <source>You</source>
-        <translation>你</translation>
+        <translation>Te</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>未知</translation>
+        <translation type="unfinished">Ismeretlen</translation>
     </message>
     <message>
         <source>This message was deleted</source>
-        <translation>已删除此消息</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>InitializationDialog</name>
     <message>
         <source>About YAST</source>
-        <translation type="unfinished">关于 YAST</translation>
+        <translation type="unfinished">A YAST névjegye</translation>
     </message>
     <message>
         <source>Proxy settings</source>
@@ -1457,7 +1456,7 @@ Please take a look at the %1Telegram FAQ%2: it has answers to most questions and
     </message>
     <message>
         <source>Use the international format, e.g. %1</source>
-        <translation type="unfinished">请使用国际区号格式，例如 %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>Last %Ln digits</source>
@@ -1569,7 +1568,7 @@ Pull down to visit telegram.org</source>
     <name>LicenseListPart</name>
     <message>
         <source>License text</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencszöveg</translation>
     </message>
 </context>
 <context>
@@ -1595,11 +1594,11 @@ Pull down to visit telegram.org</source>
     <name>MessageContextMenu</name>
     <message>
         <source>Message unpinned</source>
-        <translation type="unfinished">已取消置顶消息</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Message deleted</source>
-        <translation type="unfinished">已删除消息</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Message deleted only for yourself</source>
@@ -1616,7 +1615,7 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Forward Message</source>
-        <translation type="unfinished">转发消息</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reply</source>
@@ -1625,7 +1624,7 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Reply to Message</source>
-        <translation type="unfinished">回复此消息</translation>
+        <translation type="unfinished">Válasz az üzenetre</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -1634,7 +1633,7 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Delete Message</source>
-        <translation type="unfinished">删除消息</translation>
+        <translation type="unfinished">Üzenet törlése</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -1643,7 +1642,7 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Edit Message</source>
-        <translation type="unfinished">编辑消息</translation>
+        <translation type="unfinished">Üzenet szerkesztése</translation>
     </message>
     <message>
         <source>Read %1</source>
@@ -1695,27 +1694,27 @@ Pull down to visit telegram.org</source>
     <name>MessageListViewItem</name>
     <message>
         <source>Forwarded Message</source>
-        <translation>转发消息</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select Message</source>
-        <translation>选择消息</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Options...</source>
-        <translation>更多选项…</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy Message to Clipboard</source>
-        <translation>复制消息到剪切板</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unpin Message</source>
-        <translation type="unfinished">取消置顶</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pin Message</source>
-        <translation type="unfinished">置顶消息</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recommended Message</source>
@@ -1727,7 +1726,7 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>edited</source>
-        <translation type="unfinished">已编辑</translation>
+        <translation type="unfinished">Szerkesztett</translation>
     </message>
     <message>
         <source>for %1</source>
@@ -1745,14 +1744,14 @@ Pull down to visit telegram.org</source>
     <message numerus="yes">
         <source>scored %Ln points in %2</source>
         <comment>myself</comment>
-        <translation>
-            <numerusform>已在 %2 取得 %Ln 分</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>scored %Ln points in %2</source>
-        <translation>
-            <numerusform>已在 %2 取得 %Ln 分</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -1761,15 +1760,15 @@ Pull down to visit telegram.org</source>
     <message numerus="yes">
         <source>%Ln%</source>
         <comment>% of votes for option</comment>
-        <translation>
-            <numerusform>%Ln%</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%Ln vote(s) total</source>
         <comment>number of total votes</comment>
-        <translation>
-            <numerusform>总计 %Ln 次投票</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -1786,19 +1785,19 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Anonymous Quiz</source>
-        <translation type="unfinished">匿名 Quiz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Quiz</source>
-        <translation type="unfinished">Quiz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Anonymous Poll</source>
-        <translation type="unfinished">匿名投票</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Poll</source>
-        <translation type="unfinished">投票</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Vote</source>
@@ -1829,7 +1828,7 @@ Pull down to visit telegram.org</source>
     <message>
         <source>via %1</source>
         <comment>message posted via bot user</comment>
-        <translation>通过机器用户 %1</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1843,14 +1842,14 @@ Pull down to visit telegram.org</source>
     <name>MessageVoiceNote</name>
     <message>
         <source>Voice Note</source>
-        <translation>语音消息</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>MessageableListItem</name>
     <message>
         <source>Draft</source>
-        <translation type="unfinished">草稿</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No message in this chat</source>
@@ -1858,24 +1857,24 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">未知</translation>
+        <translation type="unfinished">Ismeretlen</translation>
     </message>
     <message>
         <source>You</source>
-        <translation type="unfinished">你</translation>
+        <translation type="unfinished">Te</translation>
     </message>
 </context>
 <context>
     <name>MessagesView</name>
     <message>
         <source>Select Messages</source>
-        <translation type="unfinished">选择消息</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%Ln messages selected</source>
         <comment>number of messages selected</comment>
         <translation type="unfinished">
-            <numerusform>已选择 %Ln 则消息</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -1886,13 +1885,13 @@ Pull down to visit telegram.org</source>
     <message numerus="yes">
         <source>%Ln messages have been copied</source>
         <translation type="unfinished">
-            <numerusform>已复制 %Ln 则消息</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%Ln Messages deleted</source>
         <translation type="unfinished">
-            <numerusform>已删除 %Ln 则消息</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -1916,23 +1915,23 @@ Pull down to visit telegram.org</source>
     <name>NewChatPage</name>
     <message>
         <source>Your Contacts</source>
-        <translation>你的联系人</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Private Chat</source>
-        <translation>个人对话</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Secret Chat</source>
-        <translation>加密对话</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>End-to-end-encrypted, accessible on this device only</source>
-        <translation>端对端加密，仅能通过此设备访问。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Transport-encrypted, uses Telegram Cloud, sharable across devices</source>
-        <translation>传输加密，使用 Telegram 云，可以在设备之间共享</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add contact</source>
@@ -2016,19 +2015,19 @@ Pull down to visit telegram.org</source>
     <name>NewMessageColumn</name>
     <message>
         <source>Unknown address</source>
-        <translation type="unfinished">未知位置</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Location (%1/%2)</source>
-        <translation type="unfinished">位置 (%1/%2)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Accuracy: %1m</source>
-        <translation type="unfinished">精度: %1m</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit Message</source>
-        <translation type="unfinished">编辑消息</translation>
+        <translation type="unfinished">Üzenet szerkesztése</translation>
     </message>
     <message>
         <source>Silent Broadcast</source>
@@ -2082,7 +2081,7 @@ Pull down to visit telegram.org</source>
     <message>
         <source>in %1</source>
         <comment>After dialog header… New Poll in [group name]</comment>
-        <translation type="unfinished">位于 %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Question</source>
@@ -2090,7 +2089,7 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Enter your question here</source>
-        <translation type="unfinished">在此输入你的问题</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You have to enter a question</source>
@@ -2121,15 +2120,15 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Add an answer</source>
-        <translation type="unfinished">添加回答</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">设置</translation>
+        <translation type="unfinished">Beállítások</translation>
     </message>
     <message>
         <source>Anonymous answers</source>
-        <translation type="unfinished">匿名回答</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Multiple answers</source>
@@ -2157,7 +2156,7 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Quiz Mode</source>
-        <translation type="unfinished">Quiz 模式</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mark one or more options as the correct answer</source>
@@ -2165,11 +2164,11 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Shown when the user selects a wrong answer.</source>
-        <translation type="unfinished">当用户选择错误答案时显示。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enter an optional explanation</source>
-        <translation type="unfinished">输入选项提示</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Limit duration</source>
@@ -2361,137 +2360,137 @@ Pull down to visit telegram.org</source>
     <name>Opal.About</name>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Névjegy</translation>
     </message>
     <message>
         <source>Version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 verzió</translation>
     </message>
     <message>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejlesztés</translation>
     </message>
     <message>
         <source>show contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>közreműködők megjelenítése</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Honlap</translation>
     </message>
     <message>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Változásnapló</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Fordítások</translation>
     </message>
     <message>
         <source>Source Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Forráskód</translation>
     </message>
     <message>
         <source>Donations</source>
-        <translation type="unfinished"></translation>
+        <translation>Adományok</translation>
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenc</translation>
     </message>
     <message numerus="yes">
         <source>show license(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Licenc megjelenítése</numerusform>
         </translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Hírek</translation>
     </message>
     <message>
         <source>Changes since version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>A %1 verzió óta bekövetkezett változások</translation>
     </message>
     <message>
         <source>show details</source>
-        <translation type="unfinished"></translation>
+        <translation>részletek megjelenítése</translation>
     </message>
     <message>
         <source>Thank you!</source>
-        <translation type="unfinished"></translation>
+        <translation>Köszönöm!</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Részletek</translation>
     </message>
     <message>
         <source>Contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>Közreműködők</translation>
     </message>
     <message>
         <source>Acknowledgements</source>
-        <translation type="unfinished"></translation>
+        <translation>Köszönetnyilvánítás</translation>
     </message>
     <message>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Külső hivatkozás</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Megnyitás böngészőben</translation>
     </message>
     <message>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>A vágólapra másolva: %1</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Másolás a vágólapra</translation>
     </message>
     <message>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Lásd itt &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Download license texts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message numerus="yes">
-        <source>License(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>Note: please check the source code for most accurate information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencszövegek letöltése</translation>
     </message>
     <message>
         <source>You are using a mobile data connection.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>License(s)</source>
+        <translation>
+            <numerusform>Licenc</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Note: please check the source code for most accurate information.</source>
+        <translation>Megjegyzés: Kérlek ellenőrizd a forráskódot a legpontosabb információért.</translation>
     </message>
 </context>
 <context>
     <name>Opal.About.Common</name>
     <message>
         <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha támogatni szeretnéd a munkámat, vehetsz nekem egy csésze kávét.</translation>
     </message>
     <message>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Támogathatod ezt a projektet közreműködéssel, vagy ezen szolgáltatásokon keresztüli adományozással.</translation>
     </message>
     <message>
         <source>Your contributions to translations or code would be most welcome.</source>
-        <translation type="unfinished"></translation>
+        <translation>A hozzájárulásod a fordításokhoz, vagy a kódhoz nagy segítség lenne.</translation>
     </message>
 </context>
 <context>
     <name>Opal.LinkHandler</name>
     <message>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>A vágólapra másolva: %1</translation>
     </message>
     <message>
         <source>Share link</source>
@@ -2503,15 +2502,15 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>External link</source>
-        <translation type="unfinished"></translation>
+        <translation>Külső hivatkozás</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Megnyitás böngészőben</translation>
     </message>
     <message>
         <source>Open externally</source>
-        <translation type="unfinished"></translation>
+        <translation>Megnyitás külső alkalmazással</translation>
     </message>
     <message>
         <source>Share</source>
@@ -2538,20 +2537,20 @@ Pull down to visit telegram.org</source>
     <name>OverviewPage</name>
     <message>
         <source>Settings</source>
-        <translation>设置</translation>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <source>New Chat</source>
-        <translation>新对话</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Logging out</source>
-        <translation>正在登出</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Download of %1 successful.</source>
         <comment>in-app notification text</comment>
-        <translation type="unfinished">已成功下载 %1 。</translation>
+        <translation type="unfinished">A %1 letöltése sikerült.</translation>
     </message>
     <message>
         <source>Open</source>
@@ -2647,7 +2646,7 @@ Pull down to visit telegram.org</source>
     <name>PinnedMessageItem</name>
     <message>
         <source>Message unpinned</source>
-        <translation>已取消置顶消息</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%Ln pinned messages</source>
@@ -2694,43 +2693,43 @@ Pull down to visit telegram.org</source>
     <name>PollResultsPage</name>
     <message>
         <source>Quiz Results</source>
-        <translation>Quiz 结果</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Poll Results</source>
-        <translation>投票结果</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%Ln vote(s) total</source>
         <comment>number of total votes</comment>
-        <translation>
-            <numerusform>总计 %Ln 次投票</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Results</source>
         <comment>section header</comment>
-        <translation>结果</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%Ln vote(s)</source>
         <comment>number of votes for option</comment>
-        <translation>
-            <numerusform>%Ln 次投票</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%Ln%</source>
         <comment>% of votes for option</comment>
-        <translation>
-            <numerusform>%Ln%</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%Ln vote(s) including yours</source>
         <comment>number of votes for option</comment>
-        <translation>
-            <numerusform>%Ln 次投票，包括你</numerusform>
+        <translation type="unfinished">
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -2809,7 +2808,7 @@ Pull down to visit telegram.org</source>
     <message>
         <source>%1, %2</source>
         <comment>Combines the &quot;Added %Ln proxies&quot; and &quot;%Ln failed&quot; strings</comment>
-        <translation type="unfinished">%1, %2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>Added %Ln proxies</source>
@@ -2965,7 +2964,7 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Enable online-only mode</source>
-        <translation type="unfinished">开启仅在线模式</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disables offline caching. Certain features may be limited or missing in this mode. Changes require a restart of the app to take effect.</source>
@@ -2986,7 +2985,7 @@ Pull down to visit telegram.org</source>
     <message>
         <source>None</source>
         <comment>Empty log stream (logging disabled)</comment>
-        <translation type="unfinished">无</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>
@@ -2997,27 +2996,27 @@ Pull down to visit telegram.org</source>
     <name>SettingsAppearance</name>
     <message>
         <source>Appearance</source>
-        <translation>外观</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show stickers as emojis</source>
-        <translation>显示表情贴图为 emoji</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Only display emojis instead of the actual stickers</source>
-        <translation>仅显示 emoji 而非实际的表情贴图</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show stickers as images</source>
-        <translation>以图片形式显示表情贴图</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show background for stickers and align them centrally like images</source>
-        <translation>显示表情贴图背景并以图片形式自动居中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Animate stickers</source>
-        <translation>动态表情贴图</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Video stickers</source>
@@ -3103,35 +3102,35 @@ Pull down to visit telegram.org</source>
     <name>SettingsBehavior</name>
     <message>
         <source>Behavior</source>
-        <translation>状态</translation>
+        <translation>Működés</translation>
     </message>
     <message>
         <source>Send message by enter</source>
-        <translation>通过按下回车键发送消息</translation>
+        <translation>Üzenet küldése Enter-rel</translation>
     </message>
     <message>
         <source>Send your message by pressing the enter key</source>
-        <translation>通过按下回车键发送消息</translation>
+        <translation>Üzenet küldése az enter gomb lenyomásával</translation>
     </message>
     <message>
         <source>Focus text input on chat open</source>
-        <translation>开启对话时聚焦文本输入区域</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Focus the text input area when entering a chat</source>
-        <translation>进入对话时聚焦文本输入区域</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Focus text input area after send</source>
-        <translation>发送后聚焦文本输入区域</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Focus the text input area after sending a message</source>
-        <translation>发送消息后聚焦文本输入区域</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delay before marking messages as read</source>
-        <translation>标记消息已读前延迟</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Highlight unread messages</source>
@@ -3166,23 +3165,23 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Notification feedback</source>
-        <translation type="unfinished">通知反馈</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use non-graphical feedback (sound, vibration) for notifications</source>
-        <translation type="unfinished">使用非图像反馈方式通知消息（例如声音及振动）</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All events</source>
-        <translation type="unfinished">全部事件</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Only new events</source>
-        <translation type="unfinished">仅新事件</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">无</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Events</source>
@@ -3194,7 +3193,7 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Notification turns on the display</source>
-        <translation type="unfinished">收到通知时点亮屏幕</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hide content in notifications</source>
@@ -3250,7 +3249,7 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Groups</source>
-        <translation type="unfinished">群组</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Channels</source>
@@ -3277,11 +3276,11 @@ Pull down to visit telegram.org</source>
     <name>SettingsPage</name>
     <message>
         <source>Settings</source>
-        <translation>设置</translation>
+        <translation>Beállítások</translation>
     </message>
     <message>
         <source>About YAST</source>
-        <translation>关于 YAST</translation>
+        <translation>A YAST névjegye</translation>
     </message>
     <message>
         <source>Is %1 still your number?</source>
@@ -3334,67 +3333,67 @@ Pull down to visit telegram.org</source>
     <name>SettingsPrivacy</name>
     <message>
         <source>Privacy</source>
-        <translation>隐私</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Allow chat invites</source>
-        <translation>允许对话邀请</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Privacy setting for managing whether you can be invited to chats.</source>
-        <translation>隐私设置，用于管理是否你可以被邀请到对话。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation>是</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Your contacts only</source>
-        <translation>仅限联系人</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No</source>
-        <translation>否</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Allow finding by phone number</source>
-        <translation>允许通过电话号码找到</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Privacy setting for managing whether you can be found by your phone number.</source>
-        <translation>隐私设置，用于管理是否你可以被通过电话号码找到。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show link in forwarded messages</source>
-        <translation>在转发消息中显示链接</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Privacy setting for managing whether a link to your account is included in forwarded messages.</source>
-        <translation>隐私设置，用于管理是否在转发消息中包含你的账户链接。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show phone number</source>
-        <translation>显示电话号码</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Privacy setting for managing whether your phone number is visible.</source>
-        <translation>隐私设置，用于管理你的电话号码是否可见。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show profile photo</source>
-        <translation>显示简介图片</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Privacy setting for managing whether your profile photo is visible.</source>
-        <translation>隐私设置，用于管理是否你的简介图片可见。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show status</source>
-        <translation>显示状态</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Privacy setting for managing whether your online status is visible.</source>
-        <translation>隐私设置，用于管理是否你的在线状态可见。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bots and websites</source>
@@ -3421,23 +3420,23 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Session was terminated</source>
-        <translation>已删除设备</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Terminating session</source>
-        <translation>删除设备</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Terminate Session</source>
-        <translation>删除设备</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This app</source>
-        <translation>此应用</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Active since: %1, last online: %2</source>
-        <translation>活跃时间: %1, 上次在线: %2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%1 day(s)</source>
@@ -3478,7 +3477,7 @@ Pull down to visit telegram.org</source>
     <name>SettingsStorage</name>
     <message>
         <source>Enable storage optimizer</source>
-        <translation>开启储存加速器</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Optimize storage</source>
@@ -3523,50 +3522,50 @@ Pull down to visit telegram.org</source>
     <name>SettingsUserProfile</name>
     <message>
         <source>User Profile</source>
-        <translation>用户简介</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>First Name</source>
         <comment>first name of the logged-in profile - header</comment>
-        <translation>名字</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enter 1-64 characters</source>
-        <translation>输入 1-64 个字符</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Last Name</source>
         <comment>last name of the logged-in profile - header</comment>
-        <translation>姓氏</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enter 0-64 characters</source>
-        <translation>输入 0-64 个字符</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Username</source>
         <comment>user name of the logged-in profile - header</comment>
-        <translation>用户名</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Profile Pictures</source>
-        <translation>简介图片</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add Picture</source>
-        <translation>添加图片</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Log Out</source>
-        <translation>登出</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Logged out</source>
-        <translation>已登出</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Phone number: +%1</source>
-        <translation>电话号码: +%1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Birthday</source>
@@ -3590,12 +3589,12 @@ Pull down to visit telegram.org</source>
     <name>StickerPicker</name>
     <message>
         <source>Removing sticker set</source>
-        <translation>正在移除表情包</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recently used</source>
         <comment>stickers</comment>
-        <translation type="unfinished">最近使用</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Favorite</source>
@@ -3618,29 +3617,29 @@ Pull down to visit telegram.org</source>
     <name>TDLibChatListItem</name>
     <message>
         <source>Secret Chat</source>
-        <translation type="unfinished">加密对话</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Private Chat</source>
-        <translation type="unfinished">个人对话</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished">群组</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished">频道</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%1 members</source>
         <translation type="unfinished">
-            <numerusform>%1 位成员</numerusform>
+            <numerusform>%1 tag</numerusform>
         </translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">未知</translation>
+        <translation type="unfinished">Ismeretlen</translation>
     </message>
     <message>
         <source>Saved Messages</source>
@@ -3652,26 +3651,26 @@ Pull down to visit telegram.org</source>
     <message>
         <source>Unknown</source>
         <comment>An unknown chat or user</comment>
-        <translation type="unfinished">未知</translation>
+        <translation type="unfinished">Ismeretlen</translation>
     </message>
 </context>
 <context>
     <name>TDLibWrapper</name>
     <message>
         <source>Waiting for network…</source>
-        <translation>等候网络连接…</translation>
+        <translation>Hálózatra várakozás…</translation>
     </message>
     <message>
         <source>Connecting to network…</source>
-        <translation>正在连接到网络…</translation>
+        <translation>Csatlakozás a hálózathoz…</translation>
     </message>
     <message>
         <source>Connecting to proxy…</source>
-        <translation>正在连接到代理…</translation>
+        <translation>Csatlakozás a proxy-hoz…</translation>
     </message>
     <message>
         <source>Updating content…</source>
-        <translation>正在更新内容…</translation>
+        <translation>Tartalom frissítése…</translation>
     </message>
 </context>
 <context>
@@ -3793,150 +3792,26 @@ Pull down to visit telegram.org</source>
     <name>Utilities</name>
     <message>
         <source>Video: %1</source>
-        <translation type="unfinished">视频: %1</translation>
-    </message>
-    <message>
-        <source>has added %1 to the chat</source>
-        <translation type="unfinished">已加入 %1 到此对话</translation>
+        <translation type="unfinished">Videó %1</translation>
     </message>
     <message>
         <source>left this chat</source>
         <comment>myself</comment>
-        <translation type="unfinished">离开此对话</translation>
+        <translation type="unfinished">kilépett a csevegésből</translation>
     </message>
     <message>
         <source>left this chat</source>
-        <translation type="unfinished">离开此对话</translation>
-    </message>
-    <message>
-        <source>have removed %1 from the chat</source>
-        <comment>myself</comment>
-        <translation type="unfinished">已从此对话移除 %1</translation>
-    </message>
-    <message>
-        <source>has removed %1 from the chat</source>
-        <translation type="unfinished">已从此对话移除 %1</translation>
-    </message>
-    <message>
-        <source>changed the chat title to %1</source>
-        <comment>myself</comment>
-        <translation type="unfinished">已修改对话头衔为 %1</translation>
-    </message>
-    <message>
-        <source>changed the chat title to %1</source>
-        <translation type="unfinished">已修改对话头衔为 %1</translation>
-    </message>
-    <message>
-        <source>Anonymous Quiz</source>
-        <translation type="unfinished">匿名 Quiz</translation>
-    </message>
-    <message>
-        <source>Quiz</source>
-        <translation type="unfinished">Quiz</translation>
-    </message>
-    <message>
-        <source>Anonymous Poll</source>
-        <translation type="unfinished">匿名投票</translation>
-    </message>
-    <message>
-        <source>Poll</source>
-        <translation type="unfinished">投票</translation>
-    </message>
-    <message>
-        <source>created this group</source>
-        <comment>myself</comment>
-        <translation type="unfinished">已创建此群组</translation>
-    </message>
-    <message>
-        <source>created this group</source>
-        <translation type="unfinished">已创建此群组</translation>
-    </message>
-    <message>
-        <source>changed the chat photo</source>
-        <comment>myself</comment>
-        <translation type="unfinished">修改此对话图片</translation>
-    </message>
-    <message>
-        <source>changed the chat photo</source>
-        <translation type="unfinished">修改此对话图片</translation>
-    </message>
-    <message>
-        <source>deleted the chat photo</source>
-        <comment>myself</comment>
-        <translation type="unfinished">已删除此对话图片</translation>
-    </message>
-    <message>
-        <source>deleted the chat photo</source>
-        <translation type="unfinished">已删除此对话图片</translation>
-    </message>
-    <message>
-        <source>upgraded this group to a supergroup</source>
-        <comment>myself</comment>
-        <translation type="unfinished">已更新此群组为超级群组</translation>
-    </message>
-    <message>
-        <source>upgraded this group to a supergroup</source>
-        <translation type="unfinished">已更新此群组为超级群组</translation>
-    </message>
-    <message>
-        <source>sent a self-destructing video that is expired</source>
-        <comment>myself</comment>
-        <translation type="unfinished">发送过期即自毁视频</translation>
-    </message>
-    <message>
-        <source>sent a self-destructing video that is expired</source>
-        <translation type="unfinished">发送过期即自毁视频</translation>
-    </message>
-    <message>
-        <source>created a screenshot in this chat</source>
-        <comment>myself</comment>
-        <translation type="unfinished">已截图此对话</translation>
-    </message>
-    <message>
-        <source>created a screenshot in this chat</source>
-        <translation type="unfinished">已截图此对话</translation>
-    </message>
-    <message numerus="yes">
-        <source>scored %Ln points</source>
-        <comment>myself</comment>
-        <translation type="unfinished">
-            <numerusform>已取得 %Ln 分</numerusform>
-        </translation>
-    </message>
-    <message numerus="yes">
-        <source>scored %Ln points</source>
-        <translation type="unfinished">
-            <numerusform>已取得 %Ln 分</numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>sent an unsupported message</source>
-        <comment>myself</comment>
-        <translation type="unfinished">发送不受支持的消息</translation>
-    </message>
-    <message>
-        <source>sent an unsupported message</source>
-        <translation type="unfinished">发送不受支持的消息</translation>
-    </message>
-    <message>
-        <source>sent an unsupported message: %1</source>
-        <comment>myself; %1 is message type</comment>
-        <translation type="unfinished">发送不受支持的消息: %1</translation>
-    </message>
-    <message>
-        <source>sent an unsupported message: %1</source>
-        <comment>%1 is message type</comment>
-        <translation type="unfinished">发送不受支持的消息: %1</translation>
+        <translation type="unfinished">kilépett a csevegésből</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>A user without a known name</comment>
-        <translation type="unfinished">未知</translation>
+        <translation type="unfinished">Ismeretlen</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>A chat without a known name</comment>
-        <translation type="unfinished">未知</translation>
+        <translation type="unfinished">Ismeretlen</translation>
     </message>
     <message>
         <source>Sticker</source>
@@ -4009,7 +3884,15 @@ Pull down to visit telegram.org</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Anonymous Quiz</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Quiz: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quiz</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4017,7 +3900,15 @@ Pull down to visit telegram.org</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Anonymous Poll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Poll: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Poll</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4029,6 +3920,64 @@ Pull down to visit telegram.org</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>has added %1 to the chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>have removed %1 from the chat</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>has removed %1 from the chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>changed the chat title to %1</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>changed the chat title to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>created this group</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>created this group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>changed the chat photo</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>changed the chat photo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted the chat photo</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>deleted the chat photo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>upgraded this group to a supergroup</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>upgraded this group to a supergroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>pinned a message</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
@@ -4044,6 +3993,15 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>sent a self-destructing photo that is expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sent a self-destructing video that is expired</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sent a self-destructing video that is expired</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4063,6 +4021,28 @@ Pull down to visit telegram.org</source>
     <message>
         <source>sent a self-destructing video message that is expired</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>created a screenshot in this chat</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>created a screenshot in this chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <source>scored %Ln points</source>
+        <comment>myself</comment>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>scored %Ln points</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
     </message>
     <message>
         <source>you allowed this bot to message you when you added it to your attachment menu</source>
@@ -4262,6 +4242,25 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>removed &quot;%1&quot; from the poll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sent an unsupported message</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sent an unsupported message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sent an unsupported message: %1</source>
+        <comment>myself; %1 is message type</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sent an unsupported message: %1</source>
+        <comment>%1 is message type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4601,39 +4600,39 @@ Pull down to visit telegram.org</source>
     <name>VoiceNoteOverlay</name>
     <message>
         <source>Record a Voice Note</source>
-        <translation>录制语音消息</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Press the button to start recording</source>
-        <translation>按下按钮即可开始录音</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unavailable</source>
-        <translation>不可用</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Starting</source>
-        <translation>正在启动</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recording</source>
-        <translation>正在录音</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stopping</source>
-        <translation>正在停止</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use recording</source>
-        <translation>使用录音</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Voice Note (%1)</source>
-        <translation>语音消息 (%1)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ready</source>
-        <translation>就绪</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4694,50 +4693,50 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>was never online</source>
-        <translation>完全离线</translation>
+        <translation type="unfinished">soha nem volt online</translation>
     </message>
     <message>
         <source>last online: last month</source>
-        <translation>上次在线时间：上月</translation>
+        <translation type="unfinished">utoljára online: múlt hónapban</translation>
     </message>
     <message>
         <source>last online: last week</source>
-        <translation>上次在线时间：上周</translation>
+        <translation type="unfinished">utoljára online: múlt héten</translation>
     </message>
     <message>
         <source>last online: %1</source>
-        <translation>上次在线时间： %1</translation>
+        <translation type="unfinished">utoljára online: %1</translation>
     </message>
     <message>
         <source>online</source>
-        <translation>在线</translation>
+        <translation type="unfinished">online</translation>
     </message>
     <message>
         <source>was recently online</source>
-        <translation>最近在线</translation>
+        <translation type="unfinished">nemrégen volt online</translation>
     </message>
     <message>
         <source>Admin</source>
         <comment>channel user role</comment>
-        <translation>管理员</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Banned</source>
         <comment>channel user role</comment>
-        <translation>已禁止</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Restricted</source>
         <comment>channel user role</comment>
-        <translation>已受限</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to find user %1</source>
-        <translation>无法找到用户 %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You are already a member of this chat.</source>
-        <translation>你已是此对话成员。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Owner</source>
@@ -4747,24 +4746,24 @@ Pull down to visit telegram.org</source>
     <message>
         <source>%1, %2</source>
         <comment>combination of &apos;[x members], [y online]&apos;, which are separate translations</comment>
-        <translation type="unfinished">%1, %2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>%1 members</source>
         <translation type="unfinished">
-            <numerusform>%1 位成员</numerusform>
+            <numerusform>%1 tag</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%1 online</source>
         <translation type="unfinished">
-            <numerusform>%1 位在线</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%1 subscribers</source>
         <translation type="unfinished">
-            <numerusform>%1 位订阅者</numerusform>
+            <numerusform>%1 feliratkozott</numerusform>
         </translation>
     </message>
     <message>
@@ -4779,16 +4778,16 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished">频道</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished">群组</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unavailable</source>
         <comment>Indicates that the proxy is unavailable</comment>
-        <translation type="unfinished">不可用</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>Available (ping: %Ln ms)</source>
@@ -4818,11 +4817,11 @@ Pull down to visit telegram.org</source>
     <message>
         <source>Pending acknowledgement</source>
         <comment>secret chat</comment>
-        <translation type="unfinished">等待确认</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>harbour-yast-client</name>
+    <name>harbour-yast-x</name>
     <message>
         <source>Link unsupported: %1</source>
         <translation type="unfinished"></translation>

@@ -12,7 +12,7 @@ AboutPageBase {
     allowedOrientations: Orientation.All
 
     _pageHeaderItem.title: qsTr("About YAST")
-    appName: "YAST Client"
+    appName: "YAST X"
     appIcon: Qt.resolvedUrl("../../images/yast-client.svg")
     appVersion: APP_VERSION
     appRelease: APP_RELEASE
@@ -22,11 +22,11 @@ AboutPageBase {
     _iconItem.sourceSize.width: _iconItem.width
     _iconItem.sourceSize.height: _iconItem.height
     description: qsTr("A Telegram client for Sailfish OS")
-    sourcesUrl: "https://github.com/roundedrectangle/harbour-yast-client"
+    sourcesUrl: "https://github.com/syrniki4ever/harbour-yast-x"
     autoAddOpalAttributions: true
     licenses: License { spdxId: 'GPL-3.0-only' }
 
-    authors: ["roundedrectangle"]
+    authors: ["syrniki4ever", "roundedrectangle"]
     contributionSections: [
         /*ContributionSection {
             title: qsTr("Development")
