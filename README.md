@@ -1,5 +1,5 @@
 # YAST X
-YAST X is an advanced fork of YAST Client. Please see [original project](https://github.com/roundedrectangle/harbour-yast-client) for more info.
+YAST X is an advanced fork of YAST Client. Please see [original project](https://github.com/yast-client/harbour-yast-client) for more info.
 
 ## Credits
 
