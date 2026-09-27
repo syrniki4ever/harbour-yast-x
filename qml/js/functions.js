@@ -280,7 +280,7 @@ function toggleChatIsMuted(chatId, notificationSettings) {
 
 function setNotificationsScopeIsMuted(scope, settings, mute) {
     var newSettings = JSON.parse(JSON.stringify(settings))
-    newSettings = mute ? 31622401 : 0
+    newSettings.mute_for = mute ? 31622401 : 0
     tdLibWrapper.setScopeNotificationSettings(scope, newSettings)
 }
 
