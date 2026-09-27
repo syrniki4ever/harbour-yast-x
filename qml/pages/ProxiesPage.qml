@@ -210,7 +210,10 @@ Page {
                 text: qsTr("Connections")
             }
 
-            SearchField { id: searchField }
+            SearchField {
+                id: searchField
+                visible: !isEmpty
+            }
 
             TextSwitch {
                 id: withoutProxySwitch
