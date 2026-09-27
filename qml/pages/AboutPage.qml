@@ -235,7 +235,7 @@ AboutPageBase {
         InfoSection {
             id: localizedResourcesSection
             visible: buttons.length > 0
-            title: qsTr("English-speaking resources", "Change `English` to the name of your language")
+            title: qsTr("Resources in your language", "Translate as (language)-speaking resources, for example English-speaking resources for English")
         }
     ]
 

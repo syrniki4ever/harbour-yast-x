@@ -157,8 +157,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>English-speaking resources</source>
-        <comment>Change `English` to the name of your language</comment>
+        <source>Resources in your language</source>
+        <comment>Translate as (language)-speaking resources, for example English-speaking resources for English</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
