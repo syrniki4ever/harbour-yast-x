@@ -185,10 +185,10 @@ Page {
         onCopyToDownloadsError:
             appNotification.show(qsTr("Download failed", "in-app notification text"))
         onMessageLinkInfoReceived:
-            if (chatId === 0)
+            if (!chatId)
                 appNotification.show(qsTr("Unable to open link", "in-app notification text"))
-            else if (messageId != 0)
-                openChat(chatId, {messageIdToShow: messageId})
+            else if (messageId)
+                openChat(chatId, {topicIdToShow: topicId, messageIdToShow: messageId})
             else
                 openChat(chatId)
         onChatInviteLinkInfoReceived:
