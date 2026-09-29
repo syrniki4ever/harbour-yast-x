@@ -206,7 +206,7 @@ Page {
                 switch (topicIdToShow['@type']) {
                 case 'messageTopicForum':
                     if (topicsListView)
-                        topicsListView.openAtTopicId(topicIdToShow.forum_topic_id)
+                        topicsListView.openAtTopicId(topicIdToShow.forum_topic_id, messageIdToShow)
                     break
                 }
 

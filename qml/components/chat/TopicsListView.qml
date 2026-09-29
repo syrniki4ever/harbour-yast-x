@@ -15,6 +15,7 @@ Item {
     property bool inCooldown
 
     property int forumTopicIdToShow
+    property double messageIdInTopicToShow
 
     property var forwardFromChatId
     property var forwardMessageIds
@@ -22,8 +23,9 @@ Item {
     property bool forwardRemoveCaption
     property var messageContentToSend
 
-    function openAtTopicId(forumTopicId) {
+    function openAtTopicId(forumTopicId, messageId) {
         forumTopicIdToShow = forumTopicId
+        messageIdInTopicToShow = messageId || 0
         tdLibWrapper.getForumTopic(chatId, forumTopicId)
     }
 
@@ -31,7 +33,7 @@ Item {
         target: tdLibWrapper
         onForumTopicReceived:
             if (chatPage.chatId === chatId && forumTopicIdToShow == forumTopicId) {
-                pageStack.push(topicMessagesPageComponent, {chatId: chatId, forumTopicData: topic})
+                pageStack.push(topicMessagesPageComponent, {chatId: chatId, forumTopicData: topic, loadFromMessageId: messageIdInTopicToShow})
                 forumTopicIdToShow = 0
             }
         onForumTopicNotFound:
@@ -115,7 +117,7 @@ Item {
             muted: notification_settings.mute_for > 0 // TODO: use something like in ChatListViewItem
 
             onClicked: {
-                var page = pageStack.push(topicMessagesPageComponent, {chatId: chatId, forumTopicData: display})
+                var page = pageStack.push(topicMessagesPageComponent, {chatId: chatId, forumTopicData: display, loadFromMessageId: 0})
                 if (forwardHeaderLoader.active) {
                     if (messageContentToSend)
                         page.messagesView.sendMessageContent(messageContentToSend)
@@ -145,6 +147,7 @@ Item {
 
                 property alias chatId: topicMessagesModel.chatId
                 property alias forumTopicData: topicMessagesModel.forumTopicData
+                property alias loadFromMessageId: topicMessagesModel.loadFromMessageId
 
                 property alias messagesView: messagesView
 
@@ -189,6 +192,7 @@ Item {
                         ForumTopicMessagesModel {
                             id: topicMessagesModel
                             tdlib: tdLibWrapper
+                            //loadFromMessageId: 0 // don't use this to avoid race conditions (FIXME/TODO?)
                         }
 
                         Component.onCompleted: prepareView()
