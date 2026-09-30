@@ -192,7 +192,7 @@ Item {
                         ForumTopicMessagesModel {
                             id: topicMessagesModel
                             tdlib: tdLibWrapper
-                            //loadFromMessageId: 0 // don't use this to avoid race conditions (FIXME/TODO?)
+                            //loadFromMessageId: 0 // FIXME: why does it throw an error with this?
                         }
 
                         Component.onCompleted: prepareView()
