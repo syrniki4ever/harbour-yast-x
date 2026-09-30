@@ -14,7 +14,7 @@ Item {
     property bool loop: true
 
     property bool asEmoji: appSettings.showStickersAsEmojis
-    property real aspectRatio: stickerData.width / stickerData.height
+    property real aspectRatio: stickerData.height / stickerData.width
     property bool useThumbnail
     property bool stickerVisible
 
