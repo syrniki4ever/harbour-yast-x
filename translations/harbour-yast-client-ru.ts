@@ -3830,29 +3830,6 @@ Pull down to visit telegram.org</source>
         <translation>Голосовое сообщение: %1</translation>
     </message>
     <message>
-        <source>joined this chat</source>
-        <comment>myself</comment>
-        <translation>присоединились к чату</translation>
-    </message>
-    <message>
-        <source>joined this chat</source>
-        <translation>присоединил(ась)ся к чату</translation>
-    </message>
-    <message>
-        <source>were added to this chat</source>
-        <comment>myself</comment>
-        <translation>были добавлены в чат</translation>
-    </message>
-    <message>
-        <source>was added to this chat</source>
-        <translation>была добавлен(а) в чат</translation>
-    </message>
-    <message>
-        <source>have added %1 to the chat</source>
-        <comment>myself</comment>
-        <translation>добавили %1 в чат</translation>
-    </message>
-    <message>
         <source>has added %1 to the chat</source>
         <translation>добавил(а) %1 в чат</translation>
     </message>
@@ -4152,15 +4129,6 @@ Pull down to visit telegram.org</source>
     <message>
         <source>Game</source>
         <translation>Игра</translation>
-    </message>
-    <message>
-        <source>joined Telegram</source>
-        <comment>myself</comment>
-        <translation>теперь в Telegram</translation>
-    </message>
-    <message>
-        <source>joined Telegram</source>
-        <translation>теперь в Telegram</translation>
     </message>
     <message>
         <source>Quiz: %1</source>
@@ -4675,6 +4643,35 @@ Pull down to visit telegram.org</source>
     <message>
         <source>disabled the self-destruct timer</source>
         <translation>отключил(а) удаление по таймеру</translation>
+    </message>
+    <message>
+        <source>You joined Telegram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%{user} joined Telegram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You joined this chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%{user} joined this chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You were added to this chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%{user} was added to this chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have added %1 to the chat</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

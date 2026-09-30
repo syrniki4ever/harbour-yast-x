@@ -261,9 +261,9 @@ Page {
             filters: AnyOf {
                 enabled: !!searchQuery
                 // TODO: handle cases like "mtproto myserver.com"
-                RegExpFilter {
+                ExpressionFilter {
                     roleName: 'proxyServer'
-                    pattern: searchQuery
+                    expression: tdLibWrapper.searchStringByPrefix(proxyServer)
                     caseSensitivity: Qt.CaseInsensitive
                 }
                 RegExpFilter {

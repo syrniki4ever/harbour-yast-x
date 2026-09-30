@@ -3774,29 +3774,6 @@ Pull down to visit telegram.org</source>
         <translation type="unfinished">Video: %1</translation>
     </message>
     <message>
-        <source>joined this chat</source>
-        <comment>myself</comment>
-        <translation type="unfinished">anslöt till denna chat</translation>
-    </message>
-    <message>
-        <source>joined this chat</source>
-        <translation type="unfinished">anslöt till denna chat</translation>
-    </message>
-    <message>
-        <source>were added to this chat</source>
-        <comment>myself</comment>
-        <translation type="unfinished">lades till i denna chatt</translation>
-    </message>
-    <message>
-        <source>was added to this chat</source>
-        <translation type="unfinished">lades till i denna chatt</translation>
-    </message>
-    <message>
-        <source>have added %1 to the chat</source>
-        <comment>myself</comment>
-        <translation type="unfinished">har lagt till %1 i chatten</translation>
-    </message>
-    <message>
         <source>has added %1 to the chat</source>
         <translation type="unfinished">har lagt till %1 i chatten</translation>
     </message>
@@ -4048,15 +4025,6 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Game</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>joined Telegram</source>
-        <comment>myself</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>joined Telegram</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4602,6 +4570,35 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>disabled the self-destruct timer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You joined Telegram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%{user} joined Telegram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You joined this chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%{user} joined this chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You were added to this chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%{user} was added to this chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have added %1 to the chat</source>
+        <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

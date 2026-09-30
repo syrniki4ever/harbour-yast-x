@@ -16,19 +16,24 @@ PhotoTextsListItem {
     property bool showDraft: !!draft_message_text && draft_message_date > last_message_date && !hideDraft
     readonly property string draftText: '<i>'+qsTr("Draft")+'</i>'
     property bool hideAuthor
-    property string previewText: showDraft ? draft_message_text : last_message_text
+    property string lastMessageText: (last_message_is_service ? last_message_text.replace('%{user}', getLastMessageSender()) : last_message_text)
+    property string previewText: showDraft ? draft_message_text : lastMessageText
     property string noMessageText: qsTr("No message in this chat")
     property bool showSendingState: true
     property bool _showSendingState: showSendingState && last_message_is_outgoing && !showDraft
 
+    // don't use a property so it wouldn't re-evaluate when unused (using a function doesn't make it lose a binding)
+    function getLastMessageSender() {
+        if (!last_message_sender_id) return ''
+        if (last_message_sender_id === tdData.myUserId) return qsTr("You")
+        return Emoji.emojify(utilities.getUserName(tdData.getUserInformation(last_message_sender_id)), Theme.fontSizeExtraSmall)
+    }
+
     primaryText.text: titleText ? Emoji.emojify(utilities.fixReservedHtmlCharacters(titleText), Theme.fontSizeMedium) : qsTr("Unknown")
-    prologSecondaryText.text: showDraft ? draftText : hideAuthor ? ''
-                                                                 : last_message_sender_id ?
-                                                                        last_message_sender_id !== tdData.myUserId
-                                                                         ? Emoji.emojify(utilities.getUserName(tdData.getUserInformation(last_message_sender_id)), Theme.fontSizeExtraSmall)
-                                                                         : qsTr("You")
-                                                                     : ''
-    secondaryText.text: previewText ? Emoji.emojify(utilities.fixReservedHtmlCharacters(previewText), Theme.fontSizeExtraSmall) : '<i>' + noMessageText + '</i>'
+    prologSecondaryText.text: showDraft ? draftText : (hideAuthor || last_message_is_service ? '' : getLastMessageSender())
+    secondaryText.text: previewText
+                        ? Emoji.emojify(utilities.fixReservedHtmlCharacters(previewText), Theme.fontSizeExtraSmall)
+                        : ('<i>' + noMessageText + '</i>')
     secondaryText.highlighted: listItem.highlighted || !!chat_actions_text
     minithumbnail: showDraft ? null : last_message_minithumbnail
 
