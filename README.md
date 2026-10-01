@@ -11,6 +11,7 @@ See [here](doc/translating.md) for additional notes on translating YAST.
 
 - Italian by @legacychimera247
 - Russian by @windes14
+- Czech by Michal Kasík (@MiPal666)
 
 ### Fernschreiber
 

@@ -48,8 +48,11 @@ AboutPageBase {
                 ContributionGroup {
                     title: qsTr("Russian")
                     entries: ["roundedrectangle", "windes14"]
+                },
+                ContributionGroup {
+                    title: qsTr("Czech")
+                    entries: "Michal Kasík"
                 }
-
             ]
         },
         ContributionSection {
