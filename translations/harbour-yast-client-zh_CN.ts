@@ -159,6 +159,10 @@
         <comment>Translate as (language)-speaking resources, for example English-speaking resources for English</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Czech</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>AddContactDialog</name>
@@ -3804,16 +3808,6 @@ Pull down to visit telegram.org</source>
         <translation type="unfinished">已删除此对话图片</translation>
     </message>
     <message>
-        <source>changed the secret chat TTL setting</source>
-        <comment>myself; TTL = Time To Live</comment>
-        <translation type="unfinished">修改加密对话保留时长设置</translation>
-    </message>
-    <message>
-        <source>changed the secret chat TTL setting</source>
-        <comment>TTL = Time To Live</comment>
-        <translation type="unfinished">修改加密对话保留时长设置</translation>
-    </message>
-    <message>
         <source>upgraded this group to a supergroup</source>
         <comment>myself</comment>
         <translation type="unfinished">已更新此群组为超级群组</translation>
@@ -4509,31 +4503,34 @@ Pull down to visit telegram.org</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You joined Telegram</source>
+        <source>joined Telegram</source>
+        <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%{user} joined Telegram</source>
+        <source>joined Telegram</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You joined this chat</source>
+        <source>joined this chat</source>
+        <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%{user} joined this chat</source>
+        <source>joined this chat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You were added to this chat</source>
+        <source>were added to this chat</source>
+        <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%{user} was added to this chat</source>
+        <source>was added to this chat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You have added %1 to the chat</source>
+        <source>have added %1 to the chat</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>

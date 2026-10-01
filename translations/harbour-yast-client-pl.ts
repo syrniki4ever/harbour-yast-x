@@ -20,181 +20,186 @@
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="45"/>
-        <location filename="../qml/pages/AboutPage.qml" line="75"/>
+        <location filename="../qml/pages/AboutPage.qml" line="78"/>
         <source>Italian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="49"/>
-        <location filename="../qml/pages/AboutPage.qml" line="83"/>
+        <location filename="../qml/pages/AboutPage.qml" line="86"/>
         <source>Russian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="56"/>
-        <source>Fernschreiber translations</source>
+        <location filename="../qml/pages/AboutPage.qml" line="53"/>
+        <source>Czech</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="59"/>
+        <source>Fernschreiber translations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="62"/>
         <source>Chinese</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="63"/>
+        <location filename="../qml/pages/AboutPage.qml" line="66"/>
         <source>Finnish</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="67"/>
+        <location filename="../qml/pages/AboutPage.qml" line="70"/>
         <source>French</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="71"/>
+        <location filename="../qml/pages/AboutPage.qml" line="74"/>
         <source>Hungarian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="79"/>
+        <location filename="../qml/pages/AboutPage.qml" line="82"/>
         <source>Polish</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="87"/>
+        <location filename="../qml/pages/AboutPage.qml" line="90"/>
         <source>Slovak</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="91"/>
+        <location filename="../qml/pages/AboutPage.qml" line="94"/>
         <source>Spanish</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="95"/>
+        <location filename="../qml/pages/AboutPage.qml" line="98"/>
         <source>Swedish</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="105"/>
+        <location filename="../qml/pages/AboutPage.qml" line="108"/>
         <source>This application is a fork of Fernschreiber, and wouldn&apos;t be possible without it. Thanks to everyone who developed and contributed to it!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="112"/>
+        <location filename="../qml/pages/AboutPage.qml" line="115"/>
         <source>Telegram Database Library (TDLib)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="118"/>
+        <location filename="../qml/pages/AboutPage.qml" line="121"/>
         <source>This project uses twemoji. Thanks for making it available under the conditions of the MIT License (coding) and CC-BY 4.0 (graphics)!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="123"/>
+        <location filename="../qml/pages/AboutPage.qml" line="126"/>
         <source>Coding</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="127"/>
+        <location filename="../qml/pages/AboutPage.qml" line="130"/>
         <source>Graphics</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="140"/>
+        <location filename="../qml/pages/AboutPage.qml" line="143"/>
         <source>This project uses OpenStreetMap Nominatim for reverse geocoding of location attachments. Thanks for making it available as web service!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="182"/>
+        <location filename="../qml/pages/AboutPage.qml" line="185"/>
         <source>About Telegram</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="183"/>
+        <location filename="../qml/pages/AboutPage.qml" line="186"/>
         <source>This product uses the Telegram API but is not endorsed or certified by Telegram.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="186"/>
+        <location filename="../qml/pages/AboutPage.qml" line="189"/>
         <source>Terms of Service</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="190"/>
+        <location filename="../qml/pages/AboutPage.qml" line="193"/>
         <source>Privacy Policy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="196"/>
+        <location filename="../qml/pages/AboutPage.qml" line="199"/>
         <source>TDLib version %1 (commit hash %2)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="202"/>
+        <location filename="../qml/pages/AboutPage.qml" line="205"/>
         <source>News</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="206"/>
+        <location filename="../qml/pages/AboutPage.qml" line="209"/>
         <source>Features</source>
         <comment>Opens Telegram Tips channel</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="210"/>
+        <location filename="../qml/pages/AboutPage.qml" line="213"/>
         <source>Ask a Question</source>
         <comment>Contact support</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="217"/>
+        <location filename="../qml/pages/AboutPage.qml" line="220"/>
         <source>SailfishOS Resources</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="218"/>
+        <location filename="../qml/pages/AboutPage.qml" line="221"/>
         <source>To get more info on SailfishOS, consider joining these groups and channels.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="222"/>
+        <location filename="../qml/pages/AboutPage.qml" line="225"/>
         <source>International Fan Club</source>
         <comment>Button which opens the SailfishOS Fan Club group</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="226"/>
+        <location filename="../qml/pages/AboutPage.qml" line="229"/>
         <source>News Network</source>
         <comment>Button which opens the Sailfish OS News Network channel</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="230"/>
+        <location filename="../qml/pages/AboutPage.qml" line="233"/>
         <source>Community meeting</source>
         <comment>Button which opens the SailfishOS Meeting channel</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="238"/>
+        <location filename="../qml/pages/AboutPage.qml" line="241"/>
         <source>Resources in your language</source>
         <comment>Translate as (language)-speaking resources, for example English-speaking resources for English</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="271"/>
+        <location filename="../qml/pages/AboutPage.qml" line="274"/>
         <source>Not needed, debug mode is already enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../qml/pages/AboutPage.qml" line="278"/>
+        <location filename="../qml/pages/AboutPage.qml" line="281"/>
         <source>You are now %n steps away from enabling debug mode</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="282"/>
+        <location filename="../qml/pages/AboutPage.qml" line="285"/>
         <source>Debug mode is now enabled!</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4554,310 +4559,274 @@ Pull down to visit telegram.org</source>
 <context>
     <name>Utilities</name>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="409"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="410"/>
         <source>Sticker</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="420"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="421"/>
         <source>Dart: throwing…</source>
         <comment>0</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="422"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="423"/>
         <source>Dart: missed!</source>
         <comment>1</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="424"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="425"/>
         <source>Dart thrown</source>
         <comment>2</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="426"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="427"/>
         <source>Dart thrown</source>
         <comment>3</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="428"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="429"/>
         <source>Dart thrown</source>
         <comment>4</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="430"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="431"/>
         <source>Dart: bullseye!</source>
         <comment>6</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="433"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="434"/>
         <source>Dart: almost there!</source>
         <comment>5</comment>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../yaqtlib/src/utilities.cpp" line="439"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="440"/>
         <source>Dice: %n</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="440"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="441"/>
         <source>Dice: rolling…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="452"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="453"/>
         <source>Photo: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="453"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="454"/>
         <source>Photo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="459"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="460"/>
         <source>Video: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="460"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="461"/>
         <source>Video</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="463"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="464"/>
         <source>Video message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="468"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="469"/>
         <source>GIF: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="469"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="470"/>
         <source>GIF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="473"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="474"/>
         <source>%1: %2</source>
         <comment>Audio message. %1 is the audio file name, %2 is the caption</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="474"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="475"/>
         <source>Audio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="478"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="479"/>
         <source>%1: %2</source>
         <comment>A message with a file attached. %1 is the file name, %2 is the caption</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="479"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="480"/>
         <source>File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="482"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="483"/>
         <source>Voice message: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="483"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="484"/>
         <source>Voice message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="486"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="487"/>
         <source>Location</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="490"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="491"/>
         <source>Venue: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="490"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="491"/>
         <source>Venue</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="500"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="501"/>
         <source>Anonymous Quiz: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="500"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="501"/>
         <source>Anonymous Quiz</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="501"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="502"/>
         <source>Quiz: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="501"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="502"/>
         <source>Quiz</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="504"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="505"/>
         <source>Anonymous Poll: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="504"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="505"/>
         <source>Anonymous Poll</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="505"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="506"/>
         <source>Poll: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="505"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="506"/>
         <source>Poll</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="510"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="511"/>
         <source>Game: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="510"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="511"/>
         <source>Game</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="515"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="516"/>
         <source>Contact</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="515"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="516"/>
         <source>Contact: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="520"/>
-        <source>You joined Telegram</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="520"/>
-        <source>%{user} joined Telegram</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="522"/>
-        <source>You joined this chat</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="522"/>
-        <source>%{user} joined this chat</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="525"/>
-        <source>You were added to this chat</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="525"/>
-        <source>%{user} was added to this chat</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="535"/>
-        <source>You have added %1 to the chat</source>
-        <comment>myself</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="535"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="536"/>
         <source>has added %1 to the chat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="540"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="541"/>
         <source>left this chat</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="540"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="541"/>
         <source>left this chat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="543"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="544"/>
         <source>have removed %1 from the chat</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="543"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="544"/>
         <source>has removed %1 from the chat</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="547"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="548"/>
         <source>changed the chat title to %1</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="547"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="548"/>
         <source>changed the chat title to %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="549"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="550"/>
         <source>created this group</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="549"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="550"/>
         <source>created this group</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="551"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="552"/>
         <source>changed the chat photo</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="551"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="552"/>
         <source>changed the chat photo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="553"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="554"/>
         <source>deleted the chat photo</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="553"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="554"/>
         <source>deleted the chat photo</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4873,96 +4842,123 @@ Pull down to visit telegram.org</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="558"/>
-        <source>changed the secret chat TTL setting</source>
-        <comment>myself; TTL = Time To Live</comment>
+        <location filename="../yaqtlib/src/utilities.cpp" line="521"/>
+        <source>joined Telegram</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../yaqtlib/src/utilities.cpp" line="521"/>
+        <source>joined Telegram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../yaqtlib/src/utilities.cpp" line="523"/>
+        <source>joined this chat</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../yaqtlib/src/utilities.cpp" line="523"/>
+        <source>joined this chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../yaqtlib/src/utilities.cpp" line="526"/>
+        <source>were added to this chat</source>
+        <comment>myself</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../yaqtlib/src/utilities.cpp" line="526"/>
+        <source>was added to this chat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../yaqtlib/src/utilities.cpp" line="536"/>
+        <source>have added %1 to the chat</source>
+        <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../yaqtlib/src/utilities.cpp" line="558"/>
-        <source>changed the secret chat TTL setting</source>
-        <comment>TTL = Time To Live</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="560"/>
         <source>upgraded this group to a supergroup</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="560"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="558"/>
         <source>upgraded this group to a supergroup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="565"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="563"/>
         <source>pinned a message</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="565"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="563"/>
         <source>pinned a message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="567"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="565"/>
         <source>sent a self-destructing photo that is expired</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="567"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="565"/>
         <source>sent a self-destructing photo that is expired</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="569"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="567"/>
         <source>sent a self-destructing video that is expired</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="569"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="567"/>
         <source>sent a self-destructing video that is expired</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="571"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="569"/>
         <source>sent a self-destructing voice message that is expired</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="571"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="569"/>
         <source>sent a self-destructing voice message that is expired</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="573"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="571"/>
         <source>sent a self-destructing video message that is expired</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="573"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="571"/>
         <source>sent a self-destructing video message that is expired</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="575"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="573"/>
         <source>created a screenshot in this chat</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="575"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="573"/>
         <source>created a screenshot in this chat</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../yaqtlib/src/utilities.cpp" line="578"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="576"/>
         <source>scored %Ln points</source>
         <comment>myself</comment>
         <translation type="unfinished">
@@ -4970,34 +4966,34 @@ Pull down to visit telegram.org</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="../yaqtlib/src/utilities.cpp" line="578"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="576"/>
         <source>scored %Ln points</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="584"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="582"/>
         <source>you allowed this bot to message you when you added it to your attachment menu</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="586"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="584"/>
         <source>you allowed this bot to message you when you logged in on %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="588"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="586"/>
         <source>you allowed this bot to message you in its web-app</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="589"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="587"/>
         <source>you allowed this bot to message you</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../yaqtlib/src/utilities.cpp" line="592"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="590"/>
         <source>boosted this chat %Ln times</source>
         <comment>myself</comment>
         <translation type="unfinished">
@@ -5005,308 +5001,308 @@ Pull down to visit telegram.org</source>
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="../yaqtlib/src/utilities.cpp" line="593"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="591"/>
         <source>boosted this chat %Ln times</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="596"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="594"/>
         <source>sent a gift</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="596"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="594"/>
         <source>sent a gift</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="599"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="597"/>
         <source>started a giveaway</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="599"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="597"/>
         <source>started a giveaway</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="601"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="599"/>
         <source>a giveaway was completed</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="601"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="599"/>
         <source>a giveaway was completed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="606"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="604"/>
         <source>created this topic</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="606"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="604"/>
         <source>created this topic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="607"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="605"/>
         <source>created the topic &quot;%1&quot;</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="607"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="605"/>
         <source>created the topic &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="613"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="611"/>
         <source>renamed this topic to &quot;%1&quot;</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="613"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="611"/>
         <source>renamed this topic to &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="614"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="612"/>
         <source>renamed the topic &quot;%1&quot;</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="614"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="612"/>
         <source>renamed the topic &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="618"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="616"/>
         <source>changed this topic&apos;s icon</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="618"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="616"/>
         <source>changed this topic&apos;s icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="619"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="617"/>
         <source>changed the icon of the topic &quot;%1&quot;</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="619"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="617"/>
         <source>changed the icon of the topic &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="625"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="623"/>
         <source>closed this topic</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="625"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="623"/>
         <source>closed this topic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="626"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="624"/>
         <source>closed the topic &quot;%1&quot;</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="626"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="624"/>
         <source>closed the topic &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="629"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="627"/>
         <source>reopened this topic</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="629"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="627"/>
         <source>reopened this topic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="630"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="628"/>
         <source>reopened the topic &quot;%1&quot;</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="630"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="628"/>
         <source>reopened the topic &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="635"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="633"/>
         <source>hid this topic</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="635"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="633"/>
         <source>hid this topic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="636"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="634"/>
         <source>hid the general topic</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="636"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="634"/>
         <source>hid the general topic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="639"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="637"/>
         <source>unhid this topic</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="639"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="637"/>
         <source>unhid this topic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="640"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="638"/>
         <source>unhid the general topic</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="640"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="638"/>
         <source>unhid the general topic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="644"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="642"/>
         <source>added &quot;%1&quot; to the poll</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="644"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="642"/>
         <source>added &quot;%1&quot; to the poll</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="646"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="644"/>
         <source>removed &quot;%1&quot; from the poll</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="646"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="644"/>
         <source>removed &quot;%1&quot; from the poll</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="649"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="647"/>
         <source>joined the chat from the &quot;%1&quot; community</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="649"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="647"/>
         <source>joined the chat from the &quot;%1&quot; community</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="652"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="650"/>
         <source>added the chat to the &quot;%1&quot; community</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="652"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="650"/>
         <source>added the chat to the &quot;%1&quot; community</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="655"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="653"/>
         <source>removed the chat from the community</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="655"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="653"/>
         <source>removed the chat from the community</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="657"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="655"/>
         <source>sent an unsupported message</source>
         <comment>myself</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="657"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="655"/>
         <source>sent an unsupported message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="664"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="662"/>
         <source>sent an unsupported message: %1</source>
         <comment>myself; %1 is message type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="665"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="663"/>
         <source>sent an unsupported message: %1</source>
         <comment>%1 is message type</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="795"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="799"/>
         <source>Deleted Account</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="795"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="799"/>
         <source>Unknown</source>
         <comment>A user without a known name</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="819"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="823"/>
         <source>Unknown</source>
         <comment>A chat without a known name</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1039"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1043"/>
         <source>, </source>
         <comment>Separator for names</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1042"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1046"/>
         <source>%1 and %2</source>
         <comment>names</comment>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../yaqtlib/src/utilities.cpp" line="1045"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1049"/>
         <source>%1 and %Ln others</source>
         <comment>names</comment>
         <translation type="unfinished">
@@ -5314,169 +5310,169 @@ Pull down to visit telegram.org</source>
         </translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1095"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1099"/>
         <source>typing</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../yaqtlib/src/utilities.cpp" line="1095"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1099"/>
         <source>%1 is typing</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1098"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1102"/>
         <source>recording a video</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../yaqtlib/src/utilities.cpp" line="1098"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1102"/>
         <source>%1 is recording a video</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1101"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1105"/>
         <source>sending a video</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../yaqtlib/src/utilities.cpp" line="1101"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1105"/>
         <source>%1 is sending a video</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1104"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1108"/>
         <source>recording a voice message</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../yaqtlib/src/utilities.cpp" line="1104"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1108"/>
         <source>%1 is recording a voice message</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1107"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1111"/>
         <source>sending a voice message</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../yaqtlib/src/utilities.cpp" line="1107"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1111"/>
         <source>%1 is sending a voice message</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1110"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1114"/>
         <source>sending a photo</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../yaqtlib/src/utilities.cpp" line="1110"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1114"/>
         <source>%1 is sending a photo</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1113"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1117"/>
         <source>sending a file</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../yaqtlib/src/utilities.cpp" line="1113"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1117"/>
         <source>%1 is sending a file</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1116"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1120"/>
         <source>choosing a sticker</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../yaqtlib/src/utilities.cpp" line="1116"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1120"/>
         <source>%1 is choosing a sticker</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1119"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1123"/>
         <source>choosing location</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../yaqtlib/src/utilities.cpp" line="1119"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1123"/>
         <source>%1 is choosing location</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1122"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1126"/>
         <source>choosing a contact</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../yaqtlib/src/utilities.cpp" line="1122"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1126"/>
         <source>%1 is choosing a contact</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1125"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1129"/>
         <source>playing a game</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../yaqtlib/src/utilities.cpp" line="1125"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1129"/>
         <source>%1 is playing a game</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1128"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1132"/>
         <source>recording a video message</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../yaqtlib/src/utilities.cpp" line="1128"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1132"/>
         <source>%1 is recording a video message</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1131"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1135"/>
         <source>sending a video message</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../yaqtlib/src/utilities.cpp" line="1131"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1135"/>
         <source>%1 is sending a video message</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1135"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1139"/>
         <source>watching %1</source>
         <comment>The other party is watching an animation, %1 is the emoji describing the animation being watched</comment>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../yaqtlib/src/utilities.cpp" line="1136"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1140"/>
         <source>%1 is watching %2</source>
         <comment>%1 is watching an animation, %2 is the emoji describing the animation being watched</comment>
         <translation type="unfinished">
@@ -5484,61 +5480,61 @@ Pull down to visit telegram.org</source>
         </translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1169"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1173"/>
         <source>Canceled Video Call</source>
         <comment>outgoing</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1169"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1173"/>
         <source>Missed Video Call</source>
         <comment>incoming</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1170"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1174"/>
         <source>Outgoing Video Call</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1170"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1174"/>
         <source>Incoming Video Call</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1173"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1177"/>
         <source>Canceled Call</source>
         <comment>outgoing</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1173"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1177"/>
         <source>Missed Call</source>
         <comment>incoming</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1174"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1178"/>
         <source>Outgoing Call</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1174"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1178"/>
         <source>Incoming Call</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1179"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1183"/>
         <source>Outgoing Group Call</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1181"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1185"/>
         <source>Missed Group Call</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../yaqtlib/src/utilities.cpp" line="1182"/>
+        <location filename="../yaqtlib/src/utilities.cpp" line="1186"/>
         <source>Incoming Group Call</source>
         <translation type="unfinished"></translation>
     </message>
