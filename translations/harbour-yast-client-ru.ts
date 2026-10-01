@@ -163,7 +163,7 @@
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>Чешский</translation>
     </message>
 </context>
 <context>
@@ -1393,6 +1393,17 @@ Please take a look at the %1Telegram FAQ%2: it has answers to most questions and
     </message>
 </context>
 <context>
+    <name>ExternalUrlPage</name>
+    <message>
+        <source>Swipe left to preview.</source>
+        <translation>Смахните влево для предпросмотра.</translation>
+    </message>
+    <message>
+        <source>You are using a mobile data connection.</source>
+        <translation>Вы используете мобильную передачу данных.</translation>
+    </message>
+</context>
+<context>
     <name>FullscreenHintDialog</name>
     <message>
         <source>Got it</source>
@@ -2512,6 +2523,10 @@ Pull down to visit telegram.org</source>
         <source>Download license texts</source>
         <translation>Скачать тексты лицензий</translation>
     </message>
+    <message>
+        <source>You are using a mobile data connection.</source>
+        <translation>Вы используете мобильную передачу данных.</translation>
+    </message>
     <message numerus="yes">
         <source>License(s)</source>
         <translation>
@@ -2538,6 +2553,53 @@ Pull down to visit telegram.org</source>
     <message>
         <source>Your contributions to translations or code would be most welcome.</source>
         <translation>Ваш вклад в перевод или код будет только приветствоваться.</translation>
+    </message>
+</context>
+<context>
+    <name>Opal.LinkHandler</name>
+    <message>
+        <source>Copied to clipboard: %1</source>
+        <translation>Скопировано в буфер обмена: %1</translation>
+    </message>
+    <message>
+        <source>Share link</source>
+        <translation>Поделиться ссылкой</translation>
+    </message>
+    <message>
+        <source>Phone number</source>
+        <translation>Номер телефона</translation>
+    </message>
+    <message>
+        <source>External link</source>
+        <translation>Внешняя ссылка</translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <translation>Открыть в браузере</translation>
+    </message>
+    <message>
+        <source>Open externally</source>
+        <translation>Открыть снаружи</translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation>Поделиться</translation>
+    </message>
+    <message>
+        <source>Copy link</source>
+        <translation>Скопировать ссылку</translation>
+    </message>
+    <message>
+        <source>Copy text</source>
+        <translation>Скопировать текст</translation>
+    </message>
+    <message>
+        <source>No preview available.</source>
+        <translation>Предварительный просмотр недоступен.</translation>
+    </message>
+    <message>
+        <source>The page is taking too long to load.</source>
+        <translation>Страница загружается дольше обычного.</translation>
     </message>
 </context>
 <context>
@@ -4641,34 +4703,34 @@ Pull down to visit telegram.org</source>
     <message>
         <source>joined Telegram</source>
         <comment>myself</comment>
-        <translation type="unfinished"></translation>
+        <translation>теперь в Telegram</translation>
     </message>
     <message>
         <source>joined Telegram</source>
-        <translation type="unfinished"></translation>
+        <translation>теперь в Telegram</translation>
     </message>
     <message>
         <source>joined this chat</source>
         <comment>myself</comment>
-        <translation type="unfinished"></translation>
+        <translation>присоединились к чату</translation>
     </message>
     <message>
         <source>joined this chat</source>
-        <translation type="unfinished"></translation>
+        <translation>присоединился(-ась) к чату</translation>
     </message>
     <message>
         <source>were added to this chat</source>
         <comment>myself</comment>
-        <translation type="unfinished"></translation>
+        <translation>были добавлены в чат</translation>
     </message>
     <message>
         <source>was added to this chat</source>
-        <translation type="unfinished"></translation>
+        <translation>был(-а) добавлена в чат</translation>
     </message>
     <message>
         <source>have added %1 to the chat</source>
         <comment>myself</comment>
-        <translation type="unfinished"></translation>
+        <translation>добавили %1 в чат</translation>
     </message>
 </context>
 <context>

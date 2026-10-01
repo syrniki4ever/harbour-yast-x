@@ -163,7 +163,7 @@
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čeština</translation>
     </message>
 </context>
 <context>
@@ -1388,6 +1388,17 @@ Please take a look at the %1Telegram FAQ%2: it has answers to most questions and
     </message>
 </context>
 <context>
+    <name>ExternalUrlPage</name>
+    <message>
+        <source>Swipe left to preview.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are using a mobile data connection.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FullscreenHintDialog</name>
     <message>
         <source>Got it</source>
@@ -2505,6 +2516,10 @@ Pull down to visit telegram.org</source>
         <source>Download license texts</source>
         <translation>Stiahnuť text licencie</translation>
     </message>
+    <message>
+        <source>You are using a mobile data connection.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message numerus="yes">
         <source>License(s)</source>
         <translation>
@@ -2531,6 +2546,53 @@ Pull down to visit telegram.org</source>
     <message>
         <source>Your contributions to translations or code would be most welcome.</source>
         <translation>Vaša pomoc s prekladom alebo programovaním by bola veľmi vítaná.</translation>
+    </message>
+</context>
+<context>
+    <name>Opal.LinkHandler</name>
+    <message>
+        <source>Copied to clipboard: %1</source>
+        <translation>Kopírovať do schránky: %1</translation>
+    </message>
+    <message>
+        <source>Share link</source>
+        <translation>Zdieľať odkaz</translation>
+    </message>
+    <message>
+        <source>Phone number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>External link</source>
+        <translation>Externý odkaz</translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <translation>Otvoriť v prehliadači</translation>
+    </message>
+    <message>
+        <source>Open externally</source>
+        <translation>Otvoriť zvonku</translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation>Zdielať</translation>
+    </message>
+    <message>
+        <source>Copy link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No preview available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The page is taking too long to load.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

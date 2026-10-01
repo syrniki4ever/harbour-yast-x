@@ -161,7 +161,7 @@
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">cseh</translation>
     </message>
 </context>
 <context>
@@ -1358,6 +1358,17 @@ Please take a look at the %1Telegram FAQ%2: it has answers to most questions and
     </message>
 </context>
 <context>
+    <name>ExternalUrlPage</name>
+    <message>
+        <source>Swipe left to preview.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are using a mobile data connection.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FullscreenHintDialog</name>
     <message>
         <source>Got it</source>
@@ -2445,6 +2456,10 @@ Pull down to visit telegram.org</source>
         <source>Download license texts</source>
         <translation>Licencszövegek letöltése</translation>
     </message>
+    <message>
+        <source>You are using a mobile data connection.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message numerus="yes">
         <source>License(s)</source>
         <translation>
@@ -2468,7 +2483,54 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Your contributions to translations or code would be most welcome.</source>
-        <translation>A hozzájárulásaid a fordításokhoz, vagy a kódhoz nagyon szívesen fogadjuk.</translation>
+        <translation>A hozzájárulásod a fordításokhoz, vagy a kódhoz nagy segítség lenne.</translation>
+    </message>
+</context>
+<context>
+    <name>Opal.LinkHandler</name>
+    <message>
+        <source>Copied to clipboard: %1</source>
+        <translation>A vágólapra másolva: %1</translation>
+    </message>
+    <message>
+        <source>Share link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phone number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>External link</source>
+        <translation>Külső hivatkozás</translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <translation>Megnyitás böngészőben</translation>
+    </message>
+    <message>
+        <source>Open externally</source>
+        <translation>Megnyitás külső alkalmazással</translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No preview available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The page is taking too long to load.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

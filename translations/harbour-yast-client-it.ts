@@ -162,7 +162,7 @@
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ceco</translation>
     </message>
 </context>
 <context>
@@ -1375,6 +1375,17 @@ Per favore dai uno sguardo alla %1FAQ di Telegram%2: contiene risposte per la ma
     </message>
 </context>
 <context>
+    <name>ExternalUrlPage</name>
+    <message>
+        <source>Swipe left to preview.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are using a mobile data connection.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FullscreenHintDialog</name>
     <message>
         <source>Got it</source>
@@ -1579,7 +1590,7 @@ Trascina in basso per visitare telegram.org</translation>
     <name>LicenseListPart</name>
     <message>
         <source>License text</source>
-        <translation>Testo di licenza</translation>
+        <translation>Testo della licenza</translation>
     </message>
 </context>
 <context>
@@ -2382,7 +2393,7 @@ Trascina in basso per visitare telegram.org</translation>
     <name>Opal.About</name>
     <message>
         <source>About</source>
-        <translation>Info</translation>
+        <translation>In riguardo</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2394,7 +2405,7 @@ Trascina in basso per visitare telegram.org</translation>
     </message>
     <message>
         <source>show contributors</source>
-        <translation>mostra contributori</translation>
+        <translation>mostra i collaboratori</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -2402,7 +2413,7 @@ Trascina in basso per visitare telegram.org</translation>
     </message>
     <message>
         <source>Changelog</source>
-        <translation>Cambiamenti</translation>
+        <translation>Registro delle modifiche</translation>
     </message>
     <message>
         <source>Translations</source>
@@ -2429,11 +2440,11 @@ Trascina in basso per visitare telegram.org</translation>
     </message>
     <message>
         <source>News</source>
-        <translation>Novità</translation>
+        <translation>Notizie</translation>
     </message>
     <message>
         <source>Changes since version %1</source>
-        <translation>Cambiamenti dalla versione %1</translation>
+        <translation>Modifiche dalla versione %1</translation>
     </message>
     <message>
         <source>show details</source>
@@ -2449,11 +2460,11 @@ Trascina in basso per visitare telegram.org</translation>
     </message>
     <message>
         <source>Contributors</source>
-        <translation>Contributori</translation>
+        <translation>Collaboratori</translation>
     </message>
     <message>
         <source>Acknowledgements</source>
-        <translation>Informazioni</translation>
+        <translation>Ringraziamenti</translation>
     </message>
     <message>
         <source>External Link</source>
@@ -2473,11 +2484,15 @@ Trascina in basso per visitare telegram.org</translation>
     </message>
     <message>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation>Per favore fai riferimento a &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
+        <translation>Fare riferimento a &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Download license texts</source>
-        <translation>Scarica testi di licenza</translation>
+        <translation>Scarica i testi delle licenze</translation>
+    </message>
+    <message>
+        <source>You are using a mobile data connection.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>License(s)</source>
@@ -2488,22 +2503,69 @@ Trascina in basso per visitare telegram.org</translation>
     </message>
     <message>
         <source>Note: please check the source code for most accurate information.</source>
-        <translation>Nota: controlla il codice sorgente per avere le informazioni più accurate.</translation>
+        <translation>Nota: per informazioni più accurate, controllare il codice sorgente.</translation>
     </message>
 </context>
 <context>
     <name>Opal.About.Common</name>
     <message>
         <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation>Se vuoi supportare il mio lavoro puoi offrirmi una tazza di caffè.</translation>
+        <translation>Se vuoi sostenere il mio lavoro, puoi offrirmi una tazza di caffè.</translation>
     </message>
     <message>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation>Puoi supportare questo progetto contribuendo o donando con uno di questi servizi.</translation>
+        <translation>Puoi sostenere questo progetto contribuendo o effettuando una donazione tramite uno di questi servizi.</translation>
     </message>
     <message>
         <source>Your contributions to translations or code would be most welcome.</source>
-        <translation>Le tue contribuzioni per le traduzioni o per il codice sono le benvenute.</translation>
+        <translation>I vostri contributi alle traduzioni o al codice saranno molto graditi.</translation>
+    </message>
+</context>
+<context>
+    <name>Opal.LinkHandler</name>
+    <message>
+        <source>Copied to clipboard: %1</source>
+        <translation>Copiato negli appunti: %1</translation>
+    </message>
+    <message>
+        <source>Share link</source>
+        <translation>Condividi collegamento</translation>
+    </message>
+    <message>
+        <source>Phone number</source>
+        <translation>Numero di telefono</translation>
+    </message>
+    <message>
+        <source>External link</source>
+        <translation>Collegamento esterno</translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <translation>Apri nel browser</translation>
+    </message>
+    <message>
+        <source>Open externally</source>
+        <translation>Apri esternamente</translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation>Condividi</translation>
+    </message>
+    <message>
+        <source>Copy link</source>
+        <translation type="unfinished">Copia collegamento</translation>
+    </message>
+    <message>
+        <source>Copy text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No preview available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The page is taking too long to load.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -162,7 +162,7 @@
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tsekki</translation>
     </message>
 </context>
 <context>
@@ -181,7 +181,7 @@
     </message>
     <message>
         <source>Phone number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Puhelinnumero</translation>
     </message>
     <message>
         <source>Use the international format, e.g. %1</source>
@@ -1373,6 +1373,17 @@ Please take a look at the %1Telegram FAQ%2: it has answers to most questions and
     </message>
 </context>
 <context>
+    <name>ExternalUrlPage</name>
+    <message>
+        <source>Swipe left to preview.</source>
+        <translation>Esikatsele pyyhkäisemällä vasemmalle.</translation>
+    </message>
+    <message>
+        <source>You are using a mobile data connection.</source>
+        <translation>Käytössäsi on mobiilidatayhteys.</translation>
+    </message>
+</context>
+<context>
     <name>FullscreenHintDialog</name>
     <message>
         <source>Got it</source>
@@ -1457,7 +1468,7 @@ Please take a look at the %1Telegram FAQ%2: it has answers to most questions and
     </message>
     <message>
         <source>Phone number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Puhelinnumero</translation>
     </message>
     <message>
         <source>Use the international format, e.g. %1</source>
@@ -2420,7 +2431,7 @@ Pull down to visit telegram.org</source>
         <source>show license(s)</source>
         <translation>
             <numerusform>näytä lisenssi</numerusform>
-            <numerusform></numerusform>
+            <numerusform>näytä lisenssit</numerusform>
         </translation>
     </message>
     <message>
@@ -2433,7 +2444,7 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>show details</source>
-        <translation>näytä tiedot</translation>
+        <translation>näytä lisätietoja</translation>
     </message>
     <message>
         <source>Thank you!</source>
@@ -2449,7 +2460,7 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Acknowledgements</source>
-        <translation>Kiitokset</translation>
+        <translation>Tunnustukset</translation>
     </message>
     <message>
         <source>External Link</source>
@@ -2469,17 +2480,21 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation>Viittaa kiitos &lt;a href=&quot;”%1”&quot;&gt;%1&lt;/a&gt;</translation>
+        <translation>Katso lisätietoja &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Download license texts</source>
         <translation>Lataa lisenssitekstit</translation>
     </message>
+    <message>
+        <source>You are using a mobile data connection.</source>
+        <translation type="unfinished">Käytössäsi on mobiilidatayhteys.</translation>
+    </message>
     <message numerus="yes">
         <source>License(s)</source>
         <translation>
             <numerusform>Lisenssi</numerusform>
-            <numerusform></numerusform>
+            <numerusform>Lisenssit</numerusform>
         </translation>
     </message>
     <message>
@@ -2495,11 +2510,58 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation>Voit tukea tätä projektia joko osallistumalla koodin kehittämiseen, tai tekemällä lahjoituksen johonkin seuraavista palveluista.</translation>
+        <translation>Voit tukea tätä projektia joko osallistumalla koodin kehittämiseen tai tekemällä lahjoituksen johonkin seuraavista palveluista.</translation>
     </message>
     <message>
         <source>Your contributions to translations or code would be most welcome.</source>
         <translation>Koodipäivityksesi ja käännöksesi ovat mitä tervetulleimpia.</translation>
+    </message>
+</context>
+<context>
+    <name>Opal.LinkHandler</name>
+    <message>
+        <source>Copied to clipboard: %1</source>
+        <translation>Kopioitu leikepöydälle: %1</translation>
+    </message>
+    <message>
+        <source>Share link</source>
+        <translation>Jaa linkki</translation>
+    </message>
+    <message>
+        <source>Phone number</source>
+        <translation>Puhelinnumero</translation>
+    </message>
+    <message>
+        <source>External link</source>
+        <translation>Ulkoinen linkki</translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <translation>Avaa selaimessa</translation>
+    </message>
+    <message>
+        <source>Open externally</source>
+        <translation>Avaa ulkoisesti</translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation>Jaa</translation>
+    </message>
+    <message>
+        <source>Copy link</source>
+        <translation>Kopioi linkki</translation>
+    </message>
+    <message>
+        <source>Copy text</source>
+        <translation>Kopioi teksti</translation>
+    </message>
+    <message>
+        <source>No preview available.</source>
+        <translation>Esikatselu ei ole saatavilla.</translation>
+    </message>
+    <message>
+        <source>The page is taking too long to load.</source>
+        <translation>Sivun lataaminen kestää liian kauan.</translation>
     </message>
 </context>
 <context>
@@ -2775,7 +2837,7 @@ Pull down to visit telegram.org</source>
     <message>
         <source>Copy link</source>
         <comment>proxy</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kopioi linkki</translation>
     </message>
     <message>
         <source>Proxy List copied to clipboard</source>

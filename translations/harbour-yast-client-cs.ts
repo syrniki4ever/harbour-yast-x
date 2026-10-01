@@ -1390,6 +1390,17 @@ Podívejte se prosím na %1Časté dotazy Telegramu%2: najdete tam odpovědi na 
     </message>
 </context>
 <context>
+    <name>ExternalUrlPage</name>
+    <message>
+        <source>Swipe left to preview.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are using a mobile data connection.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FullscreenHintDialog</name>
     <message>
         <source>Got it</source>
@@ -2411,79 +2422,79 @@ Tažením dolů navštívíte telegram.org</translation>
     <name>Opal.About</name>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>O aplikaci</translation>
     </message>
     <message>
         <source>Version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Verze %1</translation>
     </message>
     <message>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>Vývoj</translation>
     </message>
     <message>
         <source>show contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>zobrazit přispěvatele</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>Domovská stránka</translation>
     </message>
     <message>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Seznam změn</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished">Překlady</translation>
+        <translation>Překlady</translation>
     </message>
     <message>
         <source>Source Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Zdrojový kód</translation>
     </message>
     <message>
         <source>Donations</source>
-        <translation type="unfinished"></translation>
+        <translation>Dary</translation>
     </message>
     <message>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licence</translation>
     </message>
     <message numerus="yes">
         <source>show license(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>zobrazit licenci</numerusform>
+            <numerusform>zobrazit licence</numerusform>
+            <numerusform>zobrazit licence</numerusform>
         </translation>
     </message>
     <message>
         <source>News</source>
-        <translation type="unfinished">Novinky</translation>
+        <translation>Novinky</translation>
     </message>
     <message>
         <source>Changes since version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Změny od verze %1</translation>
     </message>
     <message>
         <source>show details</source>
-        <translation type="unfinished"></translation>
+        <translation>zobrazit podrobnosti</translation>
     </message>
     <message>
         <source>Thank you!</source>
-        <translation type="unfinished"></translation>
+        <translation>Děkuji vám!</translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Podrobnosti</translation>
     </message>
     <message>
         <source>Contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>Přispěvatelé</translation>
     </message>
     <message>
         <source>Acknowledgements</source>
-        <translation type="unfinished"></translation>
+        <translation>Poděkování</translation>
     </message>
     <message>
         <source>External Link</source>
@@ -2491,11 +2502,11 @@ Tažením dolů navštívíte telegram.org</translation>
     </message>
     <message>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otevřít v prohlížeči</translation>
     </message>
     <message>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zkopírováno do schránky: %1</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
@@ -2503,37 +2514,88 @@ Tažením dolů navštívíte telegram.org</translation>
     </message>
     <message>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Pro více informací se podívejte na &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Download license texts</source>
+        <translation>Stáhnout licenční ujednání</translation>
+    </message>
+    <message>
+        <source>You are using a mobile data connection.</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
         <source>License(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Licence</numerusform>
+            <numerusform>Licence</numerusform>
+            <numerusform>Licencí</numerusform>
         </translation>
     </message>
     <message>
         <source>Note: please check the source code for most accurate information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poznámka: Prosím, zkontrolujte zdrojový kód pro přesnější informace.</translation>
     </message>
 </context>
 <context>
     <name>Opal.About.Common</name>
     <message>
         <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokud chcete podpořit moji práci, můžete mi koupit kafe.</translation>
     </message>
     <message>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tento projekt můžete podpořit přispíváním kódu, nebo dary pomocí některé z následujících služeb.</translation>
     </message>
     <message>
         <source>Your contributions to translations or code would be most welcome.</source>
+        <translation>Vaše příspěvky ke kódu nebo překladům jsou vítány.</translation>
+    </message>
+</context>
+<context>
+    <name>Opal.LinkHandler</name>
+    <message>
+        <source>Copied to clipboard: %1</source>
+        <translation>Zkopírováno do schránky: %1</translation>
+    </message>
+    <message>
+        <source>Share link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phone number</source>
+        <translation type="unfinished">Telefonní číslo</translation>
+    </message>
+    <message>
+        <source>External link</source>
+        <translation>Externí odkaz</translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <translation>Otevřít v prohlížeči</translation>
+    </message>
+    <message>
+        <source>Open externally</source>
+        <translation>Otevřít externě</translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy link</source>
+        <translation type="unfinished">Kopírovat odkaz</translation>
+    </message>
+    <message>
+        <source>Copy text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No preview available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The page is taking too long to load.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

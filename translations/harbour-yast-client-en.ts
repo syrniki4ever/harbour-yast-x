@@ -162,7 +162,7 @@
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Czech</translation>
     </message>
 </context>
 <context>
@@ -1375,6 +1375,17 @@ messages</numerusform>
     </message>
 </context>
 <context>
+    <name>ExternalUrlPage</name>
+    <message>
+        <source>Swipe left to preview.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are using a mobile data connection.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FullscreenHintDialog</name>
     <message>
         <source>Got it</source>
@@ -2479,6 +2490,10 @@ Pull down to visit telegram.org</translation>
         <source>Download license texts</source>
         <translation>Download license texts</translation>
     </message>
+    <message>
+        <source>You are using a mobile data connection.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message numerus="yes">
         <source>License(s)</source>
         <translation>
@@ -2504,6 +2519,53 @@ Pull down to visit telegram.org</translation>
     <message>
         <source>Your contributions to translations or code would be most welcome.</source>
         <translation>Your contributions to translations or code would be most welcome.</translation>
+    </message>
+</context>
+<context>
+    <name>Opal.LinkHandler</name>
+    <message>
+        <source>Copied to clipboard: %1</source>
+        <translation>Copied to clipboard: %1</translation>
+    </message>
+    <message>
+        <source>Share link</source>
+        <translation>Share link</translation>
+    </message>
+    <message>
+        <source>Phone number</source>
+        <translation type="unfinished">Phone number</translation>
+    </message>
+    <message>
+        <source>External link</source>
+        <translation>External link</translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <translation>Open in browser</translation>
+    </message>
+    <message>
+        <source>Open externally</source>
+        <translation>Open externally</translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation>Share</translation>
+    </message>
+    <message>
+        <source>Copy link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No preview available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The page is taking too long to load.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

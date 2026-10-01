@@ -162,7 +162,7 @@
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Checo</translation>
     </message>
 </context>
 <context>
@@ -185,7 +185,7 @@
     </message>
     <message>
         <source>Phone number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Número telefónico</translation>
     </message>
     <message numerus="yes">
         <source>First name must have 1-%Ln characters</source>
@@ -1373,6 +1373,17 @@ Please take a look at the %1Telegram FAQ%2: it has answers to most questions and
     </message>
 </context>
 <context>
+    <name>ExternalUrlPage</name>
+    <message>
+        <source>Swipe left to preview.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are using a mobile data connection.</source>
+        <translation>Está utilizando una conexión de datos al móvil.</translation>
+    </message>
+</context>
+<context>
     <name>FullscreenHintDialog</name>
     <message>
         <source>Got it</source>
@@ -1457,7 +1468,7 @@ Please take a look at the %1Telegram FAQ%2: it has answers to most questions and
     </message>
     <message>
         <source>Phone number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Número telefónico</translation>
     </message>
     <message>
         <source>Use the international format, e.g. %1</source>
@@ -2394,7 +2405,7 @@ Pull down to visit telegram.org</source>
     </message>
     <message>
         <source>Homepage</source>
-        <translation>Página web</translation>
+        <translation>Página de inicio</translation>
     </message>
     <message>
         <source>Changelog</source>
@@ -2475,6 +2486,10 @@ Pull down to visit telegram.org</source>
         <source>Download license texts</source>
         <translation>Descargar los textos de las licencias</translation>
     </message>
+    <message>
+        <source>You are using a mobile data connection.</source>
+        <translation>Está utilizando una conexión de datos móvil.</translation>
+    </message>
     <message numerus="yes">
         <source>License(s)</source>
         <translation>
@@ -2500,6 +2515,53 @@ Pull down to visit telegram.org</source>
     <message>
         <source>Your contributions to translations or code would be most welcome.</source>
         <translation>Tus contribuciones a traducir o escribir código serán bien recibidas.</translation>
+    </message>
+</context>
+<context>
+    <name>Opal.LinkHandler</name>
+    <message>
+        <source>Copied to clipboard: %1</source>
+        <translation>Copiado al portapapeles: %1</translation>
+    </message>
+    <message>
+        <source>Share link</source>
+        <translation>Compartir enlace</translation>
+    </message>
+    <message>
+        <source>Phone number</source>
+        <translation>Número telefónico</translation>
+    </message>
+    <message>
+        <source>External link</source>
+        <translation>Enlace externo</translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <translation>Abrir en el navegador</translation>
+    </message>
+    <message>
+        <source>Open externally</source>
+        <translation>Abrir externamente</translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation>Compartir</translation>
+    </message>
+    <message>
+        <source>Copy link</source>
+        <translation>Copiar enlace</translation>
+    </message>
+    <message>
+        <source>Copy text</source>
+        <translation>Copiar texto</translation>
+    </message>
+    <message>
+        <source>No preview available.</source>
+        <translation>Ninguna vista previa disponible.</translation>
+    </message>
+    <message>
+        <source>The page is taking too long to load.</source>
+        <translation>La página está tomando mucho tiempo para cargar.</translation>
     </message>
 </context>
 <context>
@@ -2775,7 +2837,7 @@ Pull down to visit telegram.org</source>
     <message>
         <source>Copy link</source>
         <comment>proxy</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Copiar enlace</translation>
     </message>
     <message>
         <source>Proxy List copied to clipboard</source>

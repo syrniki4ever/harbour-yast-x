@@ -162,7 +162,7 @@
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tjeckiska</translation>
     </message>
 </context>
 <context>
@@ -185,7 +185,7 @@
     </message>
     <message>
         <source>Phone number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Telefonnummer</translation>
     </message>
     <message numerus="yes">
         <source>First name must have 1-%Ln characters</source>
@@ -1373,6 +1373,17 @@ Please take a look at the %1Telegram FAQ%2: it has answers to most questions and
     </message>
 </context>
 <context>
+    <name>ExternalUrlPage</name>
+    <message>
+        <source>Swipe left to preview.</source>
+        <translation>Svep vänster för att förhandsgranska.</translation>
+    </message>
+    <message>
+        <source>You are using a mobile data connection.</source>
+        <translation>Du använder en mobil dataanslutning.</translation>
+    </message>
+</context>
+<context>
     <name>FullscreenHintDialog</name>
     <message>
         <source>Got it</source>
@@ -1457,7 +1468,7 @@ Please take a look at the %1Telegram FAQ%2: it has answers to most questions and
     </message>
     <message>
         <source>Phone number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Telefonnummer</translation>
     </message>
     <message>
         <source>Use the international format, e.g. %1</source>
@@ -2486,6 +2497,10 @@ Pull down to visit telegram.org</source>
         <source>Note: please check the source code for most accurate information.</source>
         <translation>Notis: Kontrollera källkoden för mest korrekt information.</translation>
     </message>
+    <message>
+        <source>You are using a mobile data connection.</source>
+        <translation>Du använder en mobil dataanslutning.</translation>
+    </message>
 </context>
 <context>
     <name>Opal.About.Common</name>
@@ -2500,6 +2515,53 @@ Pull down to visit telegram.org</source>
     <message>
         <source>Your contributions to translations or code would be most welcome.</source>
         <translation>Kodbidrag eller översättningar är väldigt välkommet.</translation>
+    </message>
+</context>
+<context>
+    <name>Opal.LinkHandler</name>
+    <message>
+        <source>Copied to clipboard: %1</source>
+        <translation>Kopierat till urklipp: %1</translation>
+    </message>
+    <message>
+        <source>Share link</source>
+        <translation>Dela länk</translation>
+    </message>
+    <message>
+        <source>Phone number</source>
+        <translation>Telefonnummer</translation>
+    </message>
+    <message>
+        <source>External link</source>
+        <translation>Extern länk</translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <translation>Öppna i webbläsare</translation>
+    </message>
+    <message>
+        <source>Open externally</source>
+        <translation>Öppna externt</translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation>Dela</translation>
+    </message>
+    <message>
+        <source>Copy link</source>
+        <translation>Kopiera länk</translation>
+    </message>
+    <message>
+        <source>Copy text</source>
+        <translation>Kopiera text</translation>
+    </message>
+    <message>
+        <source>No preview available.</source>
+        <translation>Ingen förhandsvisning tillgänglig.</translation>
+    </message>
+    <message>
+        <source>The page is taking too long to load.</source>
+        <translation>Sidan tar för lång tid att läsa in.</translation>
     </message>
 </context>
 <context>
@@ -2775,7 +2837,7 @@ Pull down to visit telegram.org</source>
     <message>
         <source>Copy link</source>
         <comment>proxy</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kopiera länk</translation>
     </message>
     <message>
         <source>Proxy List copied to clipboard</source>
