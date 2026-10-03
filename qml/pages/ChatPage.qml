@@ -414,12 +414,7 @@ Page {
 
                 Item {
                     id: searchInChatItem
-                    parent: chatHeader.container
-                    width: chatHeader.textContainer.width
-                    anchors {
-                        bottom: parent.bottom
-                        //bottomMargin: chatHeader.textContainer.anchors.bottomMargin
-                    }
+                    width: parent.width - Theme.paddingLarge
                     visible: false
                     opacity: visible ? 1 : 0
                     Behavior on opacity { FadeAnimator {} }
