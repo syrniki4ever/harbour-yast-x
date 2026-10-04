@@ -25,12 +25,12 @@ AnimatedLoader {
             width: parent.width
             contentHeight: Theme.itemSizeSmall
 
+            readonly property bool isPhoto: message.content['@type'] === 'messagePhoto'
             pictureThumbnailItem.height: height - 2*Theme.paddingSmall
             pictureThumbnail {
                 accentColorId: message.accent_color_id
-                photoData: message.content['@type'] === 'messagePhoto'
-                            ? utilities.findPhotoSize(message.photo.sizes, pictureThumbnail.width)
-                            : null
+                minithumbnail: isPhoto ? message.photo.minithumbnail : null
+                photoData: isPhoto ? utilities.findPhotoSize(message.photo.sizes, pictureThumbnail.width) : null
             }
 
             ad: true
