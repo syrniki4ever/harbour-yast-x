@@ -1,4 +1,4 @@
-//@ SPDX-FileCopyrightText: 2024-present roundedrectangle
+//@ SPDX-FileCopyrightText: 2025-present roundedrectangle
 //@ SPDX-License-Identifier: GPL-3.0-or-later
 
 import QtQuick 2.0
@@ -26,9 +26,12 @@ AnimatedLoader {
             contentHeight: Theme.itemSizeSmall
 
             pictureThumbnailItem.height: height - 2*Theme.paddingSmall
-            pictureThumbnail.photoData: message.content['@type'] === 'messagePhoto'
-                                        ? utilities.findPhotoSize(message.photo.sizes, pictureThumbnail.width)
-                                        : null
+            pictureThumbnail {
+                accentColorId: message.accent_color_id
+                photoData: message.content['@type'] === 'messagePhoto'
+                            ? utilities.findPhotoSize(message.photo.sizes, pictureThumbnail.width)
+                            : null
+            }
 
             ad: true
             primaryText.text: message.title ? Emoji.emojify(utilities.escapeHtml(message.title), Theme.fontSizeSmall) : qsTr("Unknown")
