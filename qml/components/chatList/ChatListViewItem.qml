@@ -32,9 +32,9 @@ MessageableListItem {
     }
 
     titleText: isSavedMessages ? qsTr("Saved Messages") : title
-    previewText: chat_actions_text || (showDraft ? draft_message_text : lastMessageText)
+    previewText: chat_actions_text || (showDraft ? draft_message_text : last_message_text)
     hideDraft: chat_actions_text
-    hideAuthor: chat_actions_text || is_channel || chat_type == TDLibAPI.ChatTypePrivate || chat_type == TDLibAPI.ChatTypeSecret
+    hideAuthor: chat_actions_text || is_channel || ((chat_type == TDLibAPI.ChatTypePrivate || chat_type == TDLibAPI.ChatTypeSecret) && !last_message_is_service)
     showSendingState: !is_channel && !isSavedMessages
 
     // TODO: show unread topic count here
