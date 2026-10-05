@@ -4,7 +4,8 @@
 import QtQuick 2.0
 import Sailfish.Silica 1.0
 import io.yaqtlib 1.0
-import '..'
+import ".."
+import "../tdlib"
 import "../../js/twemoji.js" as Emoji
 import "../../js/functions.js" as Functions
 
@@ -36,7 +37,13 @@ AnimatedLoader {
             ad: true
             primaryText.text: message.title ? Emoji.emojify(utilities.escapeHtml(message.title), Theme.fontSizeSmall) : qsTr("Unknown")
             primaryText.font.pixelSize: Theme.fontSizeSmall
-            secondaryText.text: Emoji.emojify(utilities.getMessageContentText(message.content, Utilities.MessageTextDefault), Theme.fontSizeExtraSmall)
+
+            TDLibFormattedText {
+                id: contentText
+                formattedText: utilities.getMessageContentFormattedText(message.content)
+                emojiSize: Theme.fontSizeExtraSmall
+            }
+            secondaryText.text: contentText.text
 
             onClicked: {
                 tdLibWrapper.clickChatSponsoredMessage(chatId, message.message_id)

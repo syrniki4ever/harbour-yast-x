@@ -732,7 +732,7 @@ Column {
                 function editMessage() {
                     newMessageColumn.editMessageId = model.message_id
                     newMessageColumn.editIsCaption = !!model.display && !!model.display.content && !!model.display.content.caption
-                    newMessageTextField.text = utilities.getMessageText(model.display, Utilities.MessageTextDefault, true, false)
+                    newMessageTextField.text = tdLibWrapper.getMarkdownText(utilities.getMessageContentFormattedText(model.display.content)).text
                     newMessageTextField.cursorPosition = newMessageTextField.text.length
                     newMessageTextField.focus = true
                 }

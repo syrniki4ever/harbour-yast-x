@@ -44,7 +44,7 @@ MessageListViewItemBase {
                 anchors.centerIn: parent
                 padding: Theme.paddingMedium
                 text: Emoji.emojify('<a style="text-decoration: none; font-weight: bold; color: %1" href="openSender">%2</a> '.arg(Theme.secondaryHighlightColor).arg(messageSenderInfo.title)
-                                    + utilities.getMessageText(myMessage, topicId ? Utilities.MessageTextSimpleInForumTopic : Utilities.MessageTextSimple, false, true, forumTopicName),
+                                    + utilities.getServiceMessageText(myMessage, forumTopicName, isForumTopic),
                                     font.pixelSize)
                 color: Theme.highlightColor
                 font.pixelSize: Theme.fontSizeExtraSmall

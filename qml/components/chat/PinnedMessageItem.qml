@@ -4,9 +4,10 @@
 import QtQuick 2.6
 import Sailfish.Silica 1.0
 import io.yaqtlib 1.0
-import '..'
-import '../../js/twemoji.js' as Emoji
-import '../../js/debug.js' as Debug
+import ".."
+import "../tdlib"
+import "../../js/twemoji.js" as Emoji
+import "../../js/debug.js" as Debug
 
 Item {
     id: root
@@ -295,7 +296,13 @@ Item {
                     // TODO: media minithumbnail
                     Label {
                         width: parent.width
-                        text: Emoji.emojify(utilities.getMessageText(pinnedMessageItem.messageData, Utilities.MessageTextSimple, true), font.pixelSize)
+                        TDLibFormattedText {
+                            id: contentText
+                            messageData: pinnedMessageItem.messageData
+                            messageType: Utilities.MessageTextSimple
+                            emojiSize: Theme.fontSizeExtraSmall
+                        }
+                        text: contentText.text
                         font.pixelSize: Theme.fontSizeExtraSmall
                         color: highlighted ? Theme.highlightColor : Theme.primaryColor
                         truncationMode: TruncationMode.Fade

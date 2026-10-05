@@ -232,9 +232,9 @@ Loader {
                     icon.source: "image://theme/icon-m-clipboard"
                     visible: canCopy
                     onClicked:
-                        Clipboard.text = messageData.isAlbum
-                                            ? utilities.getAlbumMessagesText(messageData.messageAlbumMessages, false, Utilities.MessageTextDefault, true, false)
-                                            : utilities.getMessageText(message, Utilities.MessageTextDefault, true, false)
+                        Clipboard.text = utilities.getMessageText(
+                                            messageData.isAlbum ? utilities.getMainAlbumMessage(messageData.messageAlbumMessages, false) : message,
+                                            Utilities.MessageTextDefault, true, false)
                 }
                 IconRowMenuItem {
                     visible: !!messageProperties.can_be_pinned // FIXME: should we use enabled or visible here? for spatial memory

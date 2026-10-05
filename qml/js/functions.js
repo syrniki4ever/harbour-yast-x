@@ -24,10 +24,6 @@ function formatUnreadCount(value) {
     return ''+Math.floor(value / 1000)+'k'+((value % 1000)>0 ? '+' : '');
 }
 
-function getMessageText(message, simple, currentUserId, ignoreEntities, asFormattedText, emojiSize) {
-    return utilities.getMessageText(message, simple ? Yaqt.Utilities.MessageTextSimple : Yaqt.Utilities.MessageTextDefault, ignoreEntities)
-}
-
 function getChatPartnerStatusText(statusType, wasOnline, isSupport, userId, asTimepoint) {
     if (isSupport) return userId === tdData.options.telegram_service_notifications_chat_id
                    ? qsTr("service notifications", "used as a status for the service notifications chat")

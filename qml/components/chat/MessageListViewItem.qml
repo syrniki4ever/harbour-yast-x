@@ -337,7 +337,25 @@ MessageListViewItemBase {
                     Text {
                         id: messageText
                         width: parent.width
-                        text: Emoji.emojify(isAlbum ? utilities.getAlbumMessagesText(messageAlbumMessages) : utilities.getMessageText(myMessage), font.pixelSize)
+
+                        TDLibFormattedText {
+                            id: contentText
+                            messageData: isAlbum ? utilities.getMainAlbumMessage(messageAlbumMessages) : myMessage
+                            emojiSize: messageText.font.pixelSize
+                        }
+                        text: {
+                            if (!contentText.messageData || !contentText.messageData.content) return ''
+
+                            // Handle some special types
+                            switch (contentText.messageData.content['@type']) {
+                            case 'messageVenue':
+                                var venue = contentText.messageData.content.venue || {}
+                                return '<b>' + (venue.title || '') + '</b>, ' + (venue.address || '');
+                            }
+
+                            return contentText.text
+                        }
+
                         font.pixelSize: Theme.fontSizeSmall
                         color: messageListItem.textColor
                         wrapMode: Text.Wrap

@@ -8,21 +8,26 @@ import "../../js/twemoji.js" as Emoji
 
 QtObject {
     id: root
-    // FIXME: even when setting ownership to JavascriptOwnership
-    // makes the FormattedText object destroy only after the whole app is closed
-    // We're setting a parent explicitly now as a workaround, but generally, it should destroy without it too
 
     property var formattedText
     property bool ignoreCustomEmoji
     property real emojiSize: Theme.fontSizeSmall
 
-    property var textObject: utilities.createFormattedText(formattedText, ignoreCustomEmoji)
+    property var messageData
+    property int messageType: Utilities.MessageTextDefault
+    property string forumTopicName
+
+    property var textObject: {
+        if (formattedText) return utilities.createFormattedText(formattedText, ignoreCustomEmoji)
+        if (messageData) return utilities.getMessageFormattedText(messageData, messageType, ignoreCustomEmoji, forumTopicName)
+    }
 
     property bool emojifyNormal: true
     property string text: textObject ? (emojifyNormal ? Emoji.emojify(textObject.parsedText, emojiSize) : textObject.parsedText) : null
 
     property Binding _sizeBinding: Binding {
         target: textObject
+        when: !!textObject
         property: 'customEmojiSize'
         value: Emoji.getEmojiSize(emojiSize)
     }

@@ -5,6 +5,7 @@
 import QtQuick 2.6
 import Sailfish.Silica 1.0
 import io.yaqtlib 1.0
+import "../tdlib"
 import "../../js/functions.js" as Functions
 import "../../js/twemoji.js" as Emoji
 
@@ -14,25 +15,11 @@ Row {
     width: parent.width
     height: inReplyToMessageColumn.height
 
-    property var inReplyToMessage;
-    property bool editable: false;
-    property bool inReplyToMessageDeleted: false;
+    property var inReplyToMessage
+    property bool editable
+    property bool inReplyToMessageDeleted // TODO: update the value of this (create TDLibMessage or something with updates handling)
 
     signal clearRequested()
-
-    onInReplyToMessageChanged: {
-        if (inReplyToMessage) {
-            inReplyToUserText.text = (inReplyToMessage.sender_id["@type"] === "messageSenderChat" ? page.chatInformation.title : (inReplyToRow.inReplyToMessage.sender_id.user_id !== tdData.myUserId) ? Emoji.emojify(utilities.getUserName(tdData.getUserInformation(inReplyToRow.inReplyToMessage.sender_id.user_id)), inReplyToUserText.font.pixelSize) : qsTr("You"));
-            inReplyToMessageText.text = Emoji.emojify(utilities.getMessageText(inReplyToRow.inReplyToMessage, Utilities.MessageTextSimple), inReplyToMessageText.font.pixelSize);
-        }
-    }
-
-    onInReplyToMessageDeletedChanged: {
-        if (inReplyToMessageDeleted) {
-            inReplyToUserText.text = qsTr("Unknown")
-            inReplyToMessageText.text = "<i>" + qsTr("This message was deleted") + "</i>";
-        }
-    }
 
     Rectangle {
         id: inReplyToMessageRectangle
@@ -61,6 +48,8 @@ Row {
                 truncationMode: TruncationMode.Fade
                 textFormat: Text.StyledText
                 horizontalAlignment: Text.AlignLeft
+
+                text: inReplyToMessageDeleted ? qsTr("Unknown") : (inReplyToMessage.sender_id.user_id === tdData.myUserId ? qsTr("You") : utilities.formatMessageSender(inReplyToMessage.sender_id))
             }
 
             Label {
@@ -70,6 +59,15 @@ Row {
                 textFormat: Text.StyledText
                 truncationMode: TruncationMode.Fade
                 maximumLineCount: 1
+
+                TDLibFormattedText {
+                    id: contentText
+                    messageData: inReplyToMessageDeleted ? null : inReplyToMessage
+                    messageType: Utilities.MessageTextDefault
+                    emojiSize: inReplyToMessageText.font.pixelSize
+                }
+                text: inReplyToMessageDeleted ? ('<i>' + qsTr("This message was deleted") + '</i>') : contentText.text
+
                 linkColor: palette.highlightColor
                 onLinkActivated: messagesView.handleLink(link)
             }
