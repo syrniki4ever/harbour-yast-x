@@ -15,7 +15,7 @@ See [here](doc/translating.md) for additional notes on translating YAST.
 
 ### Fernschreiber
 
-YAST wouldn't be possible without everyone who contributed to Fernschreiber. You can see the full, up-to-date list of contributors on [Fernschreiber's README](https://github.com/Wunderfitz/harbour-fernschreiber/blob/master/README.md). A brief list of Fernschreiber contributors is available [here](doc/fernschreiber-credits.md).
+This project was originally a set of PRs to be sent to Fernschreiber. However, after seeing many other PRs waiting for approval after more than a year has passed since the submission, I decided to make it its own thing. Still, YAST wouldn't be possible without everyone who contributed to Fernschreiber. The list is too long to be included here, and was moved to [a separate document](doc/fernschreiber-credits.md).
 
 ### Libraries
 
@@ -52,7 +52,7 @@ YAST Client depends on TDLib and WebRTC libraries, which are heavy. For your con
 Some YAST features are not harbour-compatible. In the harbour version, they can be stripped out by changing the `HARBOUR_COMPLIANCE` value to `on` in the SPEC file. Currently, such features include:
 
 1. Audio recording backend based on the GStreamer C API
-2. Calls (see above)
+2. Calls (see [here](doc/libraries.md))
 3. Contact sync (see notes in [ContactSync.qml](qml/components/ContactSync.qml) for more info)
 
 ### Github Action
