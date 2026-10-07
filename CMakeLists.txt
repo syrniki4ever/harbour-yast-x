@@ -97,7 +97,7 @@ elseif (TARGET_ARCHITECTURE STREQUAL i486)
 endif()
 add_subdirectory(lottieqt)
 
-add_executable(${CMAKE_PROJECT_NAME} src/${CMAKE_PROJECT_NAME}.cpp)
+add_executable(${CMAKE_PROJECT_NAME} src/main.cpp)
 target_compile_definitions(${CMAKE_PROJECT_NAME} PRIVATE
     $<$<OR:$<CONFIG:Debug>,$<CONFIG:RelWithDebInfo>>:QT_QML_DEBUG>
 )
@@ -121,7 +121,7 @@ target_link_libraries(${CMAKE_PROJECT_NAME}
     LottieQt
 )
 target_sources(${CMAKE_PROJECT_NAME} PRIVATE
-    src/${CMAKE_PROJECT_NAME}.cpp
+    src/main.cpp
     src/voicenoterecorder.cpp
     src/mynotificationmanager.cpp
 )
